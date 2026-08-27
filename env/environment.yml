@@ -1,0 +1,20 @@
+name: auto-atc-v2
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - cudatoolkit=11.3
+  - cudnn=8.2.0
+  - uv
+  - pip
+  - p7zip
+  - zip
+  - unzip
+  - unrar
+  - ocl-icd-system
+  - ffmpeg
+  - mscorefonts
+  - cartopy

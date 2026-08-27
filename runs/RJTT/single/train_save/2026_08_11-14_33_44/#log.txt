@@ -1,0 +1,421 @@
+2026-08-11 14:33:45 - core.utils - INFO - vars(cfg) = {'packed_folder': '../save/rjtt-s-v1.4/packed/2026_08_10-10_27_09/', 'save_folder': '../save/rjtt-s-v1.4/train_save//2026_08_11-14_33_44', 'seed': 12345, 'num_epochs': 200, 'inf_per_num_epochs': 20, 'save_ckpt_per_num_epochs': 20, 'batch_size': 1500, 'inf_batch_size': 15000, 'out_mode': 'original', 'diffuser': 'ddim', 'model_key_nargs': ['L_04', 'x_on'], 'opt_key_nargs': ['opt_1e-3'], 'cold_inf': True}
+2026-08-11 14:33:45 - core.utils - INFO - vars(s_cfg) = {'data_folder': '/mnt/nvme0n1/ping/opensky_save/RJTT/2024-07-24_2024-07-31/', 'save_folder': '../save/rjtt-s-v1.4/sampled//2026_08_07-16_47_13', 'mode': 'single', 'seed': 12345, 'sampling_probability': 1.0, 'icao': 'RJTT', 'only_ifr': False, 'idx_step': 10, 'past_len': 30, 'future_len': 15, 'max_num_aircraft': 40}
+2026-08-11 14:33:45 - core.utils - INFO - vars(p_cfg) = {'sample_folder': '../save/rjtt-s-v1.4/sampled/2026_08_07-16_47_13/', 'save_folder': '../save/rjtt-s-v1.4/packed//2026_08_10-10_27_09', 'seed': 12345, 'sampling_probability': 0.5}
+2026-08-11 14:33:45 - core.utils - INFO - mmn.norm = {'y': (-156040.578125, 133063.640625), 'x': (-84231.28125, 191686.03125), 'altitude': (200.0, 42850.0), 'speed': (115.0, 1320.0), 'd1_y': (-156040.578125, 133063.640625), 'd1_x': (-84231.28125, 191686.03125), 'd1_altitude': (-14650.0, 42850.0), 'd2_y': (-156040.578125, 158186.78125), 'd2_x': (-194296.078125, 191686.03125), 'd2_altitude': (-54300.0, 42850.0), 's_y': (-38367.2734375, 31682.765625), 's_x': (-35991.234375, 36023.05859375), 's_altitude': (-12050.0, 6000.0)}
+2026-08-11 14:33:45 - core.utils - INFO - msn.norm = {'y': (-29957.306640625, 56718.765625), 'x': (10972.044921875, 37762.91015625), 'altitude': (11196.72265625, 6239.189453125), 'speed': (282.2393493652344, 79.05220031738281), 'd1_y': (13.88099193572998, 7525.23291015625), 'd1_x': (39.433231353759766, 5727.6962890625), 'd1_altitude': (7.868924617767334, 1572.3466796875), 'd2_y': (9.86531925201416, 10530.2001953125), 'd2_x': (4.423693656921387, 8012.49755859375), 'd2_altitude': (-4.100677013397217, 2207.59765625), 's_y': (3368.12548828125, 7577.51025390625), 's_x': (1969.2894287109375, 8586.4814453125), 's_altitude': (-1072.5264892578125, 986.1925048828125)}
+2026-08-11 14:33:46 - core.utils - INFO - 
+peta-hash                            Tue Aug 11 14:33:46 2026  560.35.03
+[0] NVIDIA GeForce RTX 4070 Ti SUPER | 59°C,  37 %,  25 % (E:   0 %  D:   0 %),  107 / 285 W |  4101 / 16376 MB |
+[1] NVIDIA GeForce RTX 4070 Ti SUPER | 29°C,  30 %,   0 % (E:   0 %  D:   0 %),    8 / 285 W |   406 / 16376 MB |
+[2] NVIDIA GeForce RTX 4070 Ti SUPER | 36°C,  31 %,   1 % (E:   0 %  D:   0 %),   28 / 285 W |   619 / 16376 MB |
+[3] NVIDIA GeForce RTX 4070 Ti SUPER | 39°C,  32 %,   0 % (E:   0 %  D:   0 %),   46 / 285 W | 11439 / 16376 MB |
+[4] NVIDIA GeForce RTX 4070 Ti SUPER | 27°C,  32 %,   0 % (E:   0 %  D:   0 %),    3 / 285 W |   406 / 16376 MB |
+[5] NVIDIA GeForce RTX 4070 Ti SUPER | 31°C,  31 %,   0 % (E:   0 %  D:   0 %),   23 / 285 W |   619 / 16376 MB |
+[6] NVIDIA GeForce RTX 4070 Ti SUPER | 54°C,  34 %,  18 % (E:   0 %  D:   0 %),   78 / 285 W |  5377 / 16376 MB |
+[7] NVIDIA GeForce RTX 4070 Ti SUPER | 46°C,  32 %,   0 % (E:   0 %  D:   0 %),   59 / 285 W |  5377 / 16376 MB |
+
+2026-08-11 14:33:46 - core.utils - INFO - world_size = 3 _batch_size = 500 _i_batch_size = 5000
+2026-08-11 14:33:47 - core.utils - INFO - TrajGen_Single(
+  (c_pos_enc): ContinuousPositionalEncoding(
+    (sequential): Sequential(
+      (0): Linear(in_features=396, out_features=396, bias=True)
+      (1): SiLU()
+      (2): Linear(in_features=396, out_features=396, bias=True)
+    )
+    (dropout): Dropout(p=0.0, inplace=False)
+  )
+  (rwy_emb): Embedding(9, 64, padding_idx=0)
+  (rwy_order_emb): Embedding(41, 64, padding_idx=0)
+  (is_ifr_emb): Embedding(3, 64, padding_idx=0)
+  (model_type_emb): Embedding(21, 64, padding_idx=0)
+  (other_in_proj): Sequential(
+    (0): Linear(in_features=12, out_features=64, bias=True)
+    (1): SiLU()
+    (2): Linear(in_features=64, out_features=64, bias=True)
+  )
+  (enc_in_proj): Sequential(
+    (0): Linear(in_features=12, out_features=64, bias=True)
+    (1): SiLU()
+    (2): Linear(in_features=64, out_features=64, bias=True)
+  )
+  (dec_in_proj): Sequential(
+    (0): Linear(in_features=3, out_features=64, bias=True)
+    (1): SiLU()
+    (2): Linear(in_features=64, out_features=64, bias=True)
+  )
+  (out_proj): Sequential(
+    (0): Linear(in_features=64, out_features=64, bias=True)
+    (1): SiLU()
+    (2): Linear(in_features=64, out_features=3, bias=True)
+  )
+  (o_enc): TrajEncBlock(
+    (pos_enc): DiscretePositionalEncoding(
+      (sequential): Sequential(
+        (0): Linear(in_features=64, out_features=64, bias=True)
+        (1): SiLU()
+        (2): Linear(in_features=64, out_features=64, bias=True)
+      )
+      (dropout): Dropout(p=0.0, inplace=False)
+    )
+    (blocks): ModuleList(
+      (0-3): 4 x EncoderLayer(
+        (sa): MultiheadAttention(
+          (q_proj): Linear(in_features=64, out_features=64, bias=True)
+          (k_proj): Linear(in_features=64, out_features=64, bias=True)
+          (v_proj): Linear(in_features=64, out_features=64, bias=True)
+          (out_proj): Linear(in_features=64, out_features=64, bias=True)
+          (dropout): Dropout(p=0.0, inplace=False)
+        )
+        (ff): Sequential(
+          (0): Linear(in_features=64, out_features=1024, bias=True)
+          (1): GELU(approximate='tanh')
+          (2): Linear(in_features=1024, out_features=64, bias=True)
+        )
+        (sa_norm): LayerNorm((64,), eps=1e-05, elementwise_affine=True)
+        (ff_norm): LayerNorm((64,), eps=1e-05, elementwise_affine=True)
+        (sa_dropout): Dropout(p=0.0, inplace=False)
+        (ff_dropout): Dropout(p=0.0, inplace=False)
+      )
+    )
+    (norm): LayerNorm((64,), eps=1e-05, elementwise_affine=True)
+  )
+  (enc): TrajEncBlock(
+    (pos_enc): DiscretePositionalEncoding(
+      (sequential): Sequential(
+        (0): Linear(in_features=64, out_features=64, bias=True)
+        (1): SiLU()
+        (2): Linear(in_features=64, out_features=64, bias=True)
+      )
+      (dropout): Dropout(p=0.0, inplace=False)
+    )
+    (blocks): ModuleList(
+      (0-3): 4 x EncoderLayer(
+        (sa): MultiheadAttention(
+          (q_proj): Linear(in_features=64, out_features=64, bias=True)
+          (k_proj): Linear(in_features=64, out_features=64, bias=True)
+          (v_proj): Linear(in_features=64, out_features=64, bias=True)
+          (out_proj): Linear(in_features=64, out_features=64, bias=True)
+          (dropout): Dropout(p=0.0, inplace=False)
+        )
+        (ff): Sequential(
+          (0): Linear(in_features=64, out_features=1024, bias=True)
+          (1): GELU(approximate='tanh')
+          (2): Linear(in_features=1024, out_features=64, bias=True)
+        )
+        (sa_norm): LayerNorm((64,), eps=1e-05, elementwise_affine=True)
+        (ff_norm): LayerNorm((64,), eps=1e-05, elementwise_affine=True)
+        (sa_dropout): Dropout(p=0.0, inplace=False)
+        (ff_dropout): Dropout(p=0.0, inplace=False)
+      )
+    )
+    (norm): LayerNorm((64,), eps=1e-05, elementwise_affine=True)
+  )
+  (dec): TrajDecBlock(
+    (pos_enc): DiscretePositionalEncoding(
+      (sequential): Sequential(
+        (0): Linear(in_features=64, out_features=64, bias=True)
+        (1): SiLU()
+        (2): Linear(in_features=64, out_features=64, bias=True)
+      )
+      (dropout): Dropout(p=0.0, inplace=False)
+    )
+    (blocks): ModuleList(
+      (0-3): 4 x DecoderLayer(
+        (sa): MultiheadAttention(
+          (q_proj): Linear(in_features=64, out_features=64, bias=True)
+          (k_proj): Linear(in_features=64, out_features=64, bias=True)
+          (v_proj): Linear(in_features=64, out_features=64, bias=True)
+          (out_proj): Linear(in_features=64, out_features=64, bias=True)
+          (dropout): Dropout(p=0.0, inplace=False)
+        )
+        (ca): MultiheadAttention(
+          (q_proj): Linear(in_features=64, out_features=64, bias=True)
+          (k_proj): Linear(in_features=64, out_features=64, bias=True)
+          (v_proj): Linear(in_features=64, out_features=64, bias=True)
+          (out_proj): Linear(in_features=64, out_features=64, bias=True)
+          (dropout): Dropout(p=0.0, inplace=False)
+        )
+        (ff): Sequential(
+          (0): Linear(in_features=64, out_features=1024, bias=True)
+          (1): GELU(approximate='tanh')
+          (2): Linear(in_features=1024, out_features=64, bias=True)
+        )
+        (sa_norm): LayerNorm((64,), eps=1e-05, elementwise_affine=True)
+        (ca_norm): LayerNorm((64,), eps=1e-05, elementwise_affine=True)
+        (ff_norm): LayerNorm((64,), eps=1e-05, elementwise_affine=True)
+        (sa_dropout): Dropout(p=0.0, inplace=False)
+        (ca_dropout): Dropout(p=0.0, inplace=False)
+        (ff_dropout): Dropout(p=0.0, inplace=False)
+        (adaLN_seq): AdaLN(
+          (adaLN_seq): Sequential(
+            (0): Linear(in_features=396, out_features=576, bias=True)
+            (1): SiLU()
+            (2): Linear(in_features=576, out_features=576, bias=True)
+          )
+        )
+      )
+    )
+    (norm): LayerNorm((64,), eps=1e-05, elementwise_affine=True)
+  )
+)
+2026-08-11 14:33:48 - core.utils - INFO - {'lr': 0.001, 'weight_decay': 0.01}
+2026-08-11 14:34:07 - core.utils - INFO - len(train_ds) = 2308087 len(val_ds) = 659453
+2026-08-11 14:34:09 - core.utils - INFO - len(train_dl) = 1539 len(val_dl) = 440
+2026-08-11 14:34:09 - core.utils - INFO - len(inf_train_dl) = 154 len(inf_val_dl) = 44
+2026-08-11 14:34:11 - core.utils - INFO - 
+peta-hash                            Tue Aug 11 14:34:11 2026  560.35.03
+[0] NVIDIA GeForce RTX 4070 Ti SUPER | 57°C,  37 %,  29 % (E:   0 %  D:   0 %),  110 / 285 W |  4101 / 16376 MB |
+[1] NVIDIA GeForce RTX 4070 Ti SUPER | 32°C,  30 %,  44 % (E:   0 %  D:   0 %),   41 / 285 W |   805 / 16376 MB |
+[2] NVIDIA GeForce RTX 4070 Ti SUPER | 37°C,  31 %,   0 % (E:   0 %  D:   0 %),   25 / 285 W |   805 / 16376 MB |
+[3] NVIDIA GeForce RTX 4070 Ti SUPER | 36°C,  32 %,   0 % (E:   0 %  D:   0 %),    6 / 285 W | 11439 / 16376 MB |
+[4] NVIDIA GeForce RTX 4070 Ti SUPER | 27°C,  31 %,   0 % (E:   0 %  D:   0 %),    3 / 285 W |   406 / 16376 MB |
+[5] NVIDIA GeForce RTX 4070 Ti SUPER | 33°C,  31 %,   0 % (E:   0 %  D:   0 %),   50 / 285 W |   805 / 16376 MB |
+[6] NVIDIA GeForce RTX 4070 Ti SUPER | 53°C,  34 %,  32 % (E:   0 %  D:   0 %),   93 / 285 W |  5377 / 16376 MB |
+[7] NVIDIA GeForce RTX 4070 Ti SUPER | 47°C,  32 %,  18 % (E:   0 %  D:   0 %),   77 / 285 W |  5377 / 16376 MB |
+
+2026-08-11 14:44:52 - core.utils - INFO - round: 000000/000200; itl: 1.29553 59674.28906 62359.14453 15918.20117 51.94358, ivl: 1.25465 60840.78125 59230.48438 15573.37109 51.17101, t2: 633.30118. 
+2026-08-11 14:44:54 - core.utils - INFO - 
+peta-hash                            Tue Aug 11 14:44:53 2026  560.35.03
+[0] NVIDIA GeForce RTX 4070 Ti SUPER | 65°C,  39 %,  36 % (E:   0 %  D:   0 %),  135 / 285 W |  4101 / 16376 MB |
+[1] NVIDIA GeForce RTX 4070 Ti SUPER | 56°C,  40 %,   0 % (E:   0 %  D:   0 %),   66 / 285 W | 13963 / 16376 MB |
+[2] NVIDIA GeForce RTX 4070 Ti SUPER | 64°C,  43 %,   0 % (E:   0 %  D:   0 %),   73 / 285 W | 13963 / 16376 MB |
+[3] NVIDIA GeForce RTX 4070 Ti SUPER | 50°C,  33 %,   0 % (E:   0 %  D:   0 %),   48 / 285 W | 11439 / 16376 MB |
+[4] NVIDIA GeForce RTX 4070 Ti SUPER | 30°C,  32 %,   0 % (E:   0 %  D:   0 %),    3 / 285 W |   406 / 16376 MB |
+[5] NVIDIA GeForce RTX 4070 Ti SUPER | 63°C,  42 %,   0 % (E:   0 %  D:   0 %),  100 / 285 W | 13963 / 16376 MB |
+[6] NVIDIA GeForce RTX 4070 Ti SUPER | 54°C,  34 %,  30 % (E:   0 %  D:   0 %),  107 / 285 W |  5377 / 16376 MB |
+[7] NVIDIA GeForce RTX 4070 Ti SUPER | 54°C,  34 %,  33 % (E:   0 %  D:   0 %),   99 / 285 W |  5377 / 16376 MB |
+
+2026-08-11 14:52:56 - core.utils - INFO - round: 000001/000200; tl: 0.03775, vl: 0.00889, t1: 480.23808; 
+2026-08-11 14:52:57 - core.utils - INFO - 
+peta-hash                            Tue Aug 11 14:52:57 2026  560.35.03
+[0] NVIDIA GeForce RTX 4070 Ti SUPER | 63°C,  38 %,  49 % (E:   0 %  D:   0 %),  104 / 285 W |  4101 / 16376 MB |
+[1] NVIDIA GeForce RTX 4070 Ti SUPER | 50°C,  36 %,   0 % (E:   0 %  D:   0 %),   63 / 285 W | 14015 / 16376 MB |
+[2] NVIDIA GeForce RTX 4070 Ti SUPER | 59°C,  40 %,   0 % (E:   0 %  D:   0 %),   72 / 285 W | 14017 / 16376 MB |
+[3] NVIDIA GeForce RTX 4070 Ti SUPER | 45°C,  33 %,   0 % (E:   0 %  D:   0 %),    7 / 285 W | 11439 / 16376 MB |
+[4] NVIDIA GeForce RTX 4070 Ti SUPER | 29°C,  32 %,   0 % (E:   0 %  D:   0 %),    3 / 285 W |   406 / 16376 MB |
+[5] NVIDIA GeForce RTX 4070 Ti SUPER | 54°C,  38 %,   0 % (E:   0 %  D:   0 %),   74 / 285 W | 14015 / 16376 MB |
+[6] NVIDIA GeForce RTX 4070 Ti SUPER | 53°C,  34 %,  21 % (E:   0 %  D:   0 %),   91 / 285 W |  5377 / 16376 MB |
+[7] NVIDIA GeForce RTX 4070 Ti SUPER | 55°C,  34 %,   0 % (E:   0 %  D:   0 %),   57 / 285 W |  5377 / 16376 MB |
+
+2026-08-11 15:00:40 - core.utils - INFO - round: 000002/000200; tl: 0.01049, vl: 0.00847, t1: 461.88335; 
+2026-08-11 15:08:28 - core.utils - INFO - round: 000003/000200; tl: 0.00895, vl: 0.00794, t1: 461.94195; 
+2026-08-11 15:16:01 - core.utils - INFO - round: 000004/000200; tl: 0.00832, vl: 0.00790, t1: 449.62571; 
+2026-08-11 15:24:02 - core.utils - INFO - round: 000005/000200; tl: 0.00758, vl: 0.00766, t1: 471.99373; 
+2026-08-11 15:32:23 - core.utils - INFO - round: 000006/000200; tl: 0.00704, vl: 0.00606, t1: 494.54842; 
+2026-08-11 15:40:23 - core.utils - INFO - round: 000007/000200; tl: 0.00689, vl: 0.00665, t1: 469.27666; 
+2026-08-11 15:48:37 - core.utils - INFO - round: 000008/000200; tl: 0.00650, vl: 0.00542, t1: 493.88703; 
+2026-08-11 15:56:53 - core.utils - INFO - round: 000009/000200; tl: 0.00610, vl: 0.00536, t1: 492.61576; 
+2026-08-11 16:04:49 - core.utils - INFO - round: 000010/000200; tl: 0.00589, vl: 0.00607, t1: 475.13983; 
+2026-08-11 16:13:16 - core.utils - INFO - round: 000011/000200; tl: 0.00561, vl: 0.00604, t1: 496.41767; 
+2026-08-11 16:21:09 - core.utils - INFO - round: 000012/000200; tl: 0.00545, vl: 0.00600, t1: 468.75778; 
+2026-08-11 16:29:10 - core.utils - INFO - round: 000013/000200; tl: 0.00514, vl: 0.00576, t1: 474.26970; 
+2026-08-11 16:37:01 - core.utils - INFO - round: 000014/000200; tl: 0.00503, vl: 0.00526, t1: 464.68664; 
+2026-08-11 16:45:03 - core.utils - INFO - round: 000015/000200; tl: 0.00495, vl: 0.00575, t1: 478.73788; 
+2026-08-11 16:53:09 - core.utils - INFO - round: 000016/000200; tl: 0.00486, vl: 0.00517, t1: 480.96786; 
+2026-08-11 17:00:42 - core.utils - INFO - round: 000017/000200; tl: 0.00478, vl: 0.00502, t1: 452.65006; 
+2026-08-11 17:08:14 - core.utils - INFO - round: 000018/000200; tl: 0.00473, vl: 0.00520, t1: 451.67507; 
+2026-08-11 17:15:48 - core.utils - INFO - round: 000019/000200; tl: 0.00452, vl: 0.00431, t1: 452.52529; 
+2026-08-11 17:33:43 - core.utils - INFO - round: 000020/000200; tl: 0.00447, vl: 0.00497, t1: 442.53819; itl: 0.00061 1010.14404 947.23267 283.39145 0.82966, ivl: 0.00072 1015.26221 947.45697 307.69064 0.83230, t2: 632.58346. 
+2026-08-11 17:33:45 - core.utils - INFO - 
+peta-hash                            Tue Aug 11 17:33:45 2026  560.35.03
+[0] NVIDIA GeForce RTX 4070 Ti SUPER | 73°C,  41 %,  58 % (E:   0 %  D:   0 %),  170 / 285 W |  4101 / 16376 MB |
+[1] NVIDIA GeForce RTX 4070 Ti SUPER | 59°C,  40 %,   0 % (E:   0 %  D:   0 %),  154 / 285 W | 14017 / 16376 MB |
+[2] NVIDIA GeForce RTX 4070 Ti SUPER | 65°C,  44 %,   0 % (E:   0 %  D:   0 %),   74 / 285 W | 14017 / 16376 MB |
+[3] NVIDIA GeForce RTX 4070 Ti SUPER | 50°C,  33 %,   0 % (E:   0 %  D:   0 %),   48 / 285 W | 11439 / 16376 MB |
+[4] NVIDIA GeForce RTX 4070 Ti SUPER | 30°C,  32 %,   0 % (E:   0 %  D:   0 %),    3 / 285 W |   406 / 16376 MB |
+[5] NVIDIA GeForce RTX 4070 Ti SUPER | 63°C,  42 %,   0 % (E:   0 %  D:   0 %),   62 / 285 W | 14017 / 16376 MB |
+[6] NVIDIA GeForce RTX 4070 Ti SUPER | 47°C,  31 %,  24 % (E:   0 %  D:   0 %),   86 / 285 W |  5377 / 16376 MB |
+[7] NVIDIA GeForce RTX 4070 Ti SUPER | 58°C,  35 %,  21 % (E:   0 %  D:   0 %),   76 / 285 W |  5377 / 16376 MB |
+
+2026-08-11 17:41:19 - core.utils - INFO - round: 000021/000200; tl: 0.00444, vl: 0.00506, t1: 453.71412; 
+2026-08-11 17:48:39 - core.utils - INFO - round: 000022/000200; tl: 0.00421, vl: 0.00448, t1: 437.64160; 
+2026-08-11 17:55:43 - core.utils - INFO - round: 000023/000200; tl: 0.00426, vl: 0.00453, t1: 423.38541; 
+2026-08-11 18:02:34 - core.utils - INFO - round: 000024/000200; tl: 0.00414, vl: 0.00398, t1: 410.71649; 
+2026-08-11 18:09:00 - core.utils - INFO - round: 000025/000200; tl: 0.00410, vl: 0.00507, t1: 385.75111; 
+2026-08-11 18:15:12 - core.utils - INFO - round: 000026/000200; tl: 0.00399, vl: 0.00445, t1: 368.82178; 
+2026-08-11 18:21:08 - core.utils - INFO - round: 000027/000200; tl: 0.00392, vl: 0.00470, t1: 352.75788; 
+2026-08-11 18:27:04 - core.utils - INFO - round: 000028/000200; tl: 0.00383, vl: 0.00446, t1: 353.37759; 
+2026-08-11 18:32:57 - core.utils - INFO - round: 000029/000200; tl: 0.00387, vl: 0.00430, t1: 350.19075; 
+2026-08-11 18:38:47 - core.utils - INFO - round: 000030/000200; tl: 0.00388, vl: 0.00426, t1: 346.32709; 
+2026-08-11 18:44:40 - core.utils - INFO - round: 000031/000200; tl: 0.00378, vl: 0.00502, t1: 349.41691; 
+2026-08-11 18:50:32 - core.utils - INFO - round: 000032/000200; tl: 0.00375, vl: 0.00408, t1: 351.06150; 
+2026-08-11 18:56:14 - core.utils - INFO - round: 000033/000200; tl: 0.00367, vl: 0.00409, t1: 337.77090; 
+2026-08-11 19:02:03 - core.utils - INFO - round: 000034/000200; tl: 0.00387, vl: 0.00566, t1: 340.43908; 
+2026-08-11 19:07:37 - core.utils - INFO - round: 000035/000200; tl: 0.00368, vl: 0.00449, t1: 333.39146; 
+2026-08-11 19:13:11 - core.utils - INFO - round: 000036/000200; tl: 0.00363, vl: 0.00521, t1: 333.82642; 
+2026-08-11 19:18:52 - core.utils - INFO - round: 000037/000200; tl: 0.00352, vl: 0.00615, t1: 340.83457; 
+2026-08-11 19:24:29 - core.utils - INFO - round: 000038/000200; tl: 0.00351, vl: 0.00584, t1: 337.24950; 
+2026-08-11 19:30:04 - core.utils - INFO - round: 000039/000200; tl: 0.00354, vl: 0.00451, t1: 334.16553; 
+2026-08-11 19:45:14 - core.utils - INFO - round: 000040/000200; tl: 0.00352, vl: 0.00462, t1: 335.95369; itl: 0.00043 1019.52539 906.88379 226.94246 0.81418, ivl: 0.00068 1101.87561 953.21631 287.87701 0.87086, t2: 558.54973. 
+2026-08-11 19:50:50 - core.utils - INFO - round: 000041/000200; tl: 0.00345, vl: 0.00490, t1: 332.84954; 
+2026-08-11 19:56:23 - core.utils - INFO - round: 000042/000200; tl: 0.00349, vl: 0.00449, t1: 332.10856; 
+2026-08-11 20:01:55 - core.utils - INFO - round: 000043/000200; tl: 0.00341, vl: 0.00399, t1: 332.28793; 
+2026-08-11 20:07:38 - core.utils - INFO - round: 000044/000200; tl: 0.00339, vl: 0.00438, t1: 334.82339; 
+2026-08-11 20:13:12 - core.utils - INFO - round: 000045/000200; tl: 0.00335, vl: 0.00454, t1: 332.64590; 
+2026-08-11 20:18:52 - core.utils - INFO - round: 000046/000200; tl: 0.00335, vl: 0.00435, t1: 340.55860; 
+2026-08-11 20:24:29 - core.utils - INFO - round: 000047/000200; tl: 0.00322, vl: 0.00567, t1: 333.49493; 
+2026-08-11 20:30:09 - core.utils - INFO - round: 000048/000200; tl: 0.00335, vl: 0.00461, t1: 335.74852; 
+2026-08-11 20:35:42 - core.utils - INFO - round: 000049/000200; tl: 0.00323, vl: 0.00447, t1: 331.18821; 
+2026-08-11 20:41:21 - core.utils - INFO - round: 000050/000200; tl: 0.00321, vl: 0.00466, t1: 334.64586; 
+2026-08-11 20:47:00 - core.utils - INFO - round: 000051/000200; tl: 0.00323, vl: 0.00556, t1: 334.39881; 
+2026-08-11 20:52:44 - core.utils - INFO - round: 000052/000200; tl: 0.00320, vl: 0.00439, t1: 344.27899; 
+2026-08-11 20:58:14 - core.utils - INFO - round: 000053/000200; tl: 0.00332, vl: 0.00478, t1: 328.91165; 
+2026-08-11 21:03:51 - core.utils - INFO - round: 000054/000200; tl: 0.00317, vl: 0.00467, t1: 337.70066; 
+2026-08-11 21:09:24 - core.utils - INFO - round: 000055/000200; tl: 0.00316, vl: 0.00390, t1: 328.76916; 
+2026-08-11 21:15:05 - core.utils - INFO - round: 000056/000200; tl: 0.00315, vl: 0.00461, t1: 339.55398; 
+2026-08-11 21:20:41 - core.utils - INFO - round: 000057/000200; tl: 0.00314, vl: 0.00453, t1: 335.89990; 
+2026-08-11 21:26:08 - core.utils - INFO - round: 000058/000200; tl: 0.00311, vl: 0.00413, t1: 326.64057; 
+2026-08-11 21:31:45 - core.utils - INFO - round: 000059/000200; tl: 0.00311, vl: 0.00499, t1: 337.56659; 
+2026-08-11 21:46:59 - core.utils - INFO - round: 000060/000200; tl: 0.00311, vl: 0.00453, t1: 337.89979; itl: 0.00031 790.49689 900.76367 190.92860 0.71653, ivl: 0.00063 908.17383 973.72534 268.75101 0.79768, t2: 557.87464. 
+2026-08-11 21:52:33 - core.utils - INFO - round: 000061/000200; tl: 0.00308, vl: 0.00479, t1: 331.61813; 
+2026-08-11 21:58:05 - core.utils - INFO - round: 000062/000200; tl: 0.00315, vl: 0.00488, t1: 331.49878; 
+2026-08-11 22:03:42 - core.utils - INFO - round: 000063/000200; tl: 0.00307, vl: 0.00503, t1: 337.61713; 
+2026-08-11 22:09:08 - core.utils - INFO - round: 000064/000200; tl: 0.00305, vl: 0.00427, t1: 325.66891; 
+2026-08-11 22:14:49 - core.utils - INFO - round: 000065/000200; tl: 0.00300, vl: 0.00464, t1: 332.42251; 
+2026-08-11 22:20:20 - core.utils - INFO - round: 000066/000200; tl: 0.00293, vl: 0.00404, t1: 331.05264; 
+2026-08-11 22:25:53 - core.utils - INFO - round: 000067/000200; tl: 0.00294, vl: 0.00508, t1: 328.92616; 
+2026-08-11 22:31:24 - core.utils - INFO - round: 000068/000200; tl: 0.00290, vl: 0.00492, t1: 331.06181; 
+2026-08-11 22:36:55 - core.utils - INFO - round: 000069/000200; tl: 0.00296, vl: 0.00480, t1: 331.19818; 
+2026-08-11 22:42:25 - core.utils - INFO - round: 000070/000200; tl: 0.00294, vl: 0.00637, t1: 329.58477; 
+2026-08-11 22:47:59 - core.utils - INFO - round: 000071/000200; tl: 0.00299, vl: 0.00459, t1: 329.98519; 
+2026-08-11 22:53:34 - core.utils - INFO - round: 000072/000200; tl: 0.00289, vl: 0.00508, t1: 332.89697; 
+2026-08-11 22:59:17 - core.utils - INFO - round: 000073/000200; tl: 0.00296, vl: 0.00455, t1: 343.08521; 
+2026-08-11 23:04:51 - core.utils - INFO - round: 000074/000200; tl: 0.00288, vl: 0.00516, t1: 333.80309; 
+2026-08-11 23:10:28 - core.utils - INFO - round: 000075/000200; tl: 0.00299, vl: 0.00449, t1: 336.65526; 
+2026-08-11 23:15:59 - core.utils - INFO - round: 000076/000200; tl: 0.00294, vl: 0.00474, t1: 330.99605; 
+2026-08-11 23:21:29 - core.utils - INFO - round: 000077/000200; tl: 0.00288, vl: 0.00539, t1: 329.08432; 
+2026-08-11 23:26:59 - core.utils - INFO - round: 000078/000200; tl: 0.00288, vl: 0.00457, t1: 328.29888; 
+2026-08-11 23:32:28 - core.utils - INFO - round: 000079/000200; tl: 0.00286, vl: 0.00534, t1: 326.39225; 
+2026-08-11 23:47:46 - core.utils - INFO - round: 000080/000200; tl: 0.00288, vl: 0.00457, t1: 333.57341; itl: 0.00024 687.36694 648.50635 174.34152 0.56684, ivl: 0.00058 822.74670 729.45679 259.05441 0.66031, t2: 555.04715. 
+2026-08-11 23:53:28 - core.utils - INFO - round: 000081/000200; tl: 0.00288, vl: 0.00504, t1: 337.43624; 
+2026-08-11 23:59:02 - core.utils - INFO - round: 000082/000200; tl: 0.00284, vl: 0.00563, t1: 332.01314; 
+2026-08-12 00:04:39 - core.utils - INFO - round: 000083/000200; tl: 0.00287, vl: 0.00481, t1: 335.36237; 
+2026-08-12 00:10:04 - core.utils - INFO - round: 000084/000200; tl: 0.00287, vl: 0.00578, t1: 322.88547; 
+2026-08-12 00:15:28 - core.utils - INFO - round: 000085/000200; tl: 0.00283, vl: 0.00478, t1: 324.26981; 
+2026-08-12 00:20:49 - core.utils - INFO - round: 000086/000200; tl: 0.00281, vl: 0.00437, t1: 318.84125; 
+2026-08-12 00:26:09 - core.utils - INFO - round: 000087/000200; tl: 0.00289, vl: 0.00474, t1: 319.22065; 
+2026-08-12 00:31:33 - core.utils - INFO - round: 000088/000200; tl: 0.00282, vl: 0.00476, t1: 323.63462; 
+2026-08-12 00:37:01 - core.utils - INFO - round: 000089/000200; tl: 0.00291, vl: 0.00471, t1: 326.67819; 
+2026-08-12 00:42:25 - core.utils - INFO - round: 000090/000200; tl: 0.00278, vl: 0.00502, t1: 320.13354; 
+2026-08-12 00:47:50 - core.utils - INFO - round: 000091/000200; tl: 0.00284, vl: 0.00516, t1: 323.68369; 
+2026-08-12 00:53:25 - core.utils - INFO - round: 000092/000200; tl: 0.00282, vl: 0.00540, t1: 329.73959; 
+2026-08-12 00:58:54 - core.utils - INFO - round: 000093/000200; tl: 0.00270, vl: 0.00463, t1: 325.71488; 
+2026-08-12 01:04:20 - core.utils - INFO - round: 000094/000200; tl: 0.00275, vl: 0.00502, t1: 325.26329; 
+2026-08-12 01:09:51 - core.utils - INFO - round: 000095/000200; tl: 0.00274, vl: 0.00454, t1: 325.07080; 
+2026-08-12 01:15:23 - core.utils - INFO - round: 000096/000200; tl: 0.00272, vl: 0.00479, t1: 326.27584; 
+2026-08-12 01:20:50 - core.utils - INFO - round: 000097/000200; tl: 0.00277, vl: 0.00487, t1: 325.40015; 
+2026-08-12 01:26:18 - core.utils - INFO - round: 000098/000200; tl: 0.00284, vl: 0.00480, t1: 325.62900; 
+2026-08-12 01:31:47 - core.utils - INFO - round: 000099/000200; tl: 0.00281, vl: 0.00496, t1: 326.24682; 
+2026-08-12 01:46:39 - core.utils - INFO - round: 000100/000200; tl: 0.00280, vl: 0.00474, t1: 325.49319; itl: 0.00023 673.45258 717.99945 163.32031 0.58882, ivl: 0.00060 824.22607 824.11816 257.02563 0.69771, t2: 552.79350. 
+2026-08-12 01:52:22 - core.utils - INFO - round: 000101/000200; tl: 0.00277, vl: 0.00471, t1: 335.93976; 
+2026-08-12 01:57:59 - core.utils - INFO - round: 000102/000200; tl: 0.00275, vl: 0.00467, t1: 333.03035; 
+2026-08-12 02:03:33 - core.utils - INFO - round: 000103/000200; tl: 0.00282, vl: 0.00513, t1: 326.15555; 
+2026-08-12 02:08:58 - core.utils - INFO - round: 000104/000200; tl: 0.00272, vl: 0.00478, t1: 324.63053; 
+2026-08-12 02:14:30 - core.utils - INFO - round: 000105/000200; tl: 0.00271, vl: 0.00528, t1: 330.69134; 
+2026-08-12 02:19:56 - core.utils - INFO - round: 000106/000200; tl: 0.00287, vl: 0.00521, t1: 326.36632; 
+2026-08-12 02:25:27 - core.utils - INFO - round: 000107/000200; tl: 0.00276, vl: 0.00452, t1: 330.84956; 
+2026-08-12 02:31:05 - core.utils - INFO - round: 000108/000200; tl: 0.00272, vl: 0.00508, t1: 330.47819; 
+2026-08-12 02:36:36 - core.utils - INFO - round: 000109/000200; tl: 0.00270, vl: 0.00446, t1: 323.52136; 
+2026-08-12 02:42:13 - core.utils - INFO - round: 000110/000200; tl: 0.00270, vl: 0.00491, t1: 331.42388; 
+2026-08-12 02:47:40 - core.utils - INFO - round: 000111/000200; tl: 0.00269, vl: 0.00542, t1: 327.28391; 
+2026-08-12 02:53:11 - core.utils - INFO - round: 000112/000200; tl: 0.00269, vl: 0.00479, t1: 330.30124; 
+2026-08-12 02:58:40 - core.utils - INFO - round: 000113/000200; tl: 0.00272, vl: 0.00489, t1: 328.44023; 
+2026-08-12 03:04:08 - core.utils - INFO - round: 000114/000200; tl: 0.00274, vl: 0.00489, t1: 326.50236; 
+2026-08-12 03:09:40 - core.utils - INFO - round: 000115/000200; tl: 0.00265, vl: 0.00468, t1: 331.99404; 
+2026-08-12 03:15:07 - core.utils - INFO - round: 000116/000200; tl: 0.00278, vl: 0.00509, t1: 325.17945; 
+2026-08-12 03:20:40 - core.utils - INFO - round: 000117/000200; tl: 0.00264, vl: 0.00511, t1: 330.10159; 
+2026-08-12 03:26:14 - core.utils - INFO - round: 000118/000200; tl: 0.00267, vl: 0.00516, t1: 332.19888; 
+2026-08-12 03:31:42 - core.utils - INFO - round: 000119/000200; tl: 0.00262, vl: 0.00523, t1: 326.31931; 
+2026-08-12 03:46:40 - core.utils - INFO - round: 000120/000200; tl: 0.00262, vl: 0.00583, t1: 330.14898; itl: 0.00033 1091.60046 979.67261 165.67508 0.84861, ivl: 0.00073 1210.76709 1066.67651 271.11792 0.94100, t2: 554.71734. 
+2026-08-12 03:52:07 - core.utils - INFO - round: 000121/000200; tl: 0.00268, vl: 0.00553, t1: 325.53885; 
+2026-08-12 03:57:34 - core.utils - INFO - round: 000122/000200; tl: 0.00263, vl: 0.00512, t1: 325.18109; 
+2026-08-12 04:02:59 - core.utils - INFO - round: 000123/000200; tl: 0.00290, vl: 0.00620, t1: 324.56680; 
+2026-08-12 04:08:27 - core.utils - INFO - round: 000124/000200; tl: 0.00263, vl: 0.00480, t1: 324.75182; 
+2026-08-12 04:13:53 - core.utils - INFO - round: 000125/000200; tl: 0.00264, vl: 0.00515, t1: 325.39728; 
+2026-08-12 04:19:22 - core.utils - INFO - round: 000126/000200; tl: 0.00263, vl: 0.00470, t1: 325.66087; 
+2026-08-12 04:24:43 - core.utils - INFO - round: 000127/000200; tl: 0.00265, vl: 0.00431, t1: 318.78411; 
+2026-08-12 04:30:00 - core.utils - INFO - round: 000128/000200; tl: 0.00264, vl: 0.00504, t1: 314.29921; 
+2026-08-12 04:35:16 - core.utils - INFO - round: 000129/000200; tl: 0.00265, vl: 0.00496, t1: 309.83001; 
+2026-08-12 04:40:32 - core.utils - INFO - round: 000130/000200; tl: 0.00261, vl: 0.00581, t1: 314.54397; 
+2026-08-12 04:45:54 - core.utils - INFO - round: 000131/000200; tl: 0.00262, vl: 0.00492, t1: 319.85732; 
+2026-08-12 04:51:19 - core.utils - INFO - round: 000132/000200; tl: 0.00269, vl: 0.00565, t1: 316.63245; 
+2026-08-12 04:56:35 - core.utils - INFO - round: 000133/000200; tl: 0.00261, vl: 0.00616, t1: 314.18651; 
+2026-08-12 05:01:48 - core.utils - INFO - round: 000134/000200; tl: 0.00270, vl: 0.00510, t1: 311.06073; 
+2026-08-12 05:07:10 - core.utils - INFO - round: 000135/000200; tl: 0.00261, vl: 0.00486, t1: 313.90782; 
+2026-08-12 05:12:25 - core.utils - INFO - round: 000136/000200; tl: 0.00260, vl: 0.00481, t1: 314.19217; 
+2026-08-12 05:17:41 - core.utils - INFO - round: 000137/000200; tl: 0.00279, vl: 0.00488, t1: 313.90988; 
+2026-08-12 05:23:00 - core.utils - INFO - round: 000138/000200; tl: 0.00255, vl: 0.00523, t1: 316.26676; 
+2026-08-12 05:28:20 - core.utils - INFO - round: 000139/000200; tl: 0.00255, vl: 0.00524, t1: 312.41968; 
+2026-08-12 05:42:45 - core.utils - INFO - round: 000140/000200; tl: 0.00265, vl: 0.00489, t1: 314.05031; itl: 0.00018 624.30322 544.50543 157.25812 0.49803, ivl: 0.00057 794.86694 701.56018 257.34598 0.63698, t2: 541.52170. 
+2026-08-12 05:48:00 - core.utils - INFO - round: 000141/000200; tl: 0.00263, vl: 0.00479, t1: 313.65882; 
+2026-08-12 05:53:15 - core.utils - INFO - round: 000142/000200; tl: 0.00268, vl: 0.00500, t1: 313.21270; 
+2026-08-12 05:58:33 - core.utils - INFO - round: 000143/000200; tl: 0.00258, vl: 0.00552, t1: 311.55698; 
+2026-08-12 06:03:50 - core.utils - INFO - round: 000144/000200; tl: 0.00265, vl: 0.00543, t1: 314.89630; 
+2026-08-12 06:09:07 - core.utils - INFO - round: 000145/000200; tl: 0.00260, vl: 0.00490, t1: 314.79863; 
+2026-08-12 06:14:23 - core.utils - INFO - round: 000146/000200; tl: 0.00262, vl: 0.00495, t1: 315.62107; 
+2026-08-12 06:19:39 - core.utils - INFO - round: 000147/000200; tl: 0.00262, vl: 0.00506, t1: 313.94472; 
+2026-08-12 06:24:57 - core.utils - INFO - round: 000148/000200; tl: 0.00267, vl: 0.00526, t1: 317.25868; 
+2026-08-12 06:30:14 - core.utils - INFO - round: 000149/000200; tl: 0.00265, vl: 0.00481, t1: 316.58317; 
+2026-08-12 06:35:30 - core.utils - INFO - round: 000150/000200; tl: 0.00269, vl: 0.00491, t1: 313.69742; 
+2026-08-12 06:40:52 - core.utils - INFO - round: 000151/000200; tl: 0.00259, vl: 0.00507, t1: 316.94945; 
+2026-08-12 06:46:07 - core.utils - INFO - round: 000152/000200; tl: 0.00256, vl: 0.00481, t1: 313.54925; 
+2026-08-12 06:51:22 - core.utils - INFO - round: 000153/000200; tl: 0.00258, vl: 0.00481, t1: 313.93006; 
+2026-08-12 06:56:41 - core.utils - INFO - round: 000154/000200; tl: 0.00269, vl: 0.00530, t1: 317.48287; 
+2026-08-12 07:01:58 - core.utils - INFO - round: 000155/000200; tl: 0.00259, vl: 0.00541, t1: 314.76251; 
+2026-08-12 07:07:16 - core.utils - INFO - round: 000156/000200; tl: 0.00288, vl: 0.00516, t1: 317.36500; 
+2026-08-12 07:12:33 - core.utils - INFO - round: 000157/000200; tl: 0.00265, vl: 0.00504, t1: 314.89568; 
+2026-08-12 07:17:49 - core.utils - INFO - round: 000158/000200; tl: 0.00259, vl: 0.00565, t1: 314.04813; 
+2026-08-12 07:23:05 - core.utils - INFO - round: 000159/000200; tl: 0.00260, vl: 0.00482, t1: 315.07951; 
+2026-08-12 07:37:28 - core.utils - INFO - round: 000160/000200; tl: 0.00256, vl: 0.00565, t1: 315.07733; itl: 0.00031 1206.60718 870.54657 174.23430 0.87859, ivl: 0.00068 1289.11108 991.60431 269.82089 0.96138, t2: 542.17225. 
+2026-08-12 07:42:47 - core.utils - INFO - round: 000161/000200; tl: 0.00258, vl: 0.00504, t1: 317.51820; 
+2026-08-12 07:48:01 - core.utils - INFO - round: 000162/000200; tl: 0.00261, vl: 0.00506, t1: 311.68027; 
+2026-08-12 07:53:19 - core.utils - INFO - round: 000163/000200; tl: 0.00256, vl: 0.00516, t1: 316.67966; 
+2026-08-12 07:58:31 - core.utils - INFO - round: 000164/000200; tl: 0.00253, vl: 0.00581, t1: 310.35268; 
+2026-08-12 08:03:52 - core.utils - INFO - round: 000165/000200; tl: 0.00256, vl: 0.00505, t1: 315.90440; 
+2026-08-12 08:09:07 - core.utils - INFO - round: 000166/000200; tl: 0.00265, vl: 0.00533, t1: 313.54442; 
+2026-08-12 08:14:24 - core.utils - INFO - round: 000167/000200; tl: 0.00253, vl: 0.00499, t1: 316.20190; 
+2026-08-12 08:19:40 - core.utils - INFO - round: 000168/000200; tl: 0.00256, vl: 0.00544, t1: 314.22837; 
+2026-08-12 08:24:52 - core.utils - INFO - round: 000169/000200; tl: 0.00258, vl: 0.00518, t1: 310.03971; 
+2026-08-12 08:30:06 - core.utils - INFO - round: 000170/000200; tl: 0.00258, vl: 0.00618, t1: 312.99787; 
+2026-08-12 08:35:32 - core.utils - INFO - round: 000171/000200; tl: 0.00256, vl: 0.00513, t1: 317.19797; 
+2026-08-12 08:40:49 - core.utils - INFO - round: 000172/000200; tl: 0.00264, vl: 0.00552, t1: 316.22665; 
+2026-08-12 08:46:10 - core.utils - INFO - round: 000173/000200; tl: 0.00259, vl: 0.00462, t1: 314.11423; 
+2026-08-12 08:51:20 - core.utils - INFO - round: 000174/000200; tl: 0.00250, vl: 0.00588, t1: 309.85941; 
+2026-08-12 08:56:36 - core.utils - INFO - round: 000175/000200; tl: 0.00260, vl: 0.00529, t1: 313.46618; 
+2026-08-12 09:01:58 - core.utils - INFO - round: 000176/000200; tl: 0.00247, vl: 0.00476, t1: 315.78054; 
+2026-08-12 09:07:26 - core.utils - INFO - round: 000177/000200; tl: 0.00256, vl: 0.00579, t1: 327.98734; 
+2026-08-12 09:15:21 - core.utils - INFO - round: 000178/000200; tl: 0.00255, vl: 0.00536, t1: 471.36247; 
+2026-08-12 09:23:00 - core.utils - INFO - round: 000179/000200; tl: 0.00285, vl: 0.00518, t1: 451.48644; 
+2026-08-12 09:41:45 - core.utils - INFO - round: 000180/000200; tl: 0.00262, vl: 0.00637, t1: 466.81619; itl: 0.00035 1299.41553 566.04688 214.87726 0.81941, ivl: 0.00075 1422.96875 710.26178 308.67682 0.93074, t2: 621.85328. 
+2026-08-12 09:49:49 - core.utils - INFO - round: 000181/000200; tl: 0.00251, vl: 0.00597, t1: 480.14411; 
+2026-08-12 09:57:37 - core.utils - INFO - round: 000182/000200; tl: 0.00252, vl: 0.00518, t1: 466.50240; 
+2026-08-12 10:05:30 - core.utils - INFO - round: 000183/000200; tl: 0.00255, vl: 0.00499, t1: 472.35773; 
+2026-08-12 10:13:26 - core.utils - INFO - round: 000184/000200; tl: 0.00258, vl: 0.00515, t1: 476.11439; 
+2026-08-12 10:21:35 - core.utils - INFO - round: 000185/000200; tl: 0.00245, vl: 0.00575, t1: 489.22902; 
+2026-08-12 10:29:37 - core.utils - INFO - round: 000186/000200; tl: 0.00254, vl: 0.00504, t1: 482.15424; 
+2026-08-12 10:37:29 - core.utils - INFO - round: 000187/000200; tl: 0.00251, vl: 0.00776, t1: 471.49686; 
+2026-08-12 10:45:15 - core.utils - INFO - round: 000188/000200; tl: 0.00252, vl: 0.00509, t1: 465.90265; 
+2026-08-12 10:53:01 - core.utils - INFO - round: 000189/000200; tl: 0.00265, vl: 0.00639, t1: 465.81310; 
+2026-08-12 11:00:50 - core.utils - INFO - round: 000190/000200; tl: 0.00256, vl: 0.00489, t1: 469.29820; 
+2026-08-12 11:08:38 - core.utils - INFO - round: 000191/000200; tl: 0.00254, vl: 0.00548, t1: 464.07476; 
+2026-08-12 11:16:40 - core.utils - INFO - round: 000192/000200; tl: 0.00256, vl: 0.00507, t1: 475.24141; 
+2026-08-12 11:25:22 - core.utils - INFO - round: 000193/000200; tl: 0.00251, vl: 0.00526, t1: 522.21761; 
+2026-08-12 11:33:58 - core.utils - INFO - round: 000194/000200; tl: 0.00251, vl: 0.00529, t1: 513.98752; 
+2026-08-12 11:42:16 - core.utils - INFO - round: 000195/000200; tl: 0.00252, vl: 0.00465, t1: 491.18235; 
+2026-08-12 11:50:45 - core.utils - INFO - round: 000196/000200; tl: 0.00251, vl: 0.00483, t1: 497.21906; 
+2026-08-12 11:59:07 - core.utils - INFO - round: 000197/000200; tl: 0.00255, vl: 0.00518, t1: 495.57371; 
+2026-08-12 12:07:34 - core.utils - INFO - round: 000198/000200; tl: 0.00257, vl: 0.00523, t1: 500.33407; 
+2026-08-12 12:16:00 - core.utils - INFO - round: 000199/000200; tl: 0.00258, vl: 0.00506, t1: 496.98622; 
+2026-08-12 12:35:39 - core.utils - INFO - round: 000200/000200; tl: 0.00261, vl: 0.00552, t1: 492.78370; itl: 0.00027 1056.84155 905.54279 154.58887 0.82262, ivl: 0.00069 1242.24133 1040.61145 259.95239 0.96389, t2: 642.00454. 
+2026-08-12 12:35:41 - core.utils - INFO - 
+peta-hash                            Wed Aug 12 12:35:41 2026  560.35.03
+[0] NVIDIA GeForce RTX 4070 Ti SUPER | 60°C,  38 %,  23 % (E:   0 %  D:   0 %),   98 / 285 W |  3047 / 16376 MB |
+[1] NVIDIA GeForce RTX 4070 Ti SUPER | 49°C,  37 %,   0 % (E:   0 %  D:   0 %),   59 / 285 W | 14017 / 16376 MB |
+[2] NVIDIA GeForce RTX 4070 Ti SUPER | 67°C,  43 %,   0 % (E:   0 %  D:   0 %),  105 / 285 W | 14017 / 16376 MB |
+[3] NVIDIA GeForce RTX 4070 Ti SUPER | 49°C,  33 %,   0 % (E:   0 %  D:   0 %),   48 / 285 W | 11441 / 16376 MB |
+[4] NVIDIA GeForce RTX 4070 Ti SUPER | 29°C,  32 %,   0 % (E:   0 %  D:   0 %),    3 / 285 W |   406 / 16376 MB |
+[5] NVIDIA GeForce RTX 4070 Ti SUPER | 55°C,  39 %,   0 % (E:   0 %  D:   0 %),   58 / 285 W | 14017 / 16376 MB |
+[6] NVIDIA GeForce RTX 4070 Ti SUPER | 51°C,  33 %,  12 % (E:   0 %  D:   0 %),   65 / 285 W |  5377 / 16376 MB |
+[7] NVIDIA GeForce RTX 4070 Ti SUPER | 54°C,  34 %,  26 % (E:   0 %  D:   0 %),   98 / 285 W |  5377 / 16376 MB |
+
+2026-08-12 12:35:41 - core.utils - INFO - DONE

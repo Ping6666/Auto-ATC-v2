@@ -1,0 +1,24 @@
+tqdm
+
+numpy == 1.26.4
+pandas
+
+scipy
+scikit-learn
+umap-learn
+
+matplotlib
+seaborn
+
+gpustat == 1.0
+torch == 2.4.0
+
+selenium
+webdriver-manager
+
+Flask
+flask-socketio
+python-socketio[client]
+
+eventlet
+gevent-websocket

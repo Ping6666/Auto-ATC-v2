@@ -1,0 +1,10002 @@
+{
+  "000020/06": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000020/06/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000020/06/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      49,
+      51
+    ],
+    "raw-total-can-ils": [
+      26,
+      34
+    ],
+    "raw-total-done-ils": [
+      26,
+      34
+    ],
+    "raw-total-good-ils": [
+      26,
+      34
+    ],
+    "raw-total-on-ils": [
+      26,
+      34
+    ],
+    "raw-total-missed": [
+      0,
+      0
+    ],
+    "raw-total-avg_len": [
+      1393.204081632653,
+      1472.8431372549019
+    ],
+    "raw-land": [
+      20,
+      27
+    ],
+    "raw-land-can-ils": [
+      20,
+      27
+    ],
+    "raw-land-done-ils": [
+      20,
+      27
+    ],
+    "raw-land-good-ils": [
+      20,
+      27
+    ],
+    "raw-land-on-ils": [
+      20,
+      27
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      1915.7,
+      1902.3333333333333
+    ],
+    "raw-leave": [
+      11,
+      4
+    ],
+    "raw-leave-can-ils": [
+      0,
+      0
+    ],
+    "raw-leave-done-ils": [
+      0,
+      0
+    ],
+    "raw-leave-good-ils": [
+      0,
+      0
+    ],
+    "raw-leave-on-ils": [
+      0,
+      0
+    ],
+    "raw-leave-missed": [
+      0,
+      0
+    ],
+    "raw-leave-avg_len": [
+      197.45454545454547,
+      185.5
+    ],
+    "raw-lost": [
+      2,
+      4
+    ],
+    "raw-lost-can-ils": [
+      2,
+      3
+    ],
+    "raw-lost-done-ils": [
+      2,
+      3
+    ],
+    "raw-lost-good-ils": [
+      2,
+      3
+    ],
+    "raw-lost-on-ils": [
+      2,
+      3
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      1508.5,
+      1821.0
+    ],
+    "raw-less": [
+      13,
+      15
+    ],
+    "raw-less-can-ils": [
+      3,
+      3
+    ],
+    "raw-less-done-ils": [
+      3,
+      3
+    ],
+    "raw-less-good-ils": [
+      3,
+      3
+    ],
+    "raw-less-on-ils": [
+      3,
+      3
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      1017.9230769230769,
+      871.1333333333333
+    ],
+    "raw-other": [
+      3,
+      1
+    ],
+    "raw-other-can-ils": [
+      1,
+      1
+    ],
+    "raw-other-done-ils": [
+      1,
+      1
+    ],
+    "raw-other-good-ils": [
+      1,
+      1
+    ],
+    "raw-other-on-ils": [
+      1,
+      1
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      3843.6666666666665,
+      2659.0
+    ],
+    "with_less-land_rate": [
+      0.40816326530612246,
+      0.5294117647058824
+    ],
+    "with_less-can_ils_rate": [
+      0.5306122448979592,
+      0.6666666666666666
+    ],
+    "with_less-done_ils_rate": [
+      0.5306122448979592,
+      0.6666666666666666
+    ],
+    "with_less-good_ils_rate": [
+      0.5306122448979592,
+      0.6666666666666666
+    ],
+    "with_less-on_ils_rate": [
+      0.5306122448979592,
+      0.6666666666666666
+    ],
+    "with_less-lost_rate": [
+      0.04081632653061224,
+      0.0784313725490196
+    ],
+    "with_less-leave_rate": [
+      0.22448979591836735,
+      0.0784313725490196
+    ],
+    "with_less-less_rate": [
+      0.2653061224489796,
+      0.29411764705882354
+    ],
+    "with_less-other_rate": [
+      0.061224489795918366,
+      0.0196078431372549
+    ],
+    "with_less-leave+less+other_rate": [
+      0.5510204081632653,
+      0.39215686274509803
+    ],
+    "without_less-land_rate": [
+      0.5555555555555556,
+      0.75
+    ],
+    "without_less-can_ils_rate": [
+      0.6388888888888888,
+      0.8611111111111112
+    ],
+    "without_less-done_ils_rate": [
+      0.6388888888888888,
+      0.8611111111111112
+    ],
+    "without_less-good_ils_rate": [
+      0.6388888888888888,
+      0.8611111111111112
+    ],
+    "without_less-on_ils_rate": [
+      0.6388888888888888,
+      0.8611111111111112
+    ],
+    "without_less-lost_rate": [
+      0.05555555555555555,
+      0.1111111111111111
+    ],
+    "without_less-leave_rate": [
+      0.3055555555555556,
+      0.1111111111111111
+    ],
+    "without_less-other_rate": [
+      0.08333333333333333,
+      0.027777777777777776
+    ],
+    "without_less-leave+other_rate": [
+      0.3888888888888889,
+      0.1388888888888889
+    ]
+  },
+  "000020/08": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000020/08/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000020/08/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      47,
+      54
+    ],
+    "raw-total-can-ils": [
+      26,
+      33
+    ],
+    "raw-total-done-ils": [
+      26,
+      33
+    ],
+    "raw-total-good-ils": [
+      26,
+      33
+    ],
+    "raw-total-on-ils": [
+      26,
+      33
+    ],
+    "raw-total-missed": [
+      0,
+      2
+    ],
+    "raw-total-avg_len": [
+      1185.0,
+      1220.3148148148148
+    ],
+    "raw-land": [
+      19,
+      25
+    ],
+    "raw-land-can-ils": [
+      19,
+      25
+    ],
+    "raw-land-done-ils": [
+      19,
+      25
+    ],
+    "raw-land-good-ils": [
+      19,
+      25
+    ],
+    "raw-land-on-ils": [
+      19,
+      25
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      1717.6842105263158,
+      1658.08
+    ],
+    "raw-leave": [
+      12,
+      13
+    ],
+    "raw-leave-can-ils": [
+      0,
+      2
+    ],
+    "raw-leave-done-ils": [
+      0,
+      2
+    ],
+    "raw-leave-good-ils": [
+      0,
+      2
+    ],
+    "raw-leave-on-ils": [
+      0,
+      2
+    ],
+    "raw-leave-missed": [
+      0,
+      2
+    ],
+    "raw-leave-avg_len": [
+      180.33333333333334,
+      482.46153846153845
+    ],
+    "raw-lost": [
+      4,
+      2
+    ],
+    "raw-lost-can-ils": [
+      4,
+      2
+    ],
+    "raw-lost-done-ils": [
+      4,
+      2
+    ],
+    "raw-lost-good-ils": [
+      4,
+      2
+    ],
+    "raw-lost-on-ils": [
+      4,
+      2
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      1318.5,
+      2518.5
+    ],
+    "raw-less": [
+      10,
+      13
+    ],
+    "raw-less-can-ils": [
+      2,
+      4
+    ],
+    "raw-less-done-ils": [
+      2,
+      4
+    ],
+    "raw-less-good-ils": [
+      2,
+      4
+    ],
+    "raw-less-on-ils": [
+      2,
+      4
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      835.4,
+      847.6923076923077
+    ],
+    "raw-other": [
+      2,
+      1
+    ],
+    "raw-other-can-ils": [
+      1,
+      0
+    ],
+    "raw-other-done-ils": [
+      1,
+      0
+    ],
+    "raw-other-good-ils": [
+      1,
+      0
+    ],
+    "raw-other-on-ils": [
+      1,
+      0
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      3633.5,
+      2116.0
+    ],
+    "with_less-land_rate": [
+      0.40425531914893614,
+      0.46296296296296297
+    ],
+    "with_less-can_ils_rate": [
+      0.5531914893617021,
+      0.6111111111111112
+    ],
+    "with_less-done_ils_rate": [
+      0.5531914893617021,
+      0.6111111111111112
+    ],
+    "with_less-good_ils_rate": [
+      0.5531914893617021,
+      0.6111111111111112
+    ],
+    "with_less-on_ils_rate": [
+      0.5531914893617021,
+      0.6111111111111112
+    ],
+    "with_less-lost_rate": [
+      0.0851063829787234,
+      0.037037037037037035
+    ],
+    "with_less-leave_rate": [
+      0.2553191489361702,
+      0.24074074074074073
+    ],
+    "with_less-less_rate": [
+      0.2127659574468085,
+      0.24074074074074073
+    ],
+    "with_less-other_rate": [
+      0.0425531914893617,
+      0.018518518518518517
+    ],
+    "with_less-leave+less+other_rate": [
+      0.5106382978723404,
+      0.5
+    ],
+    "without_less-land_rate": [
+      0.5135135135135135,
+      0.6097560975609756
+    ],
+    "without_less-can_ils_rate": [
+      0.6486486486486487,
+      0.7073170731707317
+    ],
+    "without_less-done_ils_rate": [
+      0.6486486486486487,
+      0.7073170731707317
+    ],
+    "without_less-good_ils_rate": [
+      0.6486486486486487,
+      0.7073170731707317
+    ],
+    "without_less-on_ils_rate": [
+      0.6486486486486487,
+      0.7073170731707317
+    ],
+    "without_less-lost_rate": [
+      0.10810810810810811,
+      0.04878048780487805
+    ],
+    "without_less-leave_rate": [
+      0.32432432432432434,
+      0.3170731707317073
+    ],
+    "without_less-other_rate": [
+      0.05405405405405406,
+      0.024390243902439025
+    ],
+    "without_less-leave+other_rate": [
+      0.3783783783783784,
+      0.34146341463414637
+    ]
+  },
+  "000020/10": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000020/10/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000020/10/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      53,
+      49
+    ],
+    "raw-total-can-ils": [
+      25,
+      25
+    ],
+    "raw-total-done-ils": [
+      25,
+      25
+    ],
+    "raw-total-good-ils": [
+      25,
+      25
+    ],
+    "raw-total-on-ils": [
+      25,
+      25
+    ],
+    "raw-total-missed": [
+      1,
+      1
+    ],
+    "raw-total-avg_len": [
+      1246.132075471698,
+      1237.5102040816328
+    ],
+    "raw-land": [
+      20,
+      18
+    ],
+    "raw-land-can-ils": [
+      20,
+      18
+    ],
+    "raw-land-done-ils": [
+      20,
+      18
+    ],
+    "raw-land-good-ils": [
+      20,
+      18
+    ],
+    "raw-land-on-ils": [
+      20,
+      18
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      1943.2,
+      1651.611111111111
+    ],
+    "raw-leave": [
+      13,
+      13
+    ],
+    "raw-leave-can-ils": [
+      1,
+      1
+    ],
+    "raw-leave-done-ils": [
+      1,
+      1
+    ],
+    "raw-leave-good-ils": [
+      1,
+      1
+    ],
+    "raw-leave-on-ils": [
+      1,
+      1
+    ],
+    "raw-leave-missed": [
+      1,
+      1
+    ],
+    "raw-leave-avg_len": [
+      312.15384615384613,
+      338.7692307692308
+    ],
+    "raw-lost": [
+      4,
+      2
+    ],
+    "raw-lost-can-ils": [
+      4,
+      2
+    ],
+    "raw-lost-done-ils": [
+      4,
+      2
+    ],
+    "raw-lost-good-ils": [
+      4,
+      2
+    ],
+    "raw-lost-on-ils": [
+      4,
+      2
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      1338.0,
+      1327.5
+    ],
+    "raw-less": [
+      16,
+      12
+    ],
+    "raw-less-can-ils": [
+      0,
+      3
+    ],
+    "raw-less-done-ils": [
+      0,
+      3
+    ],
+    "raw-less-good-ils": [
+      0,
+      3
+    ],
+    "raw-less-on-ils": [
+      0,
+      3
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      1110.6875,
+      795.8333333333334
+    ],
+    "raw-other": [
+      0,
+      4
+    ],
+    "raw-other-can-ils": [
+      0,
+      1
+    ],
+    "raw-other-done-ils": [
+      0,
+      1
+    ],
+    "raw-other-good-ils": [
+      0,
+      1
+    ],
+    "raw-other-on-ils": [
+      0,
+      1
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      0,
+      3575.0
+    ],
+    "with_less-land_rate": [
+      0.37735849056603776,
+      0.3673469387755102
+    ],
+    "with_less-can_ils_rate": [
+      0.4716981132075472,
+      0.5102040816326531
+    ],
+    "with_less-done_ils_rate": [
+      0.4716981132075472,
+      0.5102040816326531
+    ],
+    "with_less-good_ils_rate": [
+      0.4716981132075472,
+      0.5102040816326531
+    ],
+    "with_less-on_ils_rate": [
+      0.4716981132075472,
+      0.5102040816326531
+    ],
+    "with_less-lost_rate": [
+      0.07547169811320754,
+      0.04081632653061224
+    ],
+    "with_less-leave_rate": [
+      0.24528301886792453,
+      0.2653061224489796
+    ],
+    "with_less-less_rate": [
+      0.3018867924528302,
+      0.24489795918367346
+    ],
+    "with_less-other_rate": [
+      0.0,
+      0.08163265306122448
+    ],
+    "with_less-leave+less+other_rate": [
+      0.5471698113207547,
+      0.5918367346938775
+    ],
+    "without_less-land_rate": [
+      0.5405405405405406,
+      0.4864864864864865
+    ],
+    "without_less-can_ils_rate": [
+      0.6756756756756757,
+      0.5945945945945946
+    ],
+    "without_less-done_ils_rate": [
+      0.6756756756756757,
+      0.5945945945945946
+    ],
+    "without_less-good_ils_rate": [
+      0.6756756756756757,
+      0.5945945945945946
+    ],
+    "without_less-on_ils_rate": [
+      0.6756756756756757,
+      0.5945945945945946
+    ],
+    "without_less-lost_rate": [
+      0.10810810810810811,
+      0.05405405405405406
+    ],
+    "without_less-leave_rate": [
+      0.35135135135135137,
+      0.35135135135135137
+    ],
+    "without_less-other_rate": [
+      0.0,
+      0.10810810810810811
+    ],
+    "without_less-leave+other_rate": [
+      0.35135135135135137,
+      0.4594594594594595
+    ]
+  },
+  "000020/12": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000020/12/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000020/12/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      49,
+      47
+    ],
+    "raw-total-can-ils": [
+      24,
+      19
+    ],
+    "raw-total-done-ils": [
+      24,
+      19
+    ],
+    "raw-total-good-ils": [
+      24,
+      19
+    ],
+    "raw-total-on-ils": [
+      24,
+      19
+    ],
+    "raw-total-missed": [
+      0,
+      0
+    ],
+    "raw-total-avg_len": [
+      1589.6326530612246,
+      1615.4468085106382
+    ],
+    "raw-land": [
+      23,
+      15
+    ],
+    "raw-land-can-ils": [
+      23,
+      15
+    ],
+    "raw-land-done-ils": [
+      23,
+      15
+    ],
+    "raw-land-good-ils": [
+      23,
+      15
+    ],
+    "raw-land-on-ils": [
+      23,
+      15
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      1757.0434782608695,
+      1626.2666666666667
+    ],
+    "raw-leave": [
+      6,
+      5
+    ],
+    "raw-leave-can-ils": [
+      0,
+      0
+    ],
+    "raw-leave-done-ils": [
+      0,
+      0
+    ],
+    "raw-leave-good-ils": [
+      0,
+      0
+    ],
+    "raw-leave-on-ils": [
+      0,
+      0
+    ],
+    "raw-leave-missed": [
+      0,
+      0
+    ],
+    "raw-leave-avg_len": [
+      180.83333333333334,
+      201.4
+    ],
+    "raw-lost": [
+      6,
+      4
+    ],
+    "raw-lost-can-ils": [
+      0,
+      0
+    ],
+    "raw-lost-done-ils": [
+      0,
+      0
+    ],
+    "raw-lost-good-ils": [
+      0,
+      0
+    ],
+    "raw-lost-on-ils": [
+      0,
+      0
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      3448.1666666666665,
+      2737.25
+    ],
+    "raw-less": [
+      12,
+      15
+    ],
+    "raw-less-can-ils": [
+      0,
+      2
+    ],
+    "raw-less-done-ils": [
+      0,
+      2
+    ],
+    "raw-less-good-ils": [
+      0,
+      2
+    ],
+    "raw-less-on-ils": [
+      0,
+      2
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      828.75,
+      974.3333333333334
+    ],
+    "raw-other": [
+      2,
+      8
+    ],
+    "raw-other-can-ils": [
+      1,
+      2
+    ],
+    "raw-other-done-ils": [
+      1,
+      2
+    ],
+    "raw-other-good-ils": [
+      1,
+      2
+    ],
+    "raw-other-on-ils": [
+      1,
+      2
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      2880.5,
+      3120.125
+    ],
+    "with_less-land_rate": [
+      0.46938775510204084,
+      0.3191489361702128
+    ],
+    "with_less-can_ils_rate": [
+      0.4897959183673469,
+      0.40425531914893614
+    ],
+    "with_less-done_ils_rate": [
+      0.4897959183673469,
+      0.40425531914893614
+    ],
+    "with_less-good_ils_rate": [
+      0.4897959183673469,
+      0.40425531914893614
+    ],
+    "with_less-on_ils_rate": [
+      0.4897959183673469,
+      0.40425531914893614
+    ],
+    "with_less-lost_rate": [
+      0.12244897959183673,
+      0.0851063829787234
+    ],
+    "with_less-leave_rate": [
+      0.12244897959183673,
+      0.10638297872340426
+    ],
+    "with_less-less_rate": [
+      0.24489795918367346,
+      0.3191489361702128
+    ],
+    "with_less-other_rate": [
+      0.04081632653061224,
+      0.1702127659574468
+    ],
+    "with_less-leave+less+other_rate": [
+      0.40816326530612246,
+      0.5957446808510638
+    ],
+    "without_less-land_rate": [
+      0.6216216216216216,
+      0.46875
+    ],
+    "without_less-can_ils_rate": [
+      0.6486486486486487,
+      0.53125
+    ],
+    "without_less-done_ils_rate": [
+      0.6486486486486487,
+      0.53125
+    ],
+    "without_less-good_ils_rate": [
+      0.6486486486486487,
+      0.53125
+    ],
+    "without_less-on_ils_rate": [
+      0.6486486486486487,
+      0.53125
+    ],
+    "without_less-lost_rate": [
+      0.16216216216216217,
+      0.125
+    ],
+    "without_less-leave_rate": [
+      0.16216216216216217,
+      0.15625
+    ],
+    "without_less-other_rate": [
+      0.05405405405405406,
+      0.25
+    ],
+    "without_less-leave+other_rate": [
+      0.21621621621621623,
+      0.40625
+    ]
+  },
+  "000040/06": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000040/06/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000040/06/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      47,
+      53
+    ],
+    "raw-total-can-ils": [
+      4,
+      4
+    ],
+    "raw-total-done-ils": [
+      4,
+      4
+    ],
+    "raw-total-good-ils": [
+      4,
+      4
+    ],
+    "raw-total-on-ils": [
+      4,
+      4
+    ],
+    "raw-total-missed": [
+      0,
+      0
+    ],
+    "raw-total-avg_len": [
+      1787.659574468085,
+      1944.4716981132076
+    ],
+    "raw-land": [
+      2,
+      3
+    ],
+    "raw-land-can-ils": [
+      2,
+      3
+    ],
+    "raw-land-done-ils": [
+      2,
+      3
+    ],
+    "raw-land-good-ils": [
+      2,
+      3
+    ],
+    "raw-land-on-ils": [
+      2,
+      3
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      1770.0,
+      1758.0
+    ],
+    "raw-leave": [
+      4,
+      1
+    ],
+    "raw-leave-can-ils": [
+      0,
+      0
+    ],
+    "raw-leave-done-ils": [
+      0,
+      0
+    ],
+    "raw-leave-good-ils": [
+      0,
+      0
+    ],
+    "raw-leave-on-ils": [
+      0,
+      0
+    ],
+    "raw-leave-missed": [
+      0,
+      0
+    ],
+    "raw-leave-avg_len": [
+      801.0,
+      1803.0
+    ],
+    "raw-lost": [
+      10,
+      16
+    ],
+    "raw-lost-can-ils": [
+      0,
+      0
+    ],
+    "raw-lost-done-ils": [
+      0,
+      0
+    ],
+    "raw-lost-good-ils": [
+      0,
+      0
+    ],
+    "raw-lost-on-ils": [
+      0,
+      0
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      2265.6,
+      2733.6875
+    ],
+    "raw-less": [
+      20,
+      20
+    ],
+    "raw-less-can-ils": [
+      2,
+      0
+    ],
+    "raw-less-done-ils": [
+      2,
+      0
+    ],
+    "raw-less-good-ils": [
+      2,
+      0
+    ],
+    "raw-less-on-ils": [
+      2,
+      0
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      984.25,
+      745.55
+    ],
+    "raw-other": [
+      11,
+      13
+    ],
+    "raw-other-can-ils": [
+      0,
+      1
+    ],
+    "raw-other-done-ils": [
+      0,
+      1
+    ],
+    "raw-other-good-ils": [
+      0,
+      1
+    ],
+    "raw-other-on-ils": [
+      0,
+      1
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      3175.909090909091,
+      2871.5384615384614
+    ],
+    "with_less-land_rate": [
+      0.0425531914893617,
+      0.05660377358490566
+    ],
+    "with_less-can_ils_rate": [
+      0.0851063829787234,
+      0.07547169811320754
+    ],
+    "with_less-done_ils_rate": [
+      0.0851063829787234,
+      0.07547169811320754
+    ],
+    "with_less-good_ils_rate": [
+      0.0851063829787234,
+      0.07547169811320754
+    ],
+    "with_less-on_ils_rate": [
+      0.0851063829787234,
+      0.07547169811320754
+    ],
+    "with_less-lost_rate": [
+      0.2127659574468085,
+      0.3018867924528302
+    ],
+    "with_less-leave_rate": [
+      0.0851063829787234,
+      0.018867924528301886
+    ],
+    "with_less-less_rate": [
+      0.425531914893617,
+      0.37735849056603776
+    ],
+    "with_less-other_rate": [
+      0.23404255319148937,
+      0.24528301886792453
+    ],
+    "with_less-leave+less+other_rate": [
+      0.7446808510638298,
+      0.6415094339622641
+    ],
+    "without_less-land_rate": [
+      0.07407407407407407,
+      0.09090909090909091
+    ],
+    "without_less-can_ils_rate": [
+      0.07407407407407407,
+      0.12121212121212122
+    ],
+    "without_less-done_ils_rate": [
+      0.07407407407407407,
+      0.12121212121212122
+    ],
+    "without_less-good_ils_rate": [
+      0.07407407407407407,
+      0.12121212121212122
+    ],
+    "without_less-on_ils_rate": [
+      0.07407407407407407,
+      0.12121212121212122
+    ],
+    "without_less-lost_rate": [
+      0.37037037037037035,
+      0.48484848484848486
+    ],
+    "without_less-leave_rate": [
+      0.14814814814814814,
+      0.030303030303030304
+    ],
+    "without_less-other_rate": [
+      0.4074074074074074,
+      0.3939393939393939
+    ],
+    "without_less-leave+other_rate": [
+      0.5555555555555556,
+      0.42424242424242425
+    ]
+  },
+  "000040/08": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000040/08/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000040/08/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      49,
+      50
+    ],
+    "raw-total-can-ils": [
+      8,
+      8
+    ],
+    "raw-total-done-ils": [
+      8,
+      8
+    ],
+    "raw-total-good-ils": [
+      8,
+      8
+    ],
+    "raw-total-on-ils": [
+      8,
+      8
+    ],
+    "raw-total-missed": [
+      0,
+      0
+    ],
+    "raw-total-avg_len": [
+      1979.591836734694,
+      2068.98
+    ],
+    "raw-land": [
+      7,
+      7
+    ],
+    "raw-land-can-ils": [
+      7,
+      7
+    ],
+    "raw-land-done-ils": [
+      7,
+      7
+    ],
+    "raw-land-good-ils": [
+      7,
+      7
+    ],
+    "raw-land-on-ils": [
+      7,
+      7
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      2132.4285714285716,
+      2086.714285714286
+    ],
+    "raw-leave": [
+      0,
+      1
+    ],
+    "raw-leave-can-ils": [
+      0,
+      0
+    ],
+    "raw-leave-done-ils": [
+      0,
+      0
+    ],
+    "raw-leave-good-ils": [
+      0,
+      0
+    ],
+    "raw-leave-on-ils": [
+      0,
+      0
+    ],
+    "raw-leave-missed": [
+      0,
+      0
+    ],
+    "raw-leave-avg_len": [
+      0,
+      534.0
+    ],
+    "raw-lost": [
+      16,
+      16
+    ],
+    "raw-lost-can-ils": [
+      0,
+      0
+    ],
+    "raw-lost-done-ils": [
+      0,
+      0
+    ],
+    "raw-lost-good-ils": [
+      0,
+      0
+    ],
+    "raw-lost-on-ils": [
+      0,
+      0
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      2533.0,
+      3056.3125
+    ],
+    "raw-less": [
+      17,
+      18
+    ],
+    "raw-less-can-ils": [
+      1,
+      1
+    ],
+    "raw-less-done-ils": [
+      1,
+      1
+    ],
+    "raw-less-good-ils": [
+      1,
+      1
+    ],
+    "raw-less-on-ils": [
+      1,
+      1
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      808.1176470588235,
+      960.3333333333334
+    ],
+    "raw-other": [
+      9,
+      8
+    ],
+    "raw-other-can-ils": [
+      0,
+      0
+    ],
+    "raw-other-done-ils": [
+      0,
+      0
+    ],
+    "raw-other-good-ils": [
+      0,
+      0
+    ],
+    "raw-other-on-ils": [
+      0,
+      0
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      3089.6666666666665,
+      2765.125
+    ],
+    "with_less-land_rate": [
+      0.14285714285714285,
+      0.14
+    ],
+    "with_less-can_ils_rate": [
+      0.16326530612244897,
+      0.16
+    ],
+    "with_less-done_ils_rate": [
+      0.16326530612244897,
+      0.16
+    ],
+    "with_less-good_ils_rate": [
+      0.16326530612244897,
+      0.16
+    ],
+    "with_less-on_ils_rate": [
+      0.16326530612244897,
+      0.16
+    ],
+    "with_less-lost_rate": [
+      0.32653061224489793,
+      0.32
+    ],
+    "with_less-leave_rate": [
+      0.0,
+      0.02
+    ],
+    "with_less-less_rate": [
+      0.3469387755102041,
+      0.36
+    ],
+    "with_less-other_rate": [
+      0.1836734693877551,
+      0.16
+    ],
+    "with_less-leave+less+other_rate": [
+      0.5306122448979592,
+      0.54
+    ],
+    "without_less-land_rate": [
+      0.21875,
+      0.21875
+    ],
+    "without_less-can_ils_rate": [
+      0.21875,
+      0.21875
+    ],
+    "without_less-done_ils_rate": [
+      0.21875,
+      0.21875
+    ],
+    "without_less-good_ils_rate": [
+      0.21875,
+      0.21875
+    ],
+    "without_less-on_ils_rate": [
+      0.21875,
+      0.21875
+    ],
+    "without_less-lost_rate": [
+      0.5,
+      0.5
+    ],
+    "without_less-leave_rate": [
+      0.0,
+      0.03125
+    ],
+    "without_less-other_rate": [
+      0.28125,
+      0.25
+    ],
+    "without_less-leave+other_rate": [
+      0.28125,
+      0.28125
+    ]
+  },
+  "000040/10": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000040/10/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000040/10/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      45,
+      47
+    ],
+    "raw-total-can-ils": [
+      9,
+      9
+    ],
+    "raw-total-done-ils": [
+      9,
+      9
+    ],
+    "raw-total-good-ils": [
+      9,
+      9
+    ],
+    "raw-total-on-ils": [
+      9,
+      9
+    ],
+    "raw-total-missed": [
+      0,
+      0
+    ],
+    "raw-total-avg_len": [
+      2082.911111111111,
+      2047.212765957447
+    ],
+    "raw-land": [
+      8,
+      7
+    ],
+    "raw-land-can-ils": [
+      8,
+      7
+    ],
+    "raw-land-done-ils": [
+      8,
+      7
+    ],
+    "raw-land-good-ils": [
+      8,
+      7
+    ],
+    "raw-land-on-ils": [
+      8,
+      7
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      1982.25,
+      1763.857142857143
+    ],
+    "raw-leave": [
+      3,
+      0
+    ],
+    "raw-leave-can-ils": [
+      0,
+      0
+    ],
+    "raw-leave-done-ils": [
+      0,
+      0
+    ],
+    "raw-leave-good-ils": [
+      0,
+      0
+    ],
+    "raw-leave-on-ils": [
+      0,
+      0
+    ],
+    "raw-leave-missed": [
+      0,
+      0
+    ],
+    "raw-leave-avg_len": [
+      498.3333333333333,
+      0
+    ],
+    "raw-lost": [
+      8,
+      12
+    ],
+    "raw-lost-can-ils": [
+      0,
+      0
+    ],
+    "raw-lost-done-ils": [
+      0,
+      0
+    ],
+    "raw-lost-good-ils": [
+      0,
+      0
+    ],
+    "raw-lost-on-ils": [
+      0,
+      0
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      2806.5,
+      2313.5833333333335
+    ],
+    "raw-less": [
+      14,
+      15
+    ],
+    "raw-less-can-ils": [
+      1,
+      2
+    ],
+    "raw-less-done-ils": [
+      1,
+      2
+    ],
+    "raw-less-good-ils": [
+      1,
+      2
+    ],
+    "raw-less-on-ils": [
+      1,
+      2
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      955.4285714285714,
+      997.0
+    ],
+    "raw-other": [
+      12,
+      13
+    ],
+    "raw-other-can-ils": [
+      0,
+      0
+    ],
+    "raw-other-done-ils": [
+      0,
+      0
+    ],
+    "raw-other-good-ils": [
+      0,
+      0
+    ],
+    "raw-other-on-ils": [
+      0,
+      0
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      3379.1666666666665,
+      3165.6923076923076
+    ],
+    "with_less-land_rate": [
+      0.17777777777777778,
+      0.14893617021276595
+    ],
+    "with_less-can_ils_rate": [
+      0.2,
+      0.19148936170212766
+    ],
+    "with_less-done_ils_rate": [
+      0.2,
+      0.19148936170212766
+    ],
+    "with_less-good_ils_rate": [
+      0.2,
+      0.19148936170212766
+    ],
+    "with_less-on_ils_rate": [
+      0.2,
+      0.19148936170212766
+    ],
+    "with_less-lost_rate": [
+      0.17777777777777778,
+      0.2553191489361702
+    ],
+    "with_less-leave_rate": [
+      0.06666666666666667,
+      0.0
+    ],
+    "with_less-less_rate": [
+      0.3111111111111111,
+      0.3191489361702128
+    ],
+    "with_less-other_rate": [
+      0.26666666666666666,
+      0.2765957446808511
+    ],
+    "with_less-leave+less+other_rate": [
+      0.6444444444444445,
+      0.5957446808510638
+    ],
+    "without_less-land_rate": [
+      0.25806451612903225,
+      0.21875
+    ],
+    "without_less-can_ils_rate": [
+      0.25806451612903225,
+      0.21875
+    ],
+    "without_less-done_ils_rate": [
+      0.25806451612903225,
+      0.21875
+    ],
+    "without_less-good_ils_rate": [
+      0.25806451612903225,
+      0.21875
+    ],
+    "without_less-on_ils_rate": [
+      0.25806451612903225,
+      0.21875
+    ],
+    "without_less-lost_rate": [
+      0.25806451612903225,
+      0.375
+    ],
+    "without_less-leave_rate": [
+      0.0967741935483871,
+      0.0
+    ],
+    "without_less-other_rate": [
+      0.3870967741935484,
+      0.40625
+    ],
+    "without_less-leave+other_rate": [
+      0.4838709677419355,
+      0.40625
+    ]
+  },
+  "000040/12": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000040/12/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000040/12/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      53,
+      50
+    ],
+    "raw-total-can-ils": [
+      16,
+      7
+    ],
+    "raw-total-done-ils": [
+      16,
+      7
+    ],
+    "raw-total-good-ils": [
+      16,
+      7
+    ],
+    "raw-total-on-ils": [
+      16,
+      7
+    ],
+    "raw-total-missed": [
+      2,
+      0
+    ],
+    "raw-total-avg_len": [
+      2183.0754716981132,
+      1824.72
+    ],
+    "raw-land": [
+      11,
+      6
+    ],
+    "raw-land-can-ils": [
+      11,
+      6
+    ],
+    "raw-land-done-ils": [
+      11,
+      6
+    ],
+    "raw-land-good-ils": [
+      11,
+      6
+    ],
+    "raw-land-on-ils": [
+      11,
+      6
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      2004.7272727272727,
+      1581.3333333333333
+    ],
+    "raw-leave": [
+      2,
+      1
+    ],
+    "raw-leave-can-ils": [
+      2,
+      0
+    ],
+    "raw-leave-done-ils": [
+      2,
+      0
+    ],
+    "raw-leave-good-ils": [
+      2,
+      0
+    ],
+    "raw-leave-on-ils": [
+      2,
+      0
+    ],
+    "raw-leave-missed": [
+      2,
+      0
+    ],
+    "raw-leave-avg_len": [
+      2419.5,
+      467.0
+    ],
+    "raw-lost": [
+      6,
+      16
+    ],
+    "raw-lost-can-ils": [
+      0,
+      0
+    ],
+    "raw-lost-done-ils": [
+      0,
+      0
+    ],
+    "raw-lost-good-ils": [
+      0,
+      0
+    ],
+    "raw-lost-on-ils": [
+      0,
+      0
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      2249.3333333333335,
+      2302.875
+    ],
+    "raw-less": [
+      18,
+      17
+    ],
+    "raw-less-can-ils": [
+      1,
+      1
+    ],
+    "raw-less-done-ils": [
+      1,
+      1
+    ],
+    "raw-less-good-ils": [
+      1,
+      1
+    ],
+    "raw-less-on-ils": [
+      1,
+      1
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      985.7777777777778,
+      926.8823529411765
+    ],
+    "raw-other": [
+      16,
+      10
+    ],
+    "raw-other-can-ils": [
+      2,
+      0
+    ],
+    "raw-other-done-ils": [
+      2,
+      0
+    ],
+    "raw-other-good-ils": [
+      2,
+      0
+    ],
+    "raw-other-on-ils": [
+      2,
+      0
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      3598.25,
+      2867.8
+    ],
+    "with_less-land_rate": [
+      0.20754716981132076,
+      0.12
+    ],
+    "with_less-can_ils_rate": [
+      0.3018867924528302,
+      0.14
+    ],
+    "with_less-done_ils_rate": [
+      0.3018867924528302,
+      0.14
+    ],
+    "with_less-good_ils_rate": [
+      0.3018867924528302,
+      0.14
+    ],
+    "with_less-on_ils_rate": [
+      0.3018867924528302,
+      0.14
+    ],
+    "with_less-lost_rate": [
+      0.11320754716981132,
+      0.32
+    ],
+    "with_less-leave_rate": [
+      0.03773584905660377,
+      0.02
+    ],
+    "with_less-less_rate": [
+      0.33962264150943394,
+      0.34
+    ],
+    "with_less-other_rate": [
+      0.3018867924528302,
+      0.2
+    ],
+    "with_less-leave+less+other_rate": [
+      0.6792452830188679,
+      0.56
+    ],
+    "without_less-land_rate": [
+      0.3142857142857143,
+      0.18181818181818182
+    ],
+    "without_less-can_ils_rate": [
+      0.42857142857142855,
+      0.18181818181818182
+    ],
+    "without_less-done_ils_rate": [
+      0.42857142857142855,
+      0.18181818181818182
+    ],
+    "without_less-good_ils_rate": [
+      0.42857142857142855,
+      0.18181818181818182
+    ],
+    "without_less-on_ils_rate": [
+      0.42857142857142855,
+      0.18181818181818182
+    ],
+    "without_less-lost_rate": [
+      0.17142857142857143,
+      0.48484848484848486
+    ],
+    "without_less-leave_rate": [
+      0.05714285714285714,
+      0.030303030303030304
+    ],
+    "without_less-other_rate": [
+      0.45714285714285713,
+      0.30303030303030304
+    ],
+    "without_less-leave+other_rate": [
+      0.5142857142857142,
+      0.3333333333333333
+    ]
+  },
+  "000060/06": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000060/06/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000060/06/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      48,
+      51
+    ],
+    "raw-total-can-ils": [
+      9,
+      10
+    ],
+    "raw-total-done-ils": [
+      9,
+      10
+    ],
+    "raw-total-good-ils": [
+      9,
+      10
+    ],
+    "raw-total-on-ils": [
+      9,
+      10
+    ],
+    "raw-total-missed": [
+      1,
+      0
+    ],
+    "raw-total-avg_len": [
+      1755.8541666666667,
+      1934.313725490196
+    ],
+    "raw-land": [
+      8,
+      9
+    ],
+    "raw-land-can-ils": [
+      8,
+      9
+    ],
+    "raw-land-done-ils": [
+      8,
+      9
+    ],
+    "raw-land-good-ils": [
+      8,
+      9
+    ],
+    "raw-land-on-ils": [
+      8,
+      9
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      1700.625,
+      1855.6666666666667
+    ],
+    "raw-leave": [
+      18,
+      8
+    ],
+    "raw-leave-can-ils": [
+      1,
+      0
+    ],
+    "raw-leave-done-ils": [
+      1,
+      0
+    ],
+    "raw-leave-good-ils": [
+      1,
+      0
+    ],
+    "raw-leave-on-ils": [
+      1,
+      0
+    ],
+    "raw-leave-missed": [
+      1,
+      0
+    ],
+    "raw-leave-avg_len": [
+      1397.7777777777778,
+      865.0
+    ],
+    "raw-lost": [
+      0,
+      8
+    ],
+    "raw-lost-can-ils": [
+      0,
+      0
+    ],
+    "raw-lost-done-ils": [
+      0,
+      0
+    ],
+    "raw-lost-good-ils": [
+      0,
+      0
+    ],
+    "raw-lost-on-ils": [
+      0,
+      0
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      0,
+      3565.75
+    ],
+    "raw-less": [
+      14,
+      15
+    ],
+    "raw-less-can-ils": [
+      0,
+      0
+    ],
+    "raw-less-done-ils": [
+      0,
+      0
+    ],
+    "raw-less-good-ils": [
+      0,
+      0
+    ],
+    "raw-less-on-ils": [
+      0,
+      0
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      867.6428571428571,
+      894.0
+    ],
+    "raw-other": [
+      8,
+      11
+    ],
+    "raw-other-can-ils": [
+      0,
+      1
+    ],
+    "raw-other-done-ils": [
+      0,
+      1
+    ],
+    "raw-other-good-ils": [
+      0,
+      1
+    ],
+    "raw-other-on-ils": [
+      0,
+      1
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      4171.125,
+      3008.4545454545455
+    ],
+    "with_less-land_rate": [
+      0.16666666666666666,
+      0.17647058823529413
+    ],
+    "with_less-can_ils_rate": [
+      0.1875,
+      0.19607843137254902
+    ],
+    "with_less-done_ils_rate": [
+      0.1875,
+      0.19607843137254902
+    ],
+    "with_less-good_ils_rate": [
+      0.1875,
+      0.19607843137254902
+    ],
+    "with_less-on_ils_rate": [
+      0.1875,
+      0.19607843137254902
+    ],
+    "with_less-lost_rate": [
+      0.0,
+      0.1568627450980392
+    ],
+    "with_less-leave_rate": [
+      0.375,
+      0.1568627450980392
+    ],
+    "with_less-less_rate": [
+      0.2916666666666667,
+      0.29411764705882354
+    ],
+    "with_less-other_rate": [
+      0.16666666666666666,
+      0.21568627450980393
+    ],
+    "with_less-leave+less+other_rate": [
+      0.8333333333333334,
+      0.6666666666666666
+    ],
+    "without_less-land_rate": [
+      0.23529411764705882,
+      0.25
+    ],
+    "without_less-can_ils_rate": [
+      0.2647058823529412,
+      0.2777777777777778
+    ],
+    "without_less-done_ils_rate": [
+      0.2647058823529412,
+      0.2777777777777778
+    ],
+    "without_less-good_ils_rate": [
+      0.2647058823529412,
+      0.2777777777777778
+    ],
+    "without_less-on_ils_rate": [
+      0.2647058823529412,
+      0.2777777777777778
+    ],
+    "without_less-lost_rate": [
+      0.0,
+      0.2222222222222222
+    ],
+    "without_less-leave_rate": [
+      0.5294117647058824,
+      0.2222222222222222
+    ],
+    "without_less-other_rate": [
+      0.23529411764705882,
+      0.3055555555555556
+    ],
+    "without_less-leave+other_rate": [
+      0.7647058823529411,
+      0.5277777777777778
+    ]
+  },
+  "000060/08": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000060/08/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000060/08/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      52,
+      46
+    ],
+    "raw-total-can-ils": [
+      17,
+      19
+    ],
+    "raw-total-done-ils": [
+      17,
+      19
+    ],
+    "raw-total-good-ils": [
+      17,
+      19
+    ],
+    "raw-total-on-ils": [
+      17,
+      19
+    ],
+    "raw-total-missed": [
+      0,
+      0
+    ],
+    "raw-total-avg_len": [
+      2143.346153846154,
+      2271.9347826086955
+    ],
+    "raw-land": [
+      13,
+      19
+    ],
+    "raw-land-can-ils": [
+      13,
+      19
+    ],
+    "raw-land-done-ils": [
+      13,
+      19
+    ],
+    "raw-land-good-ils": [
+      13,
+      19
+    ],
+    "raw-land-on-ils": [
+      13,
+      19
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      2038.3846153846155,
+      2314.5789473684213
+    ],
+    "raw-leave": [
+      2,
+      0
+    ],
+    "raw-leave-can-ils": [
+      0,
+      0
+    ],
+    "raw-leave-done-ils": [
+      0,
+      0
+    ],
+    "raw-leave-good-ils": [
+      0,
+      0
+    ],
+    "raw-leave-on-ils": [
+      0,
+      0
+    ],
+    "raw-leave-missed": [
+      0,
+      0
+    ],
+    "raw-leave-avg_len": [
+      1182.0,
+      0
+    ],
+    "raw-lost": [
+      4,
+      6
+    ],
+    "raw-lost-can-ils": [
+      2,
+      0
+    ],
+    "raw-lost-done-ils": [
+      2,
+      0
+    ],
+    "raw-lost-good-ils": [
+      2,
+      0
+    ],
+    "raw-lost-on-ils": [
+      2,
+      0
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      3679.25,
+      3567.0
+    ],
+    "raw-less": [
+      19,
+      14
+    ],
+    "raw-less-can-ils": [
+      1,
+      0
+    ],
+    "raw-less-done-ils": [
+      1,
+      0
+    ],
+    "raw-less-good-ils": [
+      1,
+      0
+    ],
+    "raw-less-on-ils": [
+      1,
+      0
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      1076.2105263157894,
+      991.9285714285714
+    ],
+    "raw-other": [
+      14,
+      7
+    ],
+    "raw-other-can-ils": [
+      1,
+      0
+    ],
+    "raw-other-done-ils": [
+      1,
+      0
+    ],
+    "raw-other-good-ils": [
+      1,
+      0
+    ],
+    "raw-other-on-ils": [
+      1,
+      0
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      3387.5714285714284,
+      3606.1428571428573
+    ],
+    "with_less-land_rate": [
+      0.25,
+      0.41304347826086957
+    ],
+    "with_less-can_ils_rate": [
+      0.3269230769230769,
+      0.41304347826086957
+    ],
+    "with_less-done_ils_rate": [
+      0.3269230769230769,
+      0.41304347826086957
+    ],
+    "with_less-good_ils_rate": [
+      0.3269230769230769,
+      0.41304347826086957
+    ],
+    "with_less-on_ils_rate": [
+      0.3269230769230769,
+      0.41304347826086957
+    ],
+    "with_less-lost_rate": [
+      0.07692307692307693,
+      0.13043478260869565
+    ],
+    "with_less-leave_rate": [
+      0.038461538461538464,
+      0.0
+    ],
+    "with_less-less_rate": [
+      0.36538461538461536,
+      0.30434782608695654
+    ],
+    "with_less-other_rate": [
+      0.2692307692307692,
+      0.15217391304347827
+    ],
+    "with_less-leave+less+other_rate": [
+      0.6730769230769231,
+      0.45652173913043476
+    ],
+    "without_less-land_rate": [
+      0.3939393939393939,
+      0.59375
+    ],
+    "without_less-can_ils_rate": [
+      0.48484848484848486,
+      0.59375
+    ],
+    "without_less-done_ils_rate": [
+      0.48484848484848486,
+      0.59375
+    ],
+    "without_less-good_ils_rate": [
+      0.48484848484848486,
+      0.59375
+    ],
+    "without_less-on_ils_rate": [
+      0.48484848484848486,
+      0.59375
+    ],
+    "without_less-lost_rate": [
+      0.12121212121212122,
+      0.1875
+    ],
+    "without_less-leave_rate": [
+      0.06060606060606061,
+      0.0
+    ],
+    "without_less-other_rate": [
+      0.42424242424242425,
+      0.21875
+    ],
+    "without_less-leave+other_rate": [
+      0.48484848484848486,
+      0.21875
+    ]
+  },
+  "000060/10": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000060/10/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000060/10/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      51,
+      47
+    ],
+    "raw-total-can-ils": [
+      27,
+      22
+    ],
+    "raw-total-done-ils": [
+      27,
+      22
+    ],
+    "raw-total-good-ils": [
+      27,
+      22
+    ],
+    "raw-total-on-ils": [
+      27,
+      22
+    ],
+    "raw-total-missed": [
+      0,
+      1
+    ],
+    "raw-total-avg_len": [
+      1989.1176470588234,
+      2066.425531914894
+    ],
+    "raw-land": [
+      24,
+      21
+    ],
+    "raw-land-can-ils": [
+      24,
+      21
+    ],
+    "raw-land-done-ils": [
+      24,
+      21
+    ],
+    "raw-land-good-ils": [
+      24,
+      21
+    ],
+    "raw-land-on-ils": [
+      24,
+      21
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      1938.75,
+      2145.0476190476193
+    ],
+    "raw-leave": [
+      1,
+      1
+    ],
+    "raw-leave-can-ils": [
+      0,
+      1
+    ],
+    "raw-leave-done-ils": [
+      0,
+      1
+    ],
+    "raw-leave-good-ils": [
+      0,
+      1
+    ],
+    "raw-leave-on-ils": [
+      0,
+      1
+    ],
+    "raw-leave-missed": [
+      0,
+      1
+    ],
+    "raw-leave-avg_len": [
+      557.0,
+      1895.0
+    ],
+    "raw-lost": [
+      2,
+      2
+    ],
+    "raw-lost-can-ils": [
+      2,
+      0
+    ],
+    "raw-lost-done-ils": [
+      2,
+      0
+    ],
+    "raw-lost-good-ils": [
+      2,
+      0
+    ],
+    "raw-lost-on-ils": [
+      2,
+      0
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      3592.5,
+      1906.0
+    ],
+    "raw-less": [
+      15,
+      14
+    ],
+    "raw-less-can-ils": [
+      0,
+      0
+    ],
+    "raw-less-done-ils": [
+      0,
+      0
+    ],
+    "raw-less-good-ils": [
+      0,
+      0
+    ],
+    "raw-less-on-ils": [
+      0,
+      0
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      865.6666666666666,
+      837.2857142857143
+    ],
+    "raw-other": [
+      9,
+      9
+    ],
+    "raw-other-can-ils": [
+      1,
+      0
+    ],
+    "raw-other-done-ils": [
+      1,
+      0
+    ],
+    "raw-other-good-ils": [
+      1,
+      0
+    ],
+    "raw-other-on-ils": [
+      1,
+      0
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      3798.6666666666665,
+      3849.6666666666665
+    ],
+    "with_less-land_rate": [
+      0.47058823529411764,
+      0.44680851063829785
+    ],
+    "with_less-can_ils_rate": [
+      0.5294117647058824,
+      0.46808510638297873
+    ],
+    "with_less-done_ils_rate": [
+      0.5294117647058824,
+      0.46808510638297873
+    ],
+    "with_less-good_ils_rate": [
+      0.5294117647058824,
+      0.46808510638297873
+    ],
+    "with_less-on_ils_rate": [
+      0.5294117647058824,
+      0.46808510638297873
+    ],
+    "with_less-lost_rate": [
+      0.0392156862745098,
+      0.0425531914893617
+    ],
+    "with_less-leave_rate": [
+      0.0196078431372549,
+      0.02127659574468085
+    ],
+    "with_less-less_rate": [
+      0.29411764705882354,
+      0.2978723404255319
+    ],
+    "with_less-other_rate": [
+      0.17647058823529413,
+      0.19148936170212766
+    ],
+    "with_less-leave+less+other_rate": [
+      0.49019607843137253,
+      0.5106382978723404
+    ],
+    "without_less-land_rate": [
+      0.6666666666666666,
+      0.6363636363636364
+    ],
+    "without_less-can_ils_rate": [
+      0.75,
+      0.6666666666666666
+    ],
+    "without_less-done_ils_rate": [
+      0.75,
+      0.6666666666666666
+    ],
+    "without_less-good_ils_rate": [
+      0.75,
+      0.6666666666666666
+    ],
+    "without_less-on_ils_rate": [
+      0.75,
+      0.6666666666666666
+    ],
+    "without_less-lost_rate": [
+      0.05555555555555555,
+      0.06060606060606061
+    ],
+    "without_less-leave_rate": [
+      0.027777777777777776,
+      0.030303030303030304
+    ],
+    "without_less-other_rate": [
+      0.25,
+      0.2727272727272727
+    ],
+    "without_less-leave+other_rate": [
+      0.2777777777777778,
+      0.30303030303030304
+    ]
+  },
+  "000060/12": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000060/12/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000060/12/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      50,
+      51
+    ],
+    "raw-total-can-ils": [
+      17,
+      19
+    ],
+    "raw-total-done-ils": [
+      17,
+      19
+    ],
+    "raw-total-good-ils": [
+      17,
+      19
+    ],
+    "raw-total-on-ils": [
+      17,
+      19
+    ],
+    "raw-total-missed": [
+      1,
+      1
+    ],
+    "raw-total-avg_len": [
+      1906.54,
+      2026.8431372549019
+    ],
+    "raw-land": [
+      13,
+      18
+    ],
+    "raw-land-can-ils": [
+      13,
+      18
+    ],
+    "raw-land-done-ils": [
+      13,
+      18
+    ],
+    "raw-land-good-ils": [
+      13,
+      18
+    ],
+    "raw-land-on-ils": [
+      13,
+      18
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      1814.5384615384614,
+      1864.3333333333333
+    ],
+    "raw-leave": [
+      4,
+      1
+    ],
+    "raw-leave-can-ils": [
+      1,
+      1
+    ],
+    "raw-leave-done-ils": [
+      1,
+      1
+    ],
+    "raw-leave-good-ils": [
+      1,
+      1
+    ],
+    "raw-leave-on-ils": [
+      1,
+      1
+    ],
+    "raw-leave-missed": [
+      1,
+      1
+    ],
+    "raw-leave-avg_len": [
+      820.25,
+      2786.0
+    ],
+    "raw-lost": [
+      2,
+      2
+    ],
+    "raw-lost-can-ils": [
+      0,
+      0
+    ],
+    "raw-lost-done-ils": [
+      0,
+      0
+    ],
+    "raw-lost-good-ils": [
+      0,
+      0
+    ],
+    "raw-lost-on-ils": [
+      0,
+      0
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      1654.5,
+      3219.0
+    ],
+    "raw-less": [
+      19,
+      19
+    ],
+    "raw-less-can-ils": [
+      3,
+      0
+    ],
+    "raw-less-done-ils": [
+      3,
+      0
+    ],
+    "raw-less-good-ils": [
+      3,
+      0
+    ],
+    "raw-less-on-ils": [
+      3,
+      0
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      974.3157894736842,
+      1029.5263157894738
+    ],
+    "raw-other": [
+      12,
+      11
+    ],
+    "raw-other-can-ils": [
+      0,
+      0
+    ],
+    "raw-other-done-ils": [
+      0,
+      0
+    ],
+    "raw-other-good-ils": [
+      0,
+      0
+    ],
+    "raw-other-on-ils": [
+      0,
+      0
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      3886.3333333333335,
+      3729.6363636363635
+    ],
+    "with_less-land_rate": [
+      0.26,
+      0.35294117647058826
+    ],
+    "with_less-can_ils_rate": [
+      0.34,
+      0.37254901960784315
+    ],
+    "with_less-done_ils_rate": [
+      0.34,
+      0.37254901960784315
+    ],
+    "with_less-good_ils_rate": [
+      0.34,
+      0.37254901960784315
+    ],
+    "with_less-on_ils_rate": [
+      0.34,
+      0.37254901960784315
+    ],
+    "with_less-lost_rate": [
+      0.04,
+      0.0392156862745098
+    ],
+    "with_less-leave_rate": [
+      0.08,
+      0.0196078431372549
+    ],
+    "with_less-less_rate": [
+      0.38,
+      0.37254901960784315
+    ],
+    "with_less-other_rate": [
+      0.24,
+      0.21568627450980393
+    ],
+    "with_less-leave+less+other_rate": [
+      0.7,
+      0.6078431372549019
+    ],
+    "without_less-land_rate": [
+      0.41935483870967744,
+      0.5625
+    ],
+    "without_less-can_ils_rate": [
+      0.45161290322580644,
+      0.59375
+    ],
+    "without_less-done_ils_rate": [
+      0.45161290322580644,
+      0.59375
+    ],
+    "without_less-good_ils_rate": [
+      0.45161290322580644,
+      0.59375
+    ],
+    "without_less-on_ils_rate": [
+      0.45161290322580644,
+      0.59375
+    ],
+    "without_less-lost_rate": [
+      0.06451612903225806,
+      0.0625
+    ],
+    "without_less-leave_rate": [
+      0.12903225806451613,
+      0.03125
+    ],
+    "without_less-other_rate": [
+      0.3870967741935484,
+      0.34375
+    ],
+    "without_less-leave+other_rate": [
+      0.5161290322580645,
+      0.375
+    ]
+  },
+  "000080/06": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000080/06/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000080/06/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      49,
+      49
+    ],
+    "raw-total-can-ils": [
+      35,
+      32
+    ],
+    "raw-total-done-ils": [
+      35,
+      31
+    ],
+    "raw-total-good-ils": [
+      34,
+      31
+    ],
+    "raw-total-on-ils": [
+      34,
+      31
+    ],
+    "raw-total-missed": [
+      0,
+      0
+    ],
+    "raw-total-avg_len": [
+      1529.4285714285713,
+      1401.6122448979593
+    ],
+    "raw-land": [
+      30,
+      29
+    ],
+    "raw-land-can-ils": [
+      30,
+      29
+    ],
+    "raw-land-done-ils": [
+      30,
+      29
+    ],
+    "raw-land-good-ils": [
+      30,
+      29
+    ],
+    "raw-land-on-ils": [
+      30,
+      29
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      1890.2666666666667,
+      1856.2068965517242
+    ],
+    "raw-leave": [
+      1,
+      4
+    ],
+    "raw-leave-can-ils": [
+      0,
+      0
+    ],
+    "raw-leave-done-ils": [
+      0,
+      0
+    ],
+    "raw-leave-good-ils": [
+      0,
+      0
+    ],
+    "raw-leave-on-ils": [
+      0,
+      0
+    ],
+    "raw-leave-missed": [
+      0,
+      0
+    ],
+    "raw-leave-avg_len": [
+      158.0,
+      224.75
+    ],
+    "raw-lost": [
+      0,
+      0
+    ],
+    "raw-lost-can-ils": [
+      0,
+      0
+    ],
+    "raw-lost-done-ils": [
+      0,
+      0
+    ],
+    "raw-lost-good-ils": [
+      0,
+      0
+    ],
+    "raw-lost-on-ils": [
+      0,
+      0
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      0,
+      0
+    ],
+    "raw-less": [
+      16,
+      16
+    ],
+    "raw-less-can-ils": [
+      4,
+      3
+    ],
+    "raw-less-done-ils": [
+      4,
+      2
+    ],
+    "raw-less-good-ils": [
+      3,
+      2
+    ],
+    "raw-less-on-ils": [
+      3,
+      2
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      856.625,
+      871.875
+    ],
+    "raw-other": [
+      2,
+      0
+    ],
+    "raw-other-can-ils": [
+      1,
+      0
+    ],
+    "raw-other-done-ils": [
+      1,
+      0
+    ],
+    "raw-other-good-ils": [
+      1,
+      0
+    ],
+    "raw-other-on-ils": [
+      1,
+      0
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      2185.0,
+      0
+    ],
+    "with_less-land_rate": [
+      0.6122448979591837,
+      0.5918367346938775
+    ],
+    "with_less-can_ils_rate": [
+      0.7142857142857143,
+      0.6530612244897959
+    ],
+    "with_less-done_ils_rate": [
+      0.7142857142857143,
+      0.6326530612244898
+    ],
+    "with_less-good_ils_rate": [
+      0.6938775510204082,
+      0.6326530612244898
+    ],
+    "with_less-on_ils_rate": [
+      0.6938775510204082,
+      0.6326530612244898
+    ],
+    "with_less-lost_rate": [
+      0.0,
+      0.0
+    ],
+    "with_less-leave_rate": [
+      0.02040816326530612,
+      0.08163265306122448
+    ],
+    "with_less-less_rate": [
+      0.32653061224489793,
+      0.32653061224489793
+    ],
+    "with_less-other_rate": [
+      0.04081632653061224,
+      0.0
+    ],
+    "with_less-leave+less+other_rate": [
+      0.3877551020408163,
+      0.40816326530612246
+    ],
+    "without_less-land_rate": [
+      0.9090909090909091,
+      0.8787878787878788
+    ],
+    "without_less-can_ils_rate": [
+      0.9393939393939394,
+      0.8787878787878788
+    ],
+    "without_less-done_ils_rate": [
+      0.9393939393939394,
+      0.8787878787878788
+    ],
+    "without_less-good_ils_rate": [
+      0.9393939393939394,
+      0.8787878787878788
+    ],
+    "without_less-on_ils_rate": [
+      0.9393939393939394,
+      0.8787878787878788
+    ],
+    "without_less-lost_rate": [
+      0.0,
+      0.0
+    ],
+    "without_less-leave_rate": [
+      0.030303030303030304,
+      0.12121212121212122
+    ],
+    "without_less-other_rate": [
+      0.06060606060606061,
+      0.0
+    ],
+    "without_less-leave+other_rate": [
+      0.09090909090909091,
+      0.12121212121212122
+    ]
+  },
+  "000080/08": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000080/08/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000080/08/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      48,
+      55
+    ],
+    "raw-total-can-ils": [
+      35,
+      38
+    ],
+    "raw-total-done-ils": [
+      35,
+      38
+    ],
+    "raw-total-good-ils": [
+      35,
+      38
+    ],
+    "raw-total-on-ils": [
+      35,
+      38
+    ],
+    "raw-total-missed": [
+      0,
+      0
+    ],
+    "raw-total-avg_len": [
+      1524.875,
+      1368.6909090909091
+    ],
+    "raw-land": [
+      30,
+      32
+    ],
+    "raw-land-can-ils": [
+      30,
+      32
+    ],
+    "raw-land-done-ils": [
+      30,
+      32
+    ],
+    "raw-land-good-ils": [
+      30,
+      32
+    ],
+    "raw-land-on-ils": [
+      30,
+      32
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      1805.2333333333333,
+      1766.03125
+    ],
+    "raw-leave": [
+      1,
+      3
+    ],
+    "raw-leave-can-ils": [
+      0,
+      0
+    ],
+    "raw-leave-done-ils": [
+      0,
+      0
+    ],
+    "raw-leave-good-ils": [
+      0,
+      0
+    ],
+    "raw-leave-on-ils": [
+      0,
+      0
+    ],
+    "raw-leave-missed": [
+      0,
+      0
+    ],
+    "raw-leave-avg_len": [
+      257.0,
+      205.0
+    ],
+    "raw-lost": [
+      0,
+      2
+    ],
+    "raw-lost-can-ils": [
+      0,
+      2
+    ],
+    "raw-lost-done-ils": [
+      0,
+      2
+    ],
+    "raw-lost-good-ils": [
+      0,
+      2
+    ],
+    "raw-lost-on-ils": [
+      0,
+      2
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      0,
+      1685.5
+    ],
+    "raw-less": [
+      16,
+      18
+    ],
+    "raw-less-can-ils": [
+      5,
+      4
+    ],
+    "raw-less-done-ils": [
+      5,
+      4
+    ],
+    "raw-less-good-ils": [
+      5,
+      4
+    ],
+    "raw-less-on-ils": [
+      5,
+      4
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      918.75,
+      821.0555555555555
+    ],
+    "raw-other": [
+      1,
+      0
+    ],
+    "raw-other-can-ils": [
+      0,
+      0
+    ],
+    "raw-other-done-ils": [
+      0,
+      0
+    ],
+    "raw-other-good-ils": [
+      0,
+      0
+    ],
+    "raw-other-on-ils": [
+      0,
+      0
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      4080.0,
+      0
+    ],
+    "with_less-land_rate": [
+      0.625,
+      0.5818181818181818
+    ],
+    "with_less-can_ils_rate": [
+      0.7291666666666666,
+      0.6909090909090909
+    ],
+    "with_less-done_ils_rate": [
+      0.7291666666666666,
+      0.6909090909090909
+    ],
+    "with_less-good_ils_rate": [
+      0.7291666666666666,
+      0.6909090909090909
+    ],
+    "with_less-on_ils_rate": [
+      0.7291666666666666,
+      0.6909090909090909
+    ],
+    "with_less-lost_rate": [
+      0.0,
+      0.03636363636363636
+    ],
+    "with_less-leave_rate": [
+      0.020833333333333332,
+      0.05454545454545454
+    ],
+    "with_less-less_rate": [
+      0.3333333333333333,
+      0.32727272727272727
+    ],
+    "with_less-other_rate": [
+      0.020833333333333332,
+      0.0
+    ],
+    "with_less-leave+less+other_rate": [
+      0.375,
+      0.38181818181818183
+    ],
+    "without_less-land_rate": [
+      0.9375,
+      0.8648648648648649
+    ],
+    "without_less-can_ils_rate": [
+      0.9375,
+      0.918918918918919
+    ],
+    "without_less-done_ils_rate": [
+      0.9375,
+      0.918918918918919
+    ],
+    "without_less-good_ils_rate": [
+      0.9375,
+      0.918918918918919
+    ],
+    "without_less-on_ils_rate": [
+      0.9375,
+      0.918918918918919
+    ],
+    "without_less-lost_rate": [
+      0.0,
+      0.05405405405405406
+    ],
+    "without_less-leave_rate": [
+      0.03125,
+      0.08108108108108109
+    ],
+    "without_less-other_rate": [
+      0.03125,
+      0.0
+    ],
+    "without_less-leave+other_rate": [
+      0.0625,
+      0.08108108108108109
+    ]
+  },
+  "000080/10": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000080/10/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000080/10/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      52,
+      44
+    ],
+    "raw-total-can-ils": [
+      27,
+      29
+    ],
+    "raw-total-done-ils": [
+      27,
+      29
+    ],
+    "raw-total-good-ils": [
+      27,
+      29
+    ],
+    "raw-total-on-ils": [
+      27,
+      29
+    ],
+    "raw-total-missed": [
+      2,
+      0
+    ],
+    "raw-total-avg_len": [
+      1539.423076923077,
+      1538.6818181818182
+    ],
+    "raw-land": [
+      23,
+      26
+    ],
+    "raw-land-can-ils": [
+      23,
+      26
+    ],
+    "raw-land-done-ils": [
+      23,
+      26
+    ],
+    "raw-land-good-ils": [
+      23,
+      26
+    ],
+    "raw-land-on-ils": [
+      23,
+      26
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      1686.5652173913043,
+      1705.3846153846155
+    ],
+    "raw-leave": [
+      3,
+      1
+    ],
+    "raw-leave-can-ils": [
+      2,
+      0
+    ],
+    "raw-leave-done-ils": [
+      2,
+      0
+    ],
+    "raw-leave-good-ils": [
+      2,
+      0
+    ],
+    "raw-leave-on-ils": [
+      2,
+      0
+    ],
+    "raw-leave-missed": [
+      2,
+      0
+    ],
+    "raw-leave-avg_len": [
+      1632.0,
+      183.0
+    ],
+    "raw-lost": [
+      4,
+      2
+    ],
+    "raw-lost-can-ils": [
+      0,
+      0
+    ],
+    "raw-lost-done-ils": [
+      0,
+      0
+    ],
+    "raw-lost-good-ils": [
+      0,
+      0
+    ],
+    "raw-lost-on-ils": [
+      0,
+      0
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      2634.75,
+      3572.0
+    ],
+    "raw-less": [
+      18,
+      13
+    ],
+    "raw-less-can-ils": [
+      2,
+      3
+    ],
+    "raw-less-done-ils": [
+      2,
+      3
+    ],
+    "raw-less-good-ils": [
+      2,
+      3
+    ],
+    "raw-less-on-ils": [
+      2,
+      3
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      874.3888888888889,
+      869.9230769230769
+    ],
+    "raw-other": [
+      4,
+      2
+    ],
+    "raw-other-can-ils": [
+      0,
+      0
+    ],
+    "raw-other-done-ils": [
+      0,
+      0
+    ],
+    "raw-other-good-ils": [
+      0,
+      0
+    ],
+    "raw-other-on-ils": [
+      0,
+      0
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      2521.25,
+      2363.0
+    ],
+    "with_less-land_rate": [
+      0.4423076923076923,
+      0.5909090909090909
+    ],
+    "with_less-can_ils_rate": [
+      0.5192307692307693,
+      0.6590909090909091
+    ],
+    "with_less-done_ils_rate": [
+      0.5192307692307693,
+      0.6590909090909091
+    ],
+    "with_less-good_ils_rate": [
+      0.5192307692307693,
+      0.6590909090909091
+    ],
+    "with_less-on_ils_rate": [
+      0.5192307692307693,
+      0.6590909090909091
+    ],
+    "with_less-lost_rate": [
+      0.07692307692307693,
+      0.045454545454545456
+    ],
+    "with_less-leave_rate": [
+      0.057692307692307696,
+      0.022727272727272728
+    ],
+    "with_less-less_rate": [
+      0.34615384615384615,
+      0.29545454545454547
+    ],
+    "with_less-other_rate": [
+      0.07692307692307693,
+      0.045454545454545456
+    ],
+    "with_less-leave+less+other_rate": [
+      0.4807692307692308,
+      0.36363636363636365
+    ],
+    "without_less-land_rate": [
+      0.6764705882352942,
+      0.8387096774193549
+    ],
+    "without_less-can_ils_rate": [
+      0.7352941176470589,
+      0.8387096774193549
+    ],
+    "without_less-done_ils_rate": [
+      0.7352941176470589,
+      0.8387096774193549
+    ],
+    "without_less-good_ils_rate": [
+      0.7352941176470589,
+      0.8387096774193549
+    ],
+    "without_less-on_ils_rate": [
+      0.7352941176470589,
+      0.8387096774193549
+    ],
+    "without_less-lost_rate": [
+      0.11764705882352941,
+      0.06451612903225806
+    ],
+    "without_less-leave_rate": [
+      0.08823529411764706,
+      0.03225806451612903
+    ],
+    "without_less-other_rate": [
+      0.11764705882352941,
+      0.06451612903225806
+    ],
+    "without_less-leave+other_rate": [
+      0.20588235294117646,
+      0.0967741935483871
+    ]
+  },
+  "000080/12": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000080/12/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000080/12/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      57,
+      48
+    ],
+    "raw-total-can-ils": [
+      16,
+      14
+    ],
+    "raw-total-done-ils": [
+      16,
+      14
+    ],
+    "raw-total-good-ils": [
+      16,
+      14
+    ],
+    "raw-total-on-ils": [
+      16,
+      14
+    ],
+    "raw-total-missed": [
+      0,
+      0
+    ],
+    "raw-total-avg_len": [
+      1983.122807017544,
+      2085.7083333333335
+    ],
+    "raw-land": [
+      12,
+      12
+    ],
+    "raw-land-can-ils": [
+      12,
+      12
+    ],
+    "raw-land-done-ils": [
+      12,
+      12
+    ],
+    "raw-land-good-ils": [
+      12,
+      12
+    ],
+    "raw-land-on-ils": [
+      12,
+      12
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      1660.5833333333333,
+      1977.3333333333333
+    ],
+    "raw-leave": [
+      1,
+      0
+    ],
+    "raw-leave-can-ils": [
+      0,
+      0
+    ],
+    "raw-leave-done-ils": [
+      0,
+      0
+    ],
+    "raw-leave-good-ils": [
+      0,
+      0
+    ],
+    "raw-leave-on-ils": [
+      0,
+      0
+    ],
+    "raw-leave-missed": [
+      0,
+      0
+    ],
+    "raw-leave-avg_len": [
+      389.0,
+      0
+    ],
+    "raw-lost": [
+      14,
+      10
+    ],
+    "raw-lost-can-ils": [
+      2,
+      0
+    ],
+    "raw-lost-done-ils": [
+      2,
+      0
+    ],
+    "raw-lost-good-ils": [
+      2,
+      0
+    ],
+    "raw-lost-on-ils": [
+      2,
+      0
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      2840.785714285714,
+      2904.0
+    ],
+    "raw-less": [
+      19,
+      16
+    ],
+    "raw-less-can-ils": [
+      2,
+      1
+    ],
+    "raw-less-done-ils": [
+      2,
+      1
+    ],
+    "raw-less-good-ils": [
+      2,
+      1
+    ],
+    "raw-less-on-ils": [
+      2,
+      1
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      872.0526315789474,
+      1080.25
+    ],
+    "raw-other": [
+      11,
+      10
+    ],
+    "raw-other-can-ils": [
+      0,
+      1
+    ],
+    "raw-other-done-ils": [
+      0,
+      1
+    ],
+    "raw-other-good-ils": [
+      0,
+      1
+    ],
+    "raw-other-on-ils": [
+      0,
+      1
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      3307.4545454545455,
+      3006.2
+    ],
+    "with_less-land_rate": [
+      0.21052631578947367,
+      0.25
+    ],
+    "with_less-can_ils_rate": [
+      0.2807017543859649,
+      0.2916666666666667
+    ],
+    "with_less-done_ils_rate": [
+      0.2807017543859649,
+      0.2916666666666667
+    ],
+    "with_less-good_ils_rate": [
+      0.2807017543859649,
+      0.2916666666666667
+    ],
+    "with_less-on_ils_rate": [
+      0.2807017543859649,
+      0.2916666666666667
+    ],
+    "with_less-lost_rate": [
+      0.24561403508771928,
+      0.20833333333333334
+    ],
+    "with_less-leave_rate": [
+      0.017543859649122806,
+      0.0
+    ],
+    "with_less-less_rate": [
+      0.3333333333333333,
+      0.3333333333333333
+    ],
+    "with_less-other_rate": [
+      0.19298245614035087,
+      0.20833333333333334
+    ],
+    "with_less-leave+less+other_rate": [
+      0.543859649122807,
+      0.5416666666666666
+    ],
+    "without_less-land_rate": [
+      0.3157894736842105,
+      0.375
+    ],
+    "without_less-can_ils_rate": [
+      0.3684210526315789,
+      0.40625
+    ],
+    "without_less-done_ils_rate": [
+      0.3684210526315789,
+      0.40625
+    ],
+    "without_less-good_ils_rate": [
+      0.3684210526315789,
+      0.40625
+    ],
+    "without_less-on_ils_rate": [
+      0.3684210526315789,
+      0.40625
+    ],
+    "without_less-lost_rate": [
+      0.3684210526315789,
+      0.3125
+    ],
+    "without_less-leave_rate": [
+      0.02631578947368421,
+      0.0
+    ],
+    "without_less-other_rate": [
+      0.2894736842105263,
+      0.3125
+    ],
+    "without_less-leave+other_rate": [
+      0.3157894736842105,
+      0.3125
+    ]
+  },
+  "000100/06": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000100/06/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000100/06/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      54,
+      47
+    ],
+    "raw-total-can-ils": [
+      26,
+      20
+    ],
+    "raw-total-done-ils": [
+      26,
+      19
+    ],
+    "raw-total-good-ils": [
+      26,
+      19
+    ],
+    "raw-total-on-ils": [
+      26,
+      19
+    ],
+    "raw-total-missed": [
+      0,
+      0
+    ],
+    "raw-total-avg_len": [
+      1657.5555555555557,
+      1916.723404255319
+    ],
+    "raw-land": [
+      23,
+      14
+    ],
+    "raw-land-can-ils": [
+      23,
+      14
+    ],
+    "raw-land-done-ils": [
+      23,
+      14
+    ],
+    "raw-land-good-ils": [
+      23,
+      14
+    ],
+    "raw-land-on-ils": [
+      23,
+      14
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      2274.2608695652175,
+      2271.214285714286
+    ],
+    "raw-leave": [
+      2,
+      2
+    ],
+    "raw-leave-can-ils": [
+      0,
+      0
+    ],
+    "raw-leave-done-ils": [
+      0,
+      0
+    ],
+    "raw-leave-good-ils": [
+      0,
+      0
+    ],
+    "raw-leave-on-ils": [
+      0,
+      0
+    ],
+    "raw-leave-missed": [
+      0,
+      0
+    ],
+    "raw-leave-avg_len": [
+      364.0,
+      418.5
+    ],
+    "raw-lost": [
+      6,
+      10
+    ],
+    "raw-lost-can-ils": [
+      0,
+      2
+    ],
+    "raw-lost-done-ils": [
+      0,
+      2
+    ],
+    "raw-lost-good-ils": [
+      0,
+      2
+    ],
+    "raw-lost-on-ils": [
+      0,
+      2
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      2208.1666666666665,
+      2381.5
+    ],
+    "raw-less": [
+      21,
+      15
+    ],
+    "raw-less-can-ils": [
+      1,
+      1
+    ],
+    "raw-less-done-ils": [
+      1,
+      1
+    ],
+    "raw-less-good-ils": [
+      1,
+      1
+    ],
+    "raw-less-on-ils": [
+      1,
+      1
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      906.1904761904761,
+      1154.1333333333334
+    ],
+    "raw-other": [
+      2,
+      6
+    ],
+    "raw-other-can-ils": [
+      2,
+      3
+    ],
+    "raw-other-done-ils": [
+      2,
+      2
+    ],
+    "raw-other-good-ils": [
+      2,
+      2
+    ],
+    "raw-other-on-ils": [
+      2,
+      2
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      2096.5,
+      2720.8333333333335
+    ],
+    "with_less-land_rate": [
+      0.42592592592592593,
+      0.2978723404255319
+    ],
+    "with_less-can_ils_rate": [
+      0.48148148148148145,
+      0.425531914893617
+    ],
+    "with_less-done_ils_rate": [
+      0.48148148148148145,
+      0.40425531914893614
+    ],
+    "with_less-good_ils_rate": [
+      0.48148148148148145,
+      0.40425531914893614
+    ],
+    "with_less-on_ils_rate": [
+      0.48148148148148145,
+      0.40425531914893614
+    ],
+    "with_less-lost_rate": [
+      0.1111111111111111,
+      0.2127659574468085
+    ],
+    "with_less-leave_rate": [
+      0.037037037037037035,
+      0.0425531914893617
+    ],
+    "with_less-less_rate": [
+      0.3888888888888889,
+      0.3191489361702128
+    ],
+    "with_less-other_rate": [
+      0.037037037037037035,
+      0.1276595744680851
+    ],
+    "with_less-leave+less+other_rate": [
+      0.46296296296296297,
+      0.48936170212765956
+    ],
+    "without_less-land_rate": [
+      0.696969696969697,
+      0.4375
+    ],
+    "without_less-can_ils_rate": [
+      0.7575757575757576,
+      0.59375
+    ],
+    "without_less-done_ils_rate": [
+      0.7575757575757576,
+      0.5625
+    ],
+    "without_less-good_ils_rate": [
+      0.7575757575757576,
+      0.5625
+    ],
+    "without_less-on_ils_rate": [
+      0.7575757575757576,
+      0.5625
+    ],
+    "without_less-lost_rate": [
+      0.18181818181818182,
+      0.3125
+    ],
+    "without_less-leave_rate": [
+      0.06060606060606061,
+      0.0625
+    ],
+    "without_less-other_rate": [
+      0.06060606060606061,
+      0.1875
+    ],
+    "without_less-leave+other_rate": [
+      0.12121212121212122,
+      0.25
+    ]
+  },
+  "000100/08": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000100/08/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000100/08/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      55,
+      50
+    ],
+    "raw-total-can-ils": [
+      27,
+      27
+    ],
+    "raw-total-done-ils": [
+      27,
+      27
+    ],
+    "raw-total-good-ils": [
+      27,
+      27
+    ],
+    "raw-total-on-ils": [
+      27,
+      27
+    ],
+    "raw-total-missed": [
+      0,
+      0
+    ],
+    "raw-total-avg_len": [
+      1802.0727272727272,
+      1878.7
+    ],
+    "raw-land": [
+      23,
+      26
+    ],
+    "raw-land-can-ils": [
+      23,
+      26
+    ],
+    "raw-land-done-ils": [
+      23,
+      26
+    ],
+    "raw-land-good-ils": [
+      23,
+      26
+    ],
+    "raw-land-on-ils": [
+      23,
+      26
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      2141.8695652173915,
+      2066.6153846153848
+    ],
+    "raw-leave": [
+      1,
+      0
+    ],
+    "raw-leave-can-ils": [
+      0,
+      0
+    ],
+    "raw-leave-done-ils": [
+      0,
+      0
+    ],
+    "raw-leave-good-ils": [
+      0,
+      0
+    ],
+    "raw-leave-on-ils": [
+      0,
+      0
+    ],
+    "raw-leave-missed": [
+      0,
+      0
+    ],
+    "raw-leave-avg_len": [
+      254.0,
+      0
+    ],
+    "raw-lost": [
+      6,
+      0
+    ],
+    "raw-lost-can-ils": [
+      0,
+      0
+    ],
+    "raw-lost-done-ils": [
+      0,
+      0
+    ],
+    "raw-lost-good-ils": [
+      0,
+      0
+    ],
+    "raw-lost-on-ils": [
+      0,
+      0
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      2218.0,
+      0
+    ],
+    "raw-less": [
+      19,
+      17
+    ],
+    "raw-less-can-ils": [
+      2,
+      0
+    ],
+    "raw-less-done-ils": [
+      2,
+      0
+    ],
+    "raw-less-good-ils": [
+      2,
+      0
+    ],
+    "raw-less-on-ils": [
+      2,
+      0
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      1057.2631578947369,
+      956.7647058823529
+    ],
+    "raw-other": [
+      6,
+      7
+    ],
+    "raw-other-can-ils": [
+      2,
+      1
+    ],
+    "raw-other-done-ils": [
+      2,
+      1
+    ],
+    "raw-other-good-ils": [
+      2,
+      1
+    ],
+    "raw-other-on-ils": [
+      2,
+      1
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      2700.1666666666665,
+      3419.714285714286
+    ],
+    "with_less-land_rate": [
+      0.41818181818181815,
+      0.52
+    ],
+    "with_less-can_ils_rate": [
+      0.4909090909090909,
+      0.54
+    ],
+    "with_less-done_ils_rate": [
+      0.4909090909090909,
+      0.54
+    ],
+    "with_less-good_ils_rate": [
+      0.4909090909090909,
+      0.54
+    ],
+    "with_less-on_ils_rate": [
+      0.4909090909090909,
+      0.54
+    ],
+    "with_less-lost_rate": [
+      0.10909090909090909,
+      0.0
+    ],
+    "with_less-leave_rate": [
+      0.01818181818181818,
+      0.0
+    ],
+    "with_less-less_rate": [
+      0.34545454545454546,
+      0.34
+    ],
+    "with_less-other_rate": [
+      0.10909090909090909,
+      0.14
+    ],
+    "with_less-leave+less+other_rate": [
+      0.4727272727272727,
+      0.48
+    ],
+    "without_less-land_rate": [
+      0.6388888888888888,
+      0.7878787878787878
+    ],
+    "without_less-can_ils_rate": [
+      0.6944444444444444,
+      0.8181818181818182
+    ],
+    "without_less-done_ils_rate": [
+      0.6944444444444444,
+      0.8181818181818182
+    ],
+    "without_less-good_ils_rate": [
+      0.6944444444444444,
+      0.8181818181818182
+    ],
+    "without_less-on_ils_rate": [
+      0.6944444444444444,
+      0.8181818181818182
+    ],
+    "without_less-lost_rate": [
+      0.16666666666666666,
+      0.0
+    ],
+    "without_less-leave_rate": [
+      0.027777777777777776,
+      0.0
+    ],
+    "without_less-other_rate": [
+      0.16666666666666666,
+      0.21212121212121213
+    ],
+    "without_less-leave+other_rate": [
+      0.19444444444444445,
+      0.21212121212121213
+    ]
+  },
+  "000100/10": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000100/10/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000100/10/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      44,
+      50
+    ],
+    "raw-total-can-ils": [
+      24,
+      26
+    ],
+    "raw-total-done-ils": [
+      24,
+      26
+    ],
+    "raw-total-good-ils": [
+      24,
+      26
+    ],
+    "raw-total-on-ils": [
+      24,
+      26
+    ],
+    "raw-total-missed": [
+      2,
+      0
+    ],
+    "raw-total-avg_len": [
+      1810.75,
+      1890.58
+    ],
+    "raw-land": [
+      18,
+      25
+    ],
+    "raw-land-can-ils": [
+      18,
+      25
+    ],
+    "raw-land-done-ils": [
+      18,
+      25
+    ],
+    "raw-land-good-ils": [
+      18,
+      25
+    ],
+    "raw-land-on-ils": [
+      18,
+      25
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      2129.4444444444443,
+      2229.28
+    ],
+    "raw-leave": [
+      3,
+      0
+    ],
+    "raw-leave-can-ils": [
+      1,
+      0
+    ],
+    "raw-leave-done-ils": [
+      1,
+      0
+    ],
+    "raw-leave-good-ils": [
+      1,
+      0
+    ],
+    "raw-leave-on-ils": [
+      1,
+      0
+    ],
+    "raw-leave-missed": [
+      1,
+      0
+    ],
+    "raw-leave-avg_len": [
+      1293.0,
+      0
+    ],
+    "raw-lost": [
+      2,
+      2
+    ],
+    "raw-lost-can-ils": [
+      2,
+      0
+    ],
+    "raw-lost-done-ils": [
+      2,
+      0
+    ],
+    "raw-lost-good-ils": [
+      2,
+      0
+    ],
+    "raw-lost-on-ils": [
+      2,
+      0
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      1965.5,
+      3683.5
+    ],
+    "raw-less": [
+      17,
+      17
+    ],
+    "raw-less-can-ils": [
+      2,
+      0
+    ],
+    "raw-less-done-ils": [
+      2,
+      0
+    ],
+    "raw-less-good-ils": [
+      2,
+      0
+    ],
+    "raw-less-on-ils": [
+      2,
+      0
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      1112.9411764705883,
+      774.2352941176471
+    ],
+    "raw-other": [
+      4,
+      6
+    ],
+    "raw-other-can-ils": [
+      1,
+      1
+    ],
+    "raw-other-done-ils": [
+      1,
+      1
+    ],
+    "raw-other-good-ils": [
+      1,
+      1
+    ],
+    "raw-other-on-ils": [
+      1,
+      1
+    ],
+    "raw-other-missed": [
+      1,
+      0
+    ],
+    "raw-other-avg_len": [
+      3653.25,
+      3044.6666666666665
+    ],
+    "with_less-land_rate": [
+      0.4090909090909091,
+      0.5
+    ],
+    "with_less-can_ils_rate": [
+      0.5454545454545454,
+      0.52
+    ],
+    "with_less-done_ils_rate": [
+      0.5454545454545454,
+      0.52
+    ],
+    "with_less-good_ils_rate": [
+      0.5454545454545454,
+      0.52
+    ],
+    "with_less-on_ils_rate": [
+      0.5454545454545454,
+      0.52
+    ],
+    "with_less-lost_rate": [
+      0.045454545454545456,
+      0.04
+    ],
+    "with_less-leave_rate": [
+      0.06818181818181818,
+      0.0
+    ],
+    "with_less-less_rate": [
+      0.38636363636363635,
+      0.34
+    ],
+    "with_less-other_rate": [
+      0.09090909090909091,
+      0.12
+    ],
+    "with_less-leave+less+other_rate": [
+      0.5454545454545454,
+      0.46
+    ],
+    "without_less-land_rate": [
+      0.6666666666666666,
+      0.7575757575757576
+    ],
+    "without_less-can_ils_rate": [
+      0.8148148148148148,
+      0.7878787878787878
+    ],
+    "without_less-done_ils_rate": [
+      0.8148148148148148,
+      0.7878787878787878
+    ],
+    "without_less-good_ils_rate": [
+      0.8148148148148148,
+      0.7878787878787878
+    ],
+    "without_less-on_ils_rate": [
+      0.8148148148148148,
+      0.7878787878787878
+    ],
+    "without_less-lost_rate": [
+      0.07407407407407407,
+      0.06060606060606061
+    ],
+    "without_less-leave_rate": [
+      0.1111111111111111,
+      0.0
+    ],
+    "without_less-other_rate": [
+      0.14814814814814814,
+      0.18181818181818182
+    ],
+    "without_less-leave+other_rate": [
+      0.25925925925925924,
+      0.18181818181818182
+    ]
+  },
+  "000100/12": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000100/12/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000100/12/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      50,
+      54
+    ],
+    "raw-total-can-ils": [
+      22,
+      24
+    ],
+    "raw-total-done-ils": [
+      22,
+      23
+    ],
+    "raw-total-good-ils": [
+      22,
+      23
+    ],
+    "raw-total-on-ils": [
+      22,
+      23
+    ],
+    "raw-total-missed": [
+      0,
+      3
+    ],
+    "raw-total-avg_len": [
+      1648.84,
+      1839.351851851852
+    ],
+    "raw-land": [
+      19,
+      20
+    ],
+    "raw-land-can-ils": [
+      19,
+      20
+    ],
+    "raw-land-done-ils": [
+      19,
+      20
+    ],
+    "raw-land-good-ils": [
+      19,
+      20
+    ],
+    "raw-land-on-ils": [
+      19,
+      20
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      1854.9473684210527,
+      1867.55
+    ],
+    "raw-leave": [
+      0,
+      2
+    ],
+    "raw-leave-can-ils": [
+      0,
+      2
+    ],
+    "raw-leave-done-ils": [
+      0,
+      2
+    ],
+    "raw-leave-good-ils": [
+      0,
+      2
+    ],
+    "raw-leave-on-ils": [
+      0,
+      2
+    ],
+    "raw-leave-missed": [
+      0,
+      2
+    ],
+    "raw-leave-avg_len": [
+      0,
+      2519.5
+    ],
+    "raw-lost": [
+      10,
+      6
+    ],
+    "raw-lost-can-ils": [
+      0,
+      0
+    ],
+    "raw-lost-done-ils": [
+      0,
+      0
+    ],
+    "raw-lost-good-ils": [
+      0,
+      0
+    ],
+    "raw-lost-on-ils": [
+      0,
+      0
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      2341.5,
+      3195.3333333333335
+    ],
+    "raw-less": [
+      19,
+      20
+    ],
+    "raw-less-can-ils": [
+      3,
+      0
+    ],
+    "raw-less-done-ils": [
+      3,
+      0
+    ],
+    "raw-less-good-ils": [
+      3,
+      0
+    ],
+    "raw-less-on-ils": [
+      3,
+      0
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      1004.578947368421,
+      1004.3
+    ],
+    "raw-other": [
+      2,
+      6
+    ],
+    "raw-other-can-ils": [
+      0,
+      2
+    ],
+    "raw-other-done-ils": [
+      0,
+      1
+    ],
+    "raw-other-good-ils": [
+      0,
+      1
+    ],
+    "raw-other-on-ils": [
+      0,
+      1
+    ],
+    "raw-other-missed": [
+      0,
+      1
+    ],
+    "raw-other-avg_len": [
+      2348.0,
+      2946.1666666666665
+    ],
+    "with_less-land_rate": [
+      0.38,
+      0.37037037037037035
+    ],
+    "with_less-can_ils_rate": [
+      0.44,
+      0.4444444444444444
+    ],
+    "with_less-done_ils_rate": [
+      0.44,
+      0.42592592592592593
+    ],
+    "with_less-good_ils_rate": [
+      0.44,
+      0.42592592592592593
+    ],
+    "with_less-on_ils_rate": [
+      0.44,
+      0.42592592592592593
+    ],
+    "with_less-lost_rate": [
+      0.2,
+      0.1111111111111111
+    ],
+    "with_less-leave_rate": [
+      0.0,
+      0.037037037037037035
+    ],
+    "with_less-less_rate": [
+      0.38,
+      0.37037037037037035
+    ],
+    "with_less-other_rate": [
+      0.04,
+      0.1111111111111111
+    ],
+    "with_less-leave+less+other_rate": [
+      0.42,
+      0.5185185185185185
+    ],
+    "without_less-land_rate": [
+      0.6129032258064516,
+      0.5882352941176471
+    ],
+    "without_less-can_ils_rate": [
+      0.6129032258064516,
+      0.7058823529411765
+    ],
+    "without_less-done_ils_rate": [
+      0.6129032258064516,
+      0.6764705882352942
+    ],
+    "without_less-good_ils_rate": [
+      0.6129032258064516,
+      0.6764705882352942
+    ],
+    "without_less-on_ils_rate": [
+      0.6129032258064516,
+      0.6764705882352942
+    ],
+    "without_less-lost_rate": [
+      0.3225806451612903,
+      0.17647058823529413
+    ],
+    "without_less-leave_rate": [
+      0.0,
+      0.058823529411764705
+    ],
+    "without_less-other_rate": [
+      0.06451612903225806,
+      0.17647058823529413
+    ],
+    "without_less-leave+other_rate": [
+      0.06451612903225806,
+      0.23529411764705882
+    ]
+  },
+  "000120/06": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000120/06/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000120/06/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      48,
+      52
+    ],
+    "raw-total-can-ils": [
+      37,
+      41
+    ],
+    "raw-total-done-ils": [
+      37,
+      41
+    ],
+    "raw-total-good-ils": [
+      37,
+      41
+    ],
+    "raw-total-on-ils": [
+      37,
+      41
+    ],
+    "raw-total-missed": [
+      0,
+      0
+    ],
+    "raw-total-avg_len": [
+      1445.75,
+      1441.326923076923
+    ],
+    "raw-land": [
+      29,
+      30
+    ],
+    "raw-land-can-ils": [
+      29,
+      30
+    ],
+    "raw-land-done-ils": [
+      29,
+      30
+    ],
+    "raw-land-good-ils": [
+      29,
+      30
+    ],
+    "raw-land-on-ils": [
+      29,
+      30
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      1740.5862068965516,
+      1736.6666666666667
+    ],
+    "raw-leave": [
+      0,
+      0
+    ],
+    "raw-leave-can-ils": [
+      0,
+      0
+    ],
+    "raw-leave-done-ils": [
+      0,
+      0
+    ],
+    "raw-leave-good-ils": [
+      0,
+      0
+    ],
+    "raw-leave-on-ils": [
+      0,
+      0
+    ],
+    "raw-leave-missed": [
+      0,
+      0
+    ],
+    "raw-leave-avg_len": [
+      0,
+      0
+    ],
+    "raw-lost": [
+      2,
+      6
+    ],
+    "raw-lost-can-ils": [
+      2,
+      6
+    ],
+    "raw-lost-done-ils": [
+      2,
+      6
+    ],
+    "raw-lost-good-ils": [
+      2,
+      6
+    ],
+    "raw-lost-on-ils": [
+      2,
+      6
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      1496.5,
+      1526.1666666666667
+    ],
+    "raw-less": [
+      17,
+      16
+    ],
+    "raw-less-can-ils": [
+      6,
+      5
+    ],
+    "raw-less-done-ils": [
+      6,
+      5
+    ],
+    "raw-less-good-ils": [
+      6,
+      5
+    ],
+    "raw-less-on-ils": [
+      6,
+      5
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      936.8235294117648,
+      855.75
+    ],
+    "raw-other": [
+      0,
+      0
+    ],
+    "raw-other-can-ils": [
+      0,
+      0
+    ],
+    "raw-other-done-ils": [
+      0,
+      0
+    ],
+    "raw-other-good-ils": [
+      0,
+      0
+    ],
+    "raw-other-on-ils": [
+      0,
+      0
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      0,
+      0
+    ],
+    "with_less-land_rate": [
+      0.6041666666666666,
+      0.5769230769230769
+    ],
+    "with_less-can_ils_rate": [
+      0.7708333333333334,
+      0.7884615384615384
+    ],
+    "with_less-done_ils_rate": [
+      0.7708333333333334,
+      0.7884615384615384
+    ],
+    "with_less-good_ils_rate": [
+      0.7708333333333334,
+      0.7884615384615384
+    ],
+    "with_less-on_ils_rate": [
+      0.7708333333333334,
+      0.7884615384615384
+    ],
+    "with_less-lost_rate": [
+      0.041666666666666664,
+      0.11538461538461539
+    ],
+    "with_less-leave_rate": [
+      0.0,
+      0.0
+    ],
+    "with_less-less_rate": [
+      0.3541666666666667,
+      0.3076923076923077
+    ],
+    "with_less-other_rate": [
+      0.0,
+      0.0
+    ],
+    "with_less-leave+less+other_rate": [
+      0.3541666666666667,
+      0.3076923076923077
+    ],
+    "without_less-land_rate": [
+      0.9354838709677419,
+      0.8333333333333334
+    ],
+    "without_less-can_ils_rate": [
+      1.0,
+      1.0
+    ],
+    "without_less-done_ils_rate": [
+      1.0,
+      1.0
+    ],
+    "without_less-good_ils_rate": [
+      1.0,
+      1.0
+    ],
+    "without_less-on_ils_rate": [
+      1.0,
+      1.0
+    ],
+    "without_less-lost_rate": [
+      0.06451612903225806,
+      0.16666666666666666
+    ],
+    "without_less-leave_rate": [
+      0.0,
+      0.0
+    ],
+    "without_less-other_rate": [
+      0.0,
+      0.0
+    ],
+    "without_less-leave+other_rate": [
+      0.0,
+      0.0
+    ]
+  },
+  "000120/08": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000120/08/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000120/08/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      50,
+      57
+    ],
+    "raw-total-can-ils": [
+      38,
+      43
+    ],
+    "raw-total-done-ils": [
+      38,
+      43
+    ],
+    "raw-total-good-ils": [
+      38,
+      42
+    ],
+    "raw-total-on-ils": [
+      38,
+      42
+    ],
+    "raw-total-missed": [
+      0,
+      0
+    ],
+    "raw-total-avg_len": [
+      1412.32,
+      1397.9298245614036
+    ],
+    "raw-land": [
+      35,
+      40
+    ],
+    "raw-land-can-ils": [
+      35,
+      40
+    ],
+    "raw-land-done-ils": [
+      35,
+      40
+    ],
+    "raw-land-good-ils": [
+      35,
+      40
+    ],
+    "raw-land-on-ils": [
+      35,
+      40
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      1683.7714285714285,
+      1712.4
+    ],
+    "raw-leave": [
+      0,
+      3
+    ],
+    "raw-leave-can-ils": [
+      0,
+      0
+    ],
+    "raw-leave-done-ils": [
+      0,
+      0
+    ],
+    "raw-leave-good-ils": [
+      0,
+      0
+    ],
+    "raw-leave-on-ils": [
+      0,
+      0
+    ],
+    "raw-leave-missed": [
+      0,
+      0
+    ],
+    "raw-leave-avg_len": [
+      0,
+      232.33333333333334
+    ],
+    "raw-lost": [
+      0,
+      0
+    ],
+    "raw-lost-can-ils": [
+      0,
+      0
+    ],
+    "raw-lost-done-ils": [
+      0,
+      0
+    ],
+    "raw-lost-good-ils": [
+      0,
+      0
+    ],
+    "raw-lost-on-ils": [
+      0,
+      0
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      0,
+      0
+    ],
+    "raw-less": [
+      15,
+      14
+    ],
+    "raw-less-can-ils": [
+      3,
+      3
+    ],
+    "raw-less-done-ils": [
+      3,
+      3
+    ],
+    "raw-less-good-ils": [
+      3,
+      2
+    ],
+    "raw-less-on-ils": [
+      3,
+      2
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      778.9333333333333,
+      749.2142857142857
+    ],
+    "raw-other": [
+      0,
+      0
+    ],
+    "raw-other-can-ils": [
+      0,
+      0
+    ],
+    "raw-other-done-ils": [
+      0,
+      0
+    ],
+    "raw-other-good-ils": [
+      0,
+      0
+    ],
+    "raw-other-on-ils": [
+      0,
+      0
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      0,
+      0
+    ],
+    "with_less-land_rate": [
+      0.7,
+      0.7017543859649122
+    ],
+    "with_less-can_ils_rate": [
+      0.76,
+      0.7543859649122807
+    ],
+    "with_less-done_ils_rate": [
+      0.76,
+      0.7543859649122807
+    ],
+    "with_less-good_ils_rate": [
+      0.76,
+      0.7368421052631579
+    ],
+    "with_less-on_ils_rate": [
+      0.76,
+      0.7368421052631579
+    ],
+    "with_less-lost_rate": [
+      0.0,
+      0.0
+    ],
+    "with_less-leave_rate": [
+      0.0,
+      0.05263157894736842
+    ],
+    "with_less-less_rate": [
+      0.3,
+      0.24561403508771928
+    ],
+    "with_less-other_rate": [
+      0.0,
+      0.0
+    ],
+    "with_less-leave+less+other_rate": [
+      0.3,
+      0.2982456140350877
+    ],
+    "without_less-land_rate": [
+      1.0,
+      0.9302325581395349
+    ],
+    "without_less-can_ils_rate": [
+      1.0,
+      0.9302325581395349
+    ],
+    "without_less-done_ils_rate": [
+      1.0,
+      0.9302325581395349
+    ],
+    "without_less-good_ils_rate": [
+      1.0,
+      0.9302325581395349
+    ],
+    "without_less-on_ils_rate": [
+      1.0,
+      0.9302325581395349
+    ],
+    "without_less-lost_rate": [
+      0.0,
+      0.0
+    ],
+    "without_less-leave_rate": [
+      0.0,
+      0.06976744186046512
+    ],
+    "without_less-other_rate": [
+      0.0,
+      0.0
+    ],
+    "without_less-leave+other_rate": [
+      0.0,
+      0.06976744186046512
+    ]
+  },
+  "000120/10": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000120/10/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000120/10/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      49,
+      50
+    ],
+    "raw-total-can-ils": [
+      30,
+      34
+    ],
+    "raw-total-done-ils": [
+      29,
+      34
+    ],
+    "raw-total-good-ils": [
+      29,
+      34
+    ],
+    "raw-total-on-ils": [
+      29,
+      34
+    ],
+    "raw-total-missed": [
+      1,
+      0
+    ],
+    "raw-total-avg_len": [
+      1646.0408163265306,
+      1683.62
+    ],
+    "raw-land": [
+      22,
+      27
+    ],
+    "raw-land-can-ils": [
+      22,
+      27
+    ],
+    "raw-land-done-ils": [
+      22,
+      27
+    ],
+    "raw-land-good-ils": [
+      22,
+      27
+    ],
+    "raw-land-on-ils": [
+      22,
+      27
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      1869.1363636363637,
+      1769.7037037037037
+    ],
+    "raw-leave": [
+      1,
+      3
+    ],
+    "raw-leave-can-ils": [
+      1,
+      0
+    ],
+    "raw-leave-done-ils": [
+      1,
+      0
+    ],
+    "raw-leave-good-ils": [
+      1,
+      0
+    ],
+    "raw-leave-on-ils": [
+      1,
+      0
+    ],
+    "raw-leave-missed": [
+      1,
+      0
+    ],
+    "raw-leave-avg_len": [
+      2996.0,
+      229.33333333333334
+    ],
+    "raw-lost": [
+      2,
+      6
+    ],
+    "raw-lost-can-ils": [
+      2,
+      5
+    ],
+    "raw-lost-done-ils": [
+      2,
+      5
+    ],
+    "raw-lost-good-ils": [
+      2,
+      5
+    ],
+    "raw-lost-on-ils": [
+      2,
+      5
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      1391.0,
+      2309.3333333333335
+    ],
+    "raw-less": [
+      20,
+      11
+    ],
+    "raw-less-can-ils": [
+      4,
+      2
+    ],
+    "raw-less-done-ils": [
+      3,
+      2
+    ],
+    "raw-less-good-ils": [
+      3,
+      2
+    ],
+    "raw-less-on-ils": [
+      3,
+      2
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      1023.95,
+      1066.8181818181818
+    ],
+    "raw-other": [
+      4,
+      3
+    ],
+    "raw-other-can-ils": [
+      1,
+      0
+    ],
+    "raw-other-done-ils": [
+      1,
+      0
+    ],
+    "raw-other-good-ils": [
+      1,
+      0
+    ],
+    "raw-other-on-ils": [
+      1,
+      0
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      3319.5,
+      3373.3333333333335
+    ],
+    "with_less-land_rate": [
+      0.4489795918367347,
+      0.54
+    ],
+    "with_less-can_ils_rate": [
+      0.6122448979591837,
+      0.68
+    ],
+    "with_less-done_ils_rate": [
+      0.5918367346938775,
+      0.68
+    ],
+    "with_less-good_ils_rate": [
+      0.5918367346938775,
+      0.68
+    ],
+    "with_less-on_ils_rate": [
+      0.5918367346938775,
+      0.68
+    ],
+    "with_less-lost_rate": [
+      0.04081632653061224,
+      0.12
+    ],
+    "with_less-leave_rate": [
+      0.02040816326530612,
+      0.06
+    ],
+    "with_less-less_rate": [
+      0.40816326530612246,
+      0.22
+    ],
+    "with_less-other_rate": [
+      0.08163265306122448,
+      0.06
+    ],
+    "with_less-leave+less+other_rate": [
+      0.5102040816326531,
+      0.34
+    ],
+    "without_less-land_rate": [
+      0.7586206896551724,
+      0.6923076923076923
+    ],
+    "without_less-can_ils_rate": [
+      0.896551724137931,
+      0.8205128205128205
+    ],
+    "without_less-done_ils_rate": [
+      0.896551724137931,
+      0.8205128205128205
+    ],
+    "without_less-good_ils_rate": [
+      0.896551724137931,
+      0.8205128205128205
+    ],
+    "without_less-on_ils_rate": [
+      0.896551724137931,
+      0.8205128205128205
+    ],
+    "without_less-lost_rate": [
+      0.06896551724137931,
+      0.15384615384615385
+    ],
+    "without_less-leave_rate": [
+      0.034482758620689655,
+      0.07692307692307693
+    ],
+    "without_less-other_rate": [
+      0.13793103448275862,
+      0.07692307692307693
+    ],
+    "without_less-leave+other_rate": [
+      0.1724137931034483,
+      0.15384615384615385
+    ]
+  },
+  "000120/12": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000120/12/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000120/12/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      46,
+      46
+    ],
+    "raw-total-can-ils": [
+      24,
+      23
+    ],
+    "raw-total-done-ils": [
+      24,
+      23
+    ],
+    "raw-total-good-ils": [
+      24,
+      23
+    ],
+    "raw-total-on-ils": [
+      24,
+      23
+    ],
+    "raw-total-missed": [
+      1,
+      0
+    ],
+    "raw-total-avg_len": [
+      1910.7391304347825,
+      1858.5652173913043
+    ],
+    "raw-land": [
+      21,
+      21
+    ],
+    "raw-land-can-ils": [
+      21,
+      21
+    ],
+    "raw-land-done-ils": [
+      21,
+      21
+    ],
+    "raw-land-good-ils": [
+      21,
+      21
+    ],
+    "raw-land-on-ils": [
+      21,
+      21
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      1912.2380952380952,
+      1973.2857142857142
+    ],
+    "raw-leave": [
+      1,
+      0
+    ],
+    "raw-leave-can-ils": [
+      1,
+      0
+    ],
+    "raw-leave-done-ils": [
+      1,
+      0
+    ],
+    "raw-leave-good-ils": [
+      1,
+      0
+    ],
+    "raw-leave-on-ils": [
+      1,
+      0
+    ],
+    "raw-leave-missed": [
+      1,
+      0
+    ],
+    "raw-leave-avg_len": [
+      2026.0,
+      0
+    ],
+    "raw-lost": [
+      4,
+      0
+    ],
+    "raw-lost-can-ils": [
+      0,
+      0
+    ],
+    "raw-lost-done-ils": [
+      0,
+      0
+    ],
+    "raw-lost-good-ils": [
+      0,
+      0
+    ],
+    "raw-lost-on-ils": [
+      0,
+      0
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      2805.75,
+      0
+    ],
+    "raw-less": [
+      14,
+      17
+    ],
+    "raw-less-can-ils": [
+      2,
+      1
+    ],
+    "raw-less-done-ils": [
+      2,
+      1
+    ],
+    "raw-less-good-ils": [
+      2,
+      1
+    ],
+    "raw-less-on-ils": [
+      2,
+      1
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      1036.7142857142858,
+      846.8235294117648
+    ],
+    "raw-other": [
+      6,
+      8
+    ],
+    "raw-other-can-ils": [
+      0,
+      1
+    ],
+    "raw-other-done-ils": [
+      0,
+      1
+    ],
+    "raw-other-good-ils": [
+      0,
+      1
+    ],
+    "raw-other-on-ils": [
+      0,
+      1
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      3329.0,
+      3707.375
+    ],
+    "with_less-land_rate": [
+      0.45652173913043476,
+      0.45652173913043476
+    ],
+    "with_less-can_ils_rate": [
+      0.5217391304347826,
+      0.5
+    ],
+    "with_less-done_ils_rate": [
+      0.5217391304347826,
+      0.5
+    ],
+    "with_less-good_ils_rate": [
+      0.5217391304347826,
+      0.5
+    ],
+    "with_less-on_ils_rate": [
+      0.5217391304347826,
+      0.5
+    ],
+    "with_less-lost_rate": [
+      0.08695652173913043,
+      0.0
+    ],
+    "with_less-leave_rate": [
+      0.021739130434782608,
+      0.0
+    ],
+    "with_less-less_rate": [
+      0.30434782608695654,
+      0.3695652173913043
+    ],
+    "with_less-other_rate": [
+      0.13043478260869565,
+      0.17391304347826086
+    ],
+    "with_less-leave+less+other_rate": [
+      0.45652173913043476,
+      0.5434782608695652
+    ],
+    "without_less-land_rate": [
+      0.65625,
+      0.7241379310344828
+    ],
+    "without_less-can_ils_rate": [
+      0.6875,
+      0.7586206896551724
+    ],
+    "without_less-done_ils_rate": [
+      0.6875,
+      0.7586206896551724
+    ],
+    "without_less-good_ils_rate": [
+      0.6875,
+      0.7586206896551724
+    ],
+    "without_less-on_ils_rate": [
+      0.6875,
+      0.7586206896551724
+    ],
+    "without_less-lost_rate": [
+      0.125,
+      0.0
+    ],
+    "without_less-leave_rate": [
+      0.03125,
+      0.0
+    ],
+    "without_less-other_rate": [
+      0.1875,
+      0.27586206896551724
+    ],
+    "without_less-leave+other_rate": [
+      0.21875,
+      0.27586206896551724
+    ]
+  },
+  "000140/06": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000140/06/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000140/06/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      53,
+      45
+    ],
+    "raw-total-can-ils": [
+      38,
+      30
+    ],
+    "raw-total-done-ils": [
+      38,
+      30
+    ],
+    "raw-total-good-ils": [
+      38,
+      30
+    ],
+    "raw-total-on-ils": [
+      38,
+      30
+    ],
+    "raw-total-missed": [
+      0,
+      0
+    ],
+    "raw-total-avg_len": [
+      1538.698113207547,
+      1566.9777777777779
+    ],
+    "raw-land": [
+      33,
+      26
+    ],
+    "raw-land-can-ils": [
+      33,
+      26
+    ],
+    "raw-land-done-ils": [
+      33,
+      26
+    ],
+    "raw-land-good-ils": [
+      33,
+      26
+    ],
+    "raw-land-on-ils": [
+      33,
+      26
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      1887.5454545454545,
+      1805.5384615384614
+    ],
+    "raw-leave": [
+      0,
+      0
+    ],
+    "raw-leave-can-ils": [
+      0,
+      0
+    ],
+    "raw-leave-done-ils": [
+      0,
+      0
+    ],
+    "raw-leave-good-ils": [
+      0,
+      0
+    ],
+    "raw-leave-on-ils": [
+      0,
+      0
+    ],
+    "raw-leave-missed": [
+      0,
+      0
+    ],
+    "raw-leave-avg_len": [
+      0,
+      0
+    ],
+    "raw-lost": [
+      0,
+      2
+    ],
+    "raw-lost-can-ils": [
+      0,
+      2
+    ],
+    "raw-lost-done-ils": [
+      0,
+      2
+    ],
+    "raw-lost-good-ils": [
+      0,
+      2
+    ],
+    "raw-lost-on-ils": [
+      0,
+      2
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      0,
+      1723.5
+    ],
+    "raw-less": [
+      20,
+      14
+    ],
+    "raw-less-can-ils": [
+      5,
+      1
+    ],
+    "raw-less-done-ils": [
+      5,
+      1
+    ],
+    "raw-less-good-ils": [
+      5,
+      1
+    ],
+    "raw-less-on-ils": [
+      5,
+      1
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      963.1,
+      797.6428571428571
+    ],
+    "raw-other": [
+      0,
+      3
+    ],
+    "raw-other-can-ils": [
+      0,
+      1
+    ],
+    "raw-other-done-ils": [
+      0,
+      1
+    ],
+    "raw-other-good-ils": [
+      0,
+      1
+    ],
+    "raw-other-on-ils": [
+      0,
+      1
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      0,
+      2985.3333333333335
+    ],
+    "with_less-land_rate": [
+      0.6226415094339622,
+      0.5777777777777777
+    ],
+    "with_less-can_ils_rate": [
+      0.7169811320754716,
+      0.6666666666666666
+    ],
+    "with_less-done_ils_rate": [
+      0.7169811320754716,
+      0.6666666666666666
+    ],
+    "with_less-good_ils_rate": [
+      0.7169811320754716,
+      0.6666666666666666
+    ],
+    "with_less-on_ils_rate": [
+      0.7169811320754716,
+      0.6666666666666666
+    ],
+    "with_less-lost_rate": [
+      0.0,
+      0.044444444444444446
+    ],
+    "with_less-leave_rate": [
+      0.0,
+      0.0
+    ],
+    "with_less-less_rate": [
+      0.37735849056603776,
+      0.3111111111111111
+    ],
+    "with_less-other_rate": [
+      0.0,
+      0.06666666666666667
+    ],
+    "with_less-leave+less+other_rate": [
+      0.37735849056603776,
+      0.37777777777777777
+    ],
+    "without_less-land_rate": [
+      1.0,
+      0.8387096774193549
+    ],
+    "without_less-can_ils_rate": [
+      1.0,
+      0.9354838709677419
+    ],
+    "without_less-done_ils_rate": [
+      1.0,
+      0.9354838709677419
+    ],
+    "without_less-good_ils_rate": [
+      1.0,
+      0.9354838709677419
+    ],
+    "without_less-on_ils_rate": [
+      1.0,
+      0.9354838709677419
+    ],
+    "without_less-lost_rate": [
+      0.0,
+      0.06451612903225806
+    ],
+    "without_less-leave_rate": [
+      0.0,
+      0.0
+    ],
+    "without_less-other_rate": [
+      0.0,
+      0.0967741935483871
+    ],
+    "without_less-leave+other_rate": [
+      0.0,
+      0.0967741935483871
+    ]
+  },
+  "000140/08": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000140/08/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000140/08/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      46,
+      52
+    ],
+    "raw-total-can-ils": [
+      25,
+      33
+    ],
+    "raw-total-done-ils": [
+      25,
+      33
+    ],
+    "raw-total-good-ils": [
+      25,
+      33
+    ],
+    "raw-total-on-ils": [
+      25,
+      33
+    ],
+    "raw-total-missed": [
+      0,
+      1
+    ],
+    "raw-total-avg_len": [
+      1604.8260869565217,
+      1659.9807692307693
+    ],
+    "raw-land": [
+      24,
+      30
+    ],
+    "raw-land-can-ils": [
+      24,
+      30
+    ],
+    "raw-land-done-ils": [
+      24,
+      30
+    ],
+    "raw-land-good-ils": [
+      24,
+      30
+    ],
+    "raw-land-on-ils": [
+      24,
+      30
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      1667.7083333333333,
+      1744.4
+    ],
+    "raw-leave": [
+      0,
+      1
+    ],
+    "raw-leave-can-ils": [
+      0,
+      1
+    ],
+    "raw-leave-done-ils": [
+      0,
+      1
+    ],
+    "raw-leave-good-ils": [
+      0,
+      1
+    ],
+    "raw-leave-on-ils": [
+      0,
+      1
+    ],
+    "raw-leave-missed": [
+      0,
+      1
+    ],
+    "raw-leave-avg_len": [
+      0,
+      2036.0
+    ],
+    "raw-lost": [
+      4,
+      0
+    ],
+    "raw-lost-can-ils": [
+      0,
+      0
+    ],
+    "raw-lost-done-ils": [
+      0,
+      0
+    ],
+    "raw-lost-good-ils": [
+      0,
+      0
+    ],
+    "raw-lost-on-ils": [
+      0,
+      0
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      2574.75,
+      0
+    ],
+    "raw-less": [
+      15,
+      16
+    ],
+    "raw-less-can-ils": [
+      1,
+      2
+    ],
+    "raw-less-done-ils": [
+      1,
+      2
+    ],
+    "raw-less-good-ils": [
+      1,
+      2
+    ],
+    "raw-less-on-ils": [
+      1,
+      2
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      995.9333333333333,
+      776.3125
+    ],
+    "raw-other": [
+      3,
+      5
+    ],
+    "raw-other-can-ils": [
+      0,
+      0
+    ],
+    "raw-other-done-ils": [
+      0,
+      0
+    ],
+    "raw-other-good-ils": [
+      0,
+      0
+    ],
+    "raw-other-on-ils": [
+      0,
+      0
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      2853.0,
+      3906.0
+    ],
+    "with_less-land_rate": [
+      0.5217391304347826,
+      0.5769230769230769
+    ],
+    "with_less-can_ils_rate": [
+      0.5434782608695652,
+      0.6346153846153846
+    ],
+    "with_less-done_ils_rate": [
+      0.5434782608695652,
+      0.6346153846153846
+    ],
+    "with_less-good_ils_rate": [
+      0.5434782608695652,
+      0.6346153846153846
+    ],
+    "with_less-on_ils_rate": [
+      0.5434782608695652,
+      0.6346153846153846
+    ],
+    "with_less-lost_rate": [
+      0.08695652173913043,
+      0.0
+    ],
+    "with_less-leave_rate": [
+      0.0,
+      0.019230769230769232
+    ],
+    "with_less-less_rate": [
+      0.32608695652173914,
+      0.3076923076923077
+    ],
+    "with_less-other_rate": [
+      0.06521739130434782,
+      0.09615384615384616
+    ],
+    "with_less-leave+less+other_rate": [
+      0.391304347826087,
+      0.4230769230769231
+    ],
+    "without_less-land_rate": [
+      0.7741935483870968,
+      0.8333333333333334
+    ],
+    "without_less-can_ils_rate": [
+      0.7741935483870968,
+      0.8611111111111112
+    ],
+    "without_less-done_ils_rate": [
+      0.7741935483870968,
+      0.8611111111111112
+    ],
+    "without_less-good_ils_rate": [
+      0.7741935483870968,
+      0.8611111111111112
+    ],
+    "without_less-on_ils_rate": [
+      0.7741935483870968,
+      0.8611111111111112
+    ],
+    "without_less-lost_rate": [
+      0.12903225806451613,
+      0.0
+    ],
+    "without_less-leave_rate": [
+      0.0,
+      0.027777777777777776
+    ],
+    "without_less-other_rate": [
+      0.0967741935483871,
+      0.1388888888888889
+    ],
+    "without_less-leave+other_rate": [
+      0.0967741935483871,
+      0.16666666666666666
+    ]
+  },
+  "000140/10": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000140/10/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000140/10/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      52,
+      47
+    ],
+    "raw-total-can-ils": [
+      24,
+      22
+    ],
+    "raw-total-done-ils": [
+      24,
+      22
+    ],
+    "raw-total-good-ils": [
+      24,
+      22
+    ],
+    "raw-total-on-ils": [
+      24,
+      22
+    ],
+    "raw-total-missed": [
+      0,
+      0
+    ],
+    "raw-total-avg_len": [
+      1838.0961538461538,
+      1962.2340425531916
+    ],
+    "raw-land": [
+      22,
+      20
+    ],
+    "raw-land-can-ils": [
+      22,
+      20
+    ],
+    "raw-land-done-ils": [
+      22,
+      20
+    ],
+    "raw-land-good-ils": [
+      22,
+      20
+    ],
+    "raw-land-on-ils": [
+      22,
+      20
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      1843.5,
+      2018.1
+    ],
+    "raw-leave": [
+      0,
+      0
+    ],
+    "raw-leave-can-ils": [
+      0,
+      0
+    ],
+    "raw-leave-done-ils": [
+      0,
+      0
+    ],
+    "raw-leave-good-ils": [
+      0,
+      0
+    ],
+    "raw-leave-on-ils": [
+      0,
+      0
+    ],
+    "raw-leave-missed": [
+      0,
+      0
+    ],
+    "raw-leave-avg_len": [
+      0,
+      0
+    ],
+    "raw-lost": [
+      2,
+      2
+    ],
+    "raw-lost-can-ils": [
+      0,
+      0
+    ],
+    "raw-lost-done-ils": [
+      0,
+      0
+    ],
+    "raw-lost-good-ils": [
+      0,
+      0
+    ],
+    "raw-lost-on-ils": [
+      0,
+      0
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      1672.5,
+      2719.0
+    ],
+    "raw-less": [
+      19,
+      15
+    ],
+    "raw-less-can-ils": [
+      2,
+      2
+    ],
+    "raw-less-done-ils": [
+      2,
+      2
+    ],
+    "raw-less-good-ils": [
+      2,
+      2
+    ],
+    "raw-less-on-ils": [
+      2,
+      2
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      953.7894736842105,
+      995.4666666666667
+    ],
+    "raw-other": [
+      9,
+      10
+    ],
+    "raw-other-can-ils": [
+      0,
+      0
+    ],
+    "raw-other-done-ils": [
+      0,
+      0
+    ],
+    "raw-other-good-ils": [
+      0,
+      0
+    ],
+    "raw-other-on-ils": [
+      0,
+      0
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      3728.5555555555557,
+      3149.3
+    ],
+    "with_less-land_rate": [
+      0.4230769230769231,
+      0.425531914893617
+    ],
+    "with_less-can_ils_rate": [
+      0.46153846153846156,
+      0.46808510638297873
+    ],
+    "with_less-done_ils_rate": [
+      0.46153846153846156,
+      0.46808510638297873
+    ],
+    "with_less-good_ils_rate": [
+      0.46153846153846156,
+      0.46808510638297873
+    ],
+    "with_less-on_ils_rate": [
+      0.46153846153846156,
+      0.46808510638297873
+    ],
+    "with_less-lost_rate": [
+      0.038461538461538464,
+      0.0425531914893617
+    ],
+    "with_less-leave_rate": [
+      0.0,
+      0.0
+    ],
+    "with_less-less_rate": [
+      0.36538461538461536,
+      0.3191489361702128
+    ],
+    "with_less-other_rate": [
+      0.17307692307692307,
+      0.2127659574468085
+    ],
+    "with_less-leave+less+other_rate": [
+      0.5384615384615384,
+      0.5319148936170213
+    ],
+    "without_less-land_rate": [
+      0.6666666666666666,
+      0.625
+    ],
+    "without_less-can_ils_rate": [
+      0.6666666666666666,
+      0.625
+    ],
+    "without_less-done_ils_rate": [
+      0.6666666666666666,
+      0.625
+    ],
+    "without_less-good_ils_rate": [
+      0.6666666666666666,
+      0.625
+    ],
+    "without_less-on_ils_rate": [
+      0.6666666666666666,
+      0.625
+    ],
+    "without_less-lost_rate": [
+      0.06060606060606061,
+      0.0625
+    ],
+    "without_less-leave_rate": [
+      0.0,
+      0.0
+    ],
+    "without_less-other_rate": [
+      0.2727272727272727,
+      0.3125
+    ],
+    "without_less-leave+other_rate": [
+      0.2727272727272727,
+      0.3125
+    ]
+  },
+  "000140/12": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000140/12/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000140/12/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      56,
+      43
+    ],
+    "raw-total-can-ils": [
+      21,
+      13
+    ],
+    "raw-total-done-ils": [
+      21,
+      13
+    ],
+    "raw-total-good-ils": [
+      21,
+      13
+    ],
+    "raw-total-on-ils": [
+      21,
+      13
+    ],
+    "raw-total-missed": [
+      1,
+      1
+    ],
+    "raw-total-avg_len": [
+      2021.5,
+      2182.0232558139537
+    ],
+    "raw-land": [
+      19,
+      11
+    ],
+    "raw-land-can-ils": [
+      19,
+      11
+    ],
+    "raw-land-done-ils": [
+      19,
+      11
+    ],
+    "raw-land-good-ils": [
+      19,
+      11
+    ],
+    "raw-land-on-ils": [
+      19,
+      11
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      2033.8947368421052,
+      1892.1818181818182
+    ],
+    "raw-leave": [
+      1,
+      1
+    ],
+    "raw-leave-can-ils": [
+      1,
+      1
+    ],
+    "raw-leave-done-ils": [
+      1,
+      1
+    ],
+    "raw-leave-good-ils": [
+      1,
+      1
+    ],
+    "raw-leave-on-ils": [
+      1,
+      1
+    ],
+    "raw-leave-missed": [
+      1,
+      1
+    ],
+    "raw-leave-avg_len": [
+      2084.0,
+      2186.0
+    ],
+    "raw-lost": [
+      8,
+      2
+    ],
+    "raw-lost-can-ils": [
+      0,
+      0
+    ],
+    "raw-lost-done-ils": [
+      0,
+      0
+    ],
+    "raw-lost-good-ils": [
+      0,
+      0
+    ],
+    "raw-lost-on-ils": [
+      0,
+      0
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      3100.0,
+      2703.5
+    ],
+    "raw-less": [
+      19,
+      16
+    ],
+    "raw-less-can-ils": [
+      1,
+      1
+    ],
+    "raw-less-done-ils": [
+      1,
+      1
+    ],
+    "raw-less-good-ils": [
+      1,
+      1
+    ],
+    "raw-less-on-ils": [
+      1,
+      1
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      941.5263157894736,
+      944.625
+    ],
+    "raw-other": [
+      9,
+      13
+    ],
+    "raw-other-can-ils": [
+      0,
+      0
+    ],
+    "raw-other-done-ils": [
+      0,
+      0
+    ],
+    "raw-other-good-ils": [
+      0,
+      0
+    ],
+    "raw-other-on-ils": [
+      0,
+      0
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      3309.6666666666665,
+      3869.6923076923076
+    ],
+    "with_less-land_rate": [
+      0.3392857142857143,
+      0.2558139534883721
+    ],
+    "with_less-can_ils_rate": [
+      0.375,
+      0.3023255813953488
+    ],
+    "with_less-done_ils_rate": [
+      0.375,
+      0.3023255813953488
+    ],
+    "with_less-good_ils_rate": [
+      0.375,
+      0.3023255813953488
+    ],
+    "with_less-on_ils_rate": [
+      0.375,
+      0.3023255813953488
+    ],
+    "with_less-lost_rate": [
+      0.14285714285714285,
+      0.046511627906976744
+    ],
+    "with_less-leave_rate": [
+      0.017857142857142856,
+      0.023255813953488372
+    ],
+    "with_less-less_rate": [
+      0.3392857142857143,
+      0.37209302325581395
+    ],
+    "with_less-other_rate": [
+      0.16071428571428573,
+      0.3023255813953488
+    ],
+    "with_less-leave+less+other_rate": [
+      0.5178571428571429,
+      0.6976744186046512
+    ],
+    "without_less-land_rate": [
+      0.5135135135135135,
+      0.4074074074074074
+    ],
+    "without_less-can_ils_rate": [
+      0.5405405405405406,
+      0.4444444444444444
+    ],
+    "without_less-done_ils_rate": [
+      0.5405405405405406,
+      0.4444444444444444
+    ],
+    "without_less-good_ils_rate": [
+      0.5405405405405406,
+      0.4444444444444444
+    ],
+    "without_less-on_ils_rate": [
+      0.5405405405405406,
+      0.4444444444444444
+    ],
+    "without_less-lost_rate": [
+      0.21621621621621623,
+      0.07407407407407407
+    ],
+    "without_less-leave_rate": [
+      0.02702702702702703,
+      0.037037037037037035
+    ],
+    "without_less-other_rate": [
+      0.24324324324324326,
+      0.48148148148148145
+    ],
+    "without_less-leave+other_rate": [
+      0.2702702702702703,
+      0.5185185185185185
+    ]
+  },
+  "000160/06": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000160/06/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000160/06/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      47,
+      47
+    ],
+    "raw-total-can-ils": [
+      10,
+      10
+    ],
+    "raw-total-done-ils": [
+      10,
+      9
+    ],
+    "raw-total-good-ils": [
+      10,
+      9
+    ],
+    "raw-total-on-ils": [
+      10,
+      9
+    ],
+    "raw-total-missed": [
+      0,
+      1
+    ],
+    "raw-total-avg_len": [
+      2399.595744680851,
+      2597.340425531915
+    ],
+    "raw-land": [
+      9,
+      3
+    ],
+    "raw-land-can-ils": [
+      9,
+      3
+    ],
+    "raw-land-done-ils": [
+      9,
+      3
+    ],
+    "raw-land-good-ils": [
+      9,
+      3
+    ],
+    "raw-land-on-ils": [
+      9,
+      3
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      2328.5555555555557,
+      2348.3333333333335
+    ],
+    "raw-leave": [
+      0,
+      1
+    ],
+    "raw-leave-can-ils": [
+      0,
+      1
+    ],
+    "raw-leave-done-ils": [
+      0,
+      1
+    ],
+    "raw-leave-good-ils": [
+      0,
+      1
+    ],
+    "raw-leave-on-ils": [
+      0,
+      1
+    ],
+    "raw-leave-missed": [
+      0,
+      1
+    ],
+    "raw-leave-avg_len": [
+      0,
+      2713.0
+    ],
+    "raw-lost": [
+      2,
+      0
+    ],
+    "raw-lost-can-ils": [
+      0,
+      0
+    ],
+    "raw-lost-done-ils": [
+      0,
+      0
+    ],
+    "raw-lost-good-ils": [
+      0,
+      0
+    ],
+    "raw-lost-on-ils": [
+      0,
+      0
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      1546.5,
+      0
+    ],
+    "raw-less": [
+      17,
+      16
+    ],
+    "raw-less-can-ils": [
+      0,
+      1
+    ],
+    "raw-less-done-ils": [
+      0,
+      1
+    ],
+    "raw-less-good-ils": [
+      0,
+      1
+    ],
+    "raw-less-on-ils": [
+      0,
+      1
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      945.7647058823529,
+      1011.875
+    ],
+    "raw-other": [
+      19,
+      27
+    ],
+    "raw-other-can-ils": [
+      1,
+      5
+    ],
+    "raw-other-done-ils": [
+      1,
+      4
+    ],
+    "raw-other-good-ils": [
+      1,
+      4
+    ],
+    "raw-other-on-ils": [
+      1,
+      4
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      3823.842105263158,
+      3560.259259259259
+    ],
+    "with_less-land_rate": [
+      0.19148936170212766,
+      0.06382978723404255
+    ],
+    "with_less-can_ils_rate": [
+      0.2127659574468085,
+      0.2127659574468085
+    ],
+    "with_less-done_ils_rate": [
+      0.2127659574468085,
+      0.19148936170212766
+    ],
+    "with_less-good_ils_rate": [
+      0.2127659574468085,
+      0.19148936170212766
+    ],
+    "with_less-on_ils_rate": [
+      0.2127659574468085,
+      0.19148936170212766
+    ],
+    "with_less-lost_rate": [
+      0.0425531914893617,
+      0.0
+    ],
+    "with_less-leave_rate": [
+      0.0,
+      0.02127659574468085
+    ],
+    "with_less-less_rate": [
+      0.3617021276595745,
+      0.3404255319148936
+    ],
+    "with_less-other_rate": [
+      0.40425531914893614,
+      0.574468085106383
+    ],
+    "with_less-leave+less+other_rate": [
+      0.7659574468085106,
+      0.9361702127659575
+    ],
+    "without_less-land_rate": [
+      0.3,
+      0.0967741935483871
+    ],
+    "without_less-can_ils_rate": [
+      0.3333333333333333,
+      0.2903225806451613
+    ],
+    "without_less-done_ils_rate": [
+      0.3333333333333333,
+      0.25806451612903225
+    ],
+    "without_less-good_ils_rate": [
+      0.3333333333333333,
+      0.25806451612903225
+    ],
+    "without_less-on_ils_rate": [
+      0.3333333333333333,
+      0.25806451612903225
+    ],
+    "without_less-lost_rate": [
+      0.06666666666666667,
+      0.0
+    ],
+    "without_less-leave_rate": [
+      0.0,
+      0.03225806451612903
+    ],
+    "without_less-other_rate": [
+      0.6333333333333333,
+      0.8709677419354839
+    ],
+    "without_less-leave+other_rate": [
+      0.6333333333333333,
+      0.9032258064516129
+    ]
+  },
+  "000160/08": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000160/08/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000160/08/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      49,
+      45
+    ],
+    "raw-total-can-ils": [
+      17,
+      14
+    ],
+    "raw-total-done-ils": [
+      17,
+      14
+    ],
+    "raw-total-good-ils": [
+      17,
+      14
+    ],
+    "raw-total-on-ils": [
+      17,
+      14
+    ],
+    "raw-total-missed": [
+      0,
+      0
+    ],
+    "raw-total-avg_len": [
+      1994.734693877551,
+      2571.711111111111
+    ],
+    "raw-land": [
+      14,
+      10
+    ],
+    "raw-land-can-ils": [
+      14,
+      10
+    ],
+    "raw-land-done-ils": [
+      14,
+      10
+    ],
+    "raw-land-good-ils": [
+      14,
+      10
+    ],
+    "raw-land-on-ils": [
+      14,
+      10
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      1887.2857142857142,
+      2603.3
+    ],
+    "raw-leave": [
+      0,
+      0
+    ],
+    "raw-leave-can-ils": [
+      0,
+      0
+    ],
+    "raw-leave-done-ils": [
+      0,
+      0
+    ],
+    "raw-leave-good-ils": [
+      0,
+      0
+    ],
+    "raw-leave-on-ils": [
+      0,
+      0
+    ],
+    "raw-leave-missed": [
+      0,
+      0
+    ],
+    "raw-leave-avg_len": [
+      0,
+      0
+    ],
+    "raw-lost": [
+      14,
+      6
+    ],
+    "raw-lost-can-ils": [
+      2,
+      2
+    ],
+    "raw-lost-done-ils": [
+      2,
+      2
+    ],
+    "raw-lost-good-ils": [
+      2,
+      2
+    ],
+    "raw-lost-on-ils": [
+      2,
+      2
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      2568.5,
+      3572.5
+    ],
+    "raw-less": [
+      14,
+      13
+    ],
+    "raw-less-can-ils": [
+      0,
+      0
+    ],
+    "raw-less-done-ils": [
+      0,
+      0
+    ],
+    "raw-less-good-ils": [
+      0,
+      0
+    ],
+    "raw-less-on-ils": [
+      0,
+      0
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      958.2142857142857,
+      1015.0
+    ],
+    "raw-other": [
+      7,
+      16
+    ],
+    "raw-other-can-ils": [
+      1,
+      2
+    ],
+    "raw-other-done-ils": [
+      1,
+      2
+    ],
+    "raw-other-good-ils": [
+      1,
+      2
+    ],
+    "raw-other-on-ils": [
+      1,
+      2
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      3135.1428571428573,
+      3441.5
+    ],
+    "with_less-land_rate": [
+      0.2857142857142857,
+      0.2222222222222222
+    ],
+    "with_less-can_ils_rate": [
+      0.3469387755102041,
+      0.3111111111111111
+    ],
+    "with_less-done_ils_rate": [
+      0.3469387755102041,
+      0.3111111111111111
+    ],
+    "with_less-good_ils_rate": [
+      0.3469387755102041,
+      0.3111111111111111
+    ],
+    "with_less-on_ils_rate": [
+      0.3469387755102041,
+      0.3111111111111111
+    ],
+    "with_less-lost_rate": [
+      0.2857142857142857,
+      0.13333333333333333
+    ],
+    "with_less-leave_rate": [
+      0.0,
+      0.0
+    ],
+    "with_less-less_rate": [
+      0.2857142857142857,
+      0.28888888888888886
+    ],
+    "with_less-other_rate": [
+      0.14285714285714285,
+      0.35555555555555557
+    ],
+    "with_less-leave+less+other_rate": [
+      0.42857142857142855,
+      0.6444444444444445
+    ],
+    "without_less-land_rate": [
+      0.4,
+      0.3125
+    ],
+    "without_less-can_ils_rate": [
+      0.4857142857142857,
+      0.4375
+    ],
+    "without_less-done_ils_rate": [
+      0.4857142857142857,
+      0.4375
+    ],
+    "without_less-good_ils_rate": [
+      0.4857142857142857,
+      0.4375
+    ],
+    "without_less-on_ils_rate": [
+      0.4857142857142857,
+      0.4375
+    ],
+    "without_less-lost_rate": [
+      0.4,
+      0.1875
+    ],
+    "without_less-leave_rate": [
+      0.0,
+      0.0
+    ],
+    "without_less-other_rate": [
+      0.2,
+      0.5
+    ],
+    "without_less-leave+other_rate": [
+      0.2,
+      0.5
+    ]
+  },
+  "000160/10": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000160/10/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000160/10/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      53,
+      46
+    ],
+    "raw-total-can-ils": [
+      20,
+      21
+    ],
+    "raw-total-done-ils": [
+      20,
+      21
+    ],
+    "raw-total-good-ils": [
+      20,
+      21
+    ],
+    "raw-total-on-ils": [
+      20,
+      21
+    ],
+    "raw-total-missed": [
+      0,
+      0
+    ],
+    "raw-total-avg_len": [
+      1857.3207547169811,
+      1749.3695652173913
+    ],
+    "raw-land": [
+      12,
+      16
+    ],
+    "raw-land-can-ils": [
+      12,
+      16
+    ],
+    "raw-land-done-ils": [
+      12,
+      16
+    ],
+    "raw-land-good-ils": [
+      12,
+      16
+    ],
+    "raw-land-on-ils": [
+      12,
+      16
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      1718.9166666666667,
+      1809.0625
+    ],
+    "raw-leave": [
+      0,
+      0
+    ],
+    "raw-leave-can-ils": [
+      0,
+      0
+    ],
+    "raw-leave-done-ils": [
+      0,
+      0
+    ],
+    "raw-leave-good-ils": [
+      0,
+      0
+    ],
+    "raw-leave-on-ils": [
+      0,
+      0
+    ],
+    "raw-leave-missed": [
+      0,
+      0
+    ],
+    "raw-leave-avg_len": [
+      0,
+      0
+    ],
+    "raw-lost": [
+      10,
+      12
+    ],
+    "raw-lost-can-ils": [
+      4,
+      2
+    ],
+    "raw-lost-done-ils": [
+      4,
+      2
+    ],
+    "raw-lost-good-ils": [
+      4,
+      2
+    ],
+    "raw-lost-on-ils": [
+      4,
+      2
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      2524.9,
+      2318.1666666666665
+    ],
+    "raw-less": [
+      22,
+      15
+    ],
+    "raw-less-can-ils": [
+      3,
+      3
+    ],
+    "raw-less-done-ils": [
+      3,
+      3
+    ],
+    "raw-less-good-ils": [
+      3,
+      3
+    ],
+    "raw-less-on-ils": [
+      3,
+      3
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      916.0,
+      1055.6
+    ],
+    "raw-other": [
+      9,
+      3
+    ],
+    "raw-other-can-ils": [
+      1,
+      0
+    ],
+    "raw-other-done-ils": [
+      1,
+      0
+    ],
+    "raw-other-good-ils": [
+      1,
+      0
+    ],
+    "raw-other-on-ils": [
+      1,
+      0
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      3601.1111111111113,
+      2624.6666666666665
+    ],
+    "with_less-land_rate": [
+      0.22641509433962265,
+      0.34782608695652173
+    ],
+    "with_less-can_ils_rate": [
+      0.37735849056603776,
+      0.45652173913043476
+    ],
+    "with_less-done_ils_rate": [
+      0.37735849056603776,
+      0.45652173913043476
+    ],
+    "with_less-good_ils_rate": [
+      0.37735849056603776,
+      0.45652173913043476
+    ],
+    "with_less-on_ils_rate": [
+      0.37735849056603776,
+      0.45652173913043476
+    ],
+    "with_less-lost_rate": [
+      0.18867924528301888,
+      0.2608695652173913
+    ],
+    "with_less-leave_rate": [
+      0.0,
+      0.0
+    ],
+    "with_less-less_rate": [
+      0.41509433962264153,
+      0.32608695652173914
+    ],
+    "with_less-other_rate": [
+      0.16981132075471697,
+      0.06521739130434782
+    ],
+    "with_less-leave+less+other_rate": [
+      0.5849056603773585,
+      0.391304347826087
+    ],
+    "without_less-land_rate": [
+      0.3870967741935484,
+      0.5161290322580645
+    ],
+    "without_less-can_ils_rate": [
+      0.5483870967741935,
+      0.5806451612903226
+    ],
+    "without_less-done_ils_rate": [
+      0.5483870967741935,
+      0.5806451612903226
+    ],
+    "without_less-good_ils_rate": [
+      0.5483870967741935,
+      0.5806451612903226
+    ],
+    "without_less-on_ils_rate": [
+      0.5483870967741935,
+      0.5806451612903226
+    ],
+    "without_less-lost_rate": [
+      0.3225806451612903,
+      0.3870967741935484
+    ],
+    "without_less-leave_rate": [
+      0.0,
+      0.0
+    ],
+    "without_less-other_rate": [
+      0.2903225806451613,
+      0.0967741935483871
+    ],
+    "without_less-leave+other_rate": [
+      0.2903225806451613,
+      0.0967741935483871
+    ]
+  },
+  "000160/12": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000160/12/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000160/12/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      49,
+      58
+    ],
+    "raw-total-can-ils": [
+      17,
+      25
+    ],
+    "raw-total-done-ils": [
+      17,
+      25
+    ],
+    "raw-total-good-ils": [
+      17,
+      25
+    ],
+    "raw-total-on-ils": [
+      17,
+      25
+    ],
+    "raw-total-missed": [
+      0,
+      1
+    ],
+    "raw-total-avg_len": [
+      1939.2244897959183,
+      1979.9310344827586
+    ],
+    "raw-land": [
+      15,
+      21
+    ],
+    "raw-land-can-ils": [
+      15,
+      21
+    ],
+    "raw-land-done-ils": [
+      15,
+      21
+    ],
+    "raw-land-good-ils": [
+      15,
+      21
+    ],
+    "raw-land-on-ils": [
+      15,
+      21
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      1629.6,
+      2003.6666666666667
+    ],
+    "raw-leave": [
+      0,
+      1
+    ],
+    "raw-leave-can-ils": [
+      0,
+      1
+    ],
+    "raw-leave-done-ils": [
+      0,
+      1
+    ],
+    "raw-leave-good-ils": [
+      0,
+      1
+    ],
+    "raw-leave-on-ils": [
+      0,
+      1
+    ],
+    "raw-leave-missed": [
+      0,
+      1
+    ],
+    "raw-leave-avg_len": [
+      0,
+      3530.0
+    ],
+    "raw-lost": [
+      8,
+      8
+    ],
+    "raw-lost-can-ils": [
+      0,
+      2
+    ],
+    "raw-lost-done-ils": [
+      0,
+      2
+    ],
+    "raw-lost-good-ils": [
+      0,
+      2
+    ],
+    "raw-lost-on-ils": [
+      0,
+      2
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      3017.125,
+      2692.125
+    ],
+    "raw-less": [
+      16,
+      19
+    ],
+    "raw-less-can-ils": [
+      2,
+      1
+    ],
+    "raw-less-done-ils": [
+      2,
+      1
+    ],
+    "raw-less-good-ils": [
+      2,
+      1
+    ],
+    "raw-less-on-ils": [
+      2,
+      1
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      804.25,
+      850.3157894736842
+    ],
+    "raw-other": [
+      10,
+      9
+    ],
+    "raw-other-can-ils": [
+      0,
+      0
+    ],
+    "raw-other-done-ils": [
+      0,
+      0
+    ],
+    "raw-other-good-ils": [
+      0,
+      0
+    ],
+    "raw-other-on-ils": [
+      0,
+      0
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      3357.3,
+      3504.0
+    ],
+    "with_less-land_rate": [
+      0.30612244897959184,
+      0.3620689655172414
+    ],
+    "with_less-can_ils_rate": [
+      0.3469387755102041,
+      0.43103448275862066
+    ],
+    "with_less-done_ils_rate": [
+      0.3469387755102041,
+      0.43103448275862066
+    ],
+    "with_less-good_ils_rate": [
+      0.3469387755102041,
+      0.43103448275862066
+    ],
+    "with_less-on_ils_rate": [
+      0.3469387755102041,
+      0.43103448275862066
+    ],
+    "with_less-lost_rate": [
+      0.16326530612244897,
+      0.13793103448275862
+    ],
+    "with_less-leave_rate": [
+      0.0,
+      0.017241379310344827
+    ],
+    "with_less-less_rate": [
+      0.32653061224489793,
+      0.3275862068965517
+    ],
+    "with_less-other_rate": [
+      0.20408163265306123,
+      0.15517241379310345
+    ],
+    "with_less-leave+less+other_rate": [
+      0.5306122448979592,
+      0.5
+    ],
+    "without_less-land_rate": [
+      0.45454545454545453,
+      0.5384615384615384
+    ],
+    "without_less-can_ils_rate": [
+      0.45454545454545453,
+      0.6153846153846154
+    ],
+    "without_less-done_ils_rate": [
+      0.45454545454545453,
+      0.6153846153846154
+    ],
+    "without_less-good_ils_rate": [
+      0.45454545454545453,
+      0.6153846153846154
+    ],
+    "without_less-on_ils_rate": [
+      0.45454545454545453,
+      0.6153846153846154
+    ],
+    "without_less-lost_rate": [
+      0.24242424242424243,
+      0.20512820512820512
+    ],
+    "without_less-leave_rate": [
+      0.0,
+      0.02564102564102564
+    ],
+    "without_less-other_rate": [
+      0.30303030303030304,
+      0.23076923076923078
+    ],
+    "without_less-leave+other_rate": [
+      0.30303030303030304,
+      0.2564102564102564
+    ]
+  },
+  "000180/06": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000180/06/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000180/06/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      54,
+      52
+    ],
+    "raw-total-can-ils": [
+      4,
+      8
+    ],
+    "raw-total-done-ils": [
+      4,
+      8
+    ],
+    "raw-total-good-ils": [
+      4,
+      8
+    ],
+    "raw-total-on-ils": [
+      4,
+      8
+    ],
+    "raw-total-missed": [
+      0,
+      0
+    ],
+    "raw-total-avg_len": [
+      2499.1296296296296,
+      2007.4423076923076
+    ],
+    "raw-land": [
+      4,
+      7
+    ],
+    "raw-land-can-ils": [
+      4,
+      7
+    ],
+    "raw-land-done-ils": [
+      4,
+      7
+    ],
+    "raw-land-good-ils": [
+      4,
+      7
+    ],
+    "raw-land-on-ils": [
+      4,
+      7
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      2694.25,
+      2105.8571428571427
+    ],
+    "raw-leave": [
+      0,
+      3
+    ],
+    "raw-leave-can-ils": [
+      0,
+      0
+    ],
+    "raw-leave-done-ils": [
+      0,
+      0
+    ],
+    "raw-leave-good-ils": [
+      0,
+      0
+    ],
+    "raw-leave-on-ils": [
+      0,
+      0
+    ],
+    "raw-leave-missed": [
+      0,
+      0
+    ],
+    "raw-leave-avg_len": [
+      0,
+      209.0
+    ],
+    "raw-lost": [
+      2,
+      2
+    ],
+    "raw-lost-can-ils": [
+      0,
+      1
+    ],
+    "raw-lost-done-ils": [
+      0,
+      1
+    ],
+    "raw-lost-good-ils": [
+      0,
+      1
+    ],
+    "raw-lost-on-ils": [
+      0,
+      1
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      2612.0,
+      1762.0
+    ],
+    "raw-less": [
+      22,
+      19
+    ],
+    "raw-less-can-ils": [
+      0,
+      0
+    ],
+    "raw-less-done-ils": [
+      0,
+      0
+    ],
+    "raw-less-good-ils": [
+      0,
+      0
+    ],
+    "raw-less-on-ils": [
+      0,
+      0
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      1039.3636363636363,
+      894.0
+    ],
+    "raw-other": [
+      26,
+      21
+    ],
+    "raw-other-can-ils": [
+      0,
+      0
+    ],
+    "raw-other-done-ils": [
+      0,
+      0
+    ],
+    "raw-other-good-ils": [
+      0,
+      0
+    ],
+    "raw-other-on-ils": [
+      0,
+      0
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      3695.6153846153848,
+      3262.3333333333335
+    ],
+    "with_less-land_rate": [
+      0.07407407407407407,
+      0.1346153846153846
+    ],
+    "with_less-can_ils_rate": [
+      0.07407407407407407,
+      0.15384615384615385
+    ],
+    "with_less-done_ils_rate": [
+      0.07407407407407407,
+      0.15384615384615385
+    ],
+    "with_less-good_ils_rate": [
+      0.07407407407407407,
+      0.15384615384615385
+    ],
+    "with_less-on_ils_rate": [
+      0.07407407407407407,
+      0.15384615384615385
+    ],
+    "with_less-lost_rate": [
+      0.037037037037037035,
+      0.038461538461538464
+    ],
+    "with_less-leave_rate": [
+      0.0,
+      0.057692307692307696
+    ],
+    "with_less-less_rate": [
+      0.4074074074074074,
+      0.36538461538461536
+    ],
+    "with_less-other_rate": [
+      0.48148148148148145,
+      0.40384615384615385
+    ],
+    "with_less-leave+less+other_rate": [
+      0.8888888888888888,
+      0.8269230769230769
+    ],
+    "without_less-land_rate": [
+      0.125,
+      0.21212121212121213
+    ],
+    "without_less-can_ils_rate": [
+      0.125,
+      0.24242424242424243
+    ],
+    "without_less-done_ils_rate": [
+      0.125,
+      0.24242424242424243
+    ],
+    "without_less-good_ils_rate": [
+      0.125,
+      0.24242424242424243
+    ],
+    "without_less-on_ils_rate": [
+      0.125,
+      0.24242424242424243
+    ],
+    "without_less-lost_rate": [
+      0.0625,
+      0.06060606060606061
+    ],
+    "without_less-leave_rate": [
+      0.0,
+      0.09090909090909091
+    ],
+    "without_less-other_rate": [
+      0.8125,
+      0.6363636363636364
+    ],
+    "without_less-leave+other_rate": [
+      0.8125,
+      0.7272727272727273
+    ]
+  },
+  "000180/08": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000180/08/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000180/08/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      53,
+      43
+    ],
+    "raw-total-can-ils": [
+      25,
+      26
+    ],
+    "raw-total-done-ils": [
+      25,
+      26
+    ],
+    "raw-total-good-ils": [
+      25,
+      26
+    ],
+    "raw-total-on-ils": [
+      25,
+      26
+    ],
+    "raw-total-missed": [
+      1,
+      2
+    ],
+    "raw-total-avg_len": [
+      1948.698113207547,
+      1766.5581395348838
+    ],
+    "raw-land": [
+      23,
+      24
+    ],
+    "raw-land-can-ils": [
+      23,
+      24
+    ],
+    "raw-land-done-ils": [
+      23,
+      24
+    ],
+    "raw-land-good-ils": [
+      23,
+      24
+    ],
+    "raw-land-on-ils": [
+      23,
+      24
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      2364.086956521739,
+      2105.5
+    ],
+    "raw-leave": [
+      1,
+      2
+    ],
+    "raw-leave-can-ils": [
+      1,
+      2
+    ],
+    "raw-leave-done-ils": [
+      1,
+      2
+    ],
+    "raw-leave-good-ils": [
+      1,
+      2
+    ],
+    "raw-leave-on-ils": [
+      1,
+      2
+    ],
+    "raw-leave-missed": [
+      1,
+      2
+    ],
+    "raw-leave-avg_len": [
+      2875.0,
+      2449.5
+    ],
+    "raw-lost": [
+      2,
+      0
+    ],
+    "raw-lost-can-ils": [
+      0,
+      0
+    ],
+    "raw-lost-done-ils": [
+      0,
+      0
+    ],
+    "raw-lost-good-ils": [
+      0,
+      0
+    ],
+    "raw-lost-on-ils": [
+      0,
+      0
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      2991.5,
+      0
+    ],
+    "raw-less": [
+      19,
+      14
+    ],
+    "raw-less-can-ils": [
+      1,
+      0
+    ],
+    "raw-less-done-ils": [
+      1,
+      0
+    ],
+    "raw-less-good-ils": [
+      1,
+      0
+    ],
+    "raw-less-on-ils": [
+      1,
+      0
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      953.1052631578947,
+      881.5714285714286
+    ],
+    "raw-other": [
+      8,
+      3
+    ],
+    "raw-other-can-ils": [
+      0,
+      0
+    ],
+    "raw-other-done-ils": [
+      0,
+      0
+    ],
+    "raw-other-good-ils": [
+      0,
+      0
+    ],
+    "raw-other-on-ils": [
+      0,
+      0
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      2742.5,
+      2729.6666666666665
+    ],
+    "with_less-land_rate": [
+      0.4339622641509434,
+      0.5581395348837209
+    ],
+    "with_less-can_ils_rate": [
+      0.4716981132075472,
+      0.6046511627906976
+    ],
+    "with_less-done_ils_rate": [
+      0.4716981132075472,
+      0.6046511627906976
+    ],
+    "with_less-good_ils_rate": [
+      0.4716981132075472,
+      0.6046511627906976
+    ],
+    "with_less-on_ils_rate": [
+      0.4716981132075472,
+      0.6046511627906976
+    ],
+    "with_less-lost_rate": [
+      0.03773584905660377,
+      0.0
+    ],
+    "with_less-leave_rate": [
+      0.018867924528301886,
+      0.046511627906976744
+    ],
+    "with_less-less_rate": [
+      0.3584905660377358,
+      0.32558139534883723
+    ],
+    "with_less-other_rate": [
+      0.1509433962264151,
+      0.06976744186046512
+    ],
+    "with_less-leave+less+other_rate": [
+      0.5283018867924528,
+      0.4418604651162791
+    ],
+    "without_less-land_rate": [
+      0.6764705882352942,
+      0.8275862068965517
+    ],
+    "without_less-can_ils_rate": [
+      0.7058823529411765,
+      0.896551724137931
+    ],
+    "without_less-done_ils_rate": [
+      0.7058823529411765,
+      0.896551724137931
+    ],
+    "without_less-good_ils_rate": [
+      0.7058823529411765,
+      0.896551724137931
+    ],
+    "without_less-on_ils_rate": [
+      0.7058823529411765,
+      0.896551724137931
+    ],
+    "without_less-lost_rate": [
+      0.058823529411764705,
+      0.0
+    ],
+    "without_less-leave_rate": [
+      0.029411764705882353,
+      0.06896551724137931
+    ],
+    "without_less-other_rate": [
+      0.23529411764705882,
+      0.10344827586206896
+    ],
+    "without_less-leave+other_rate": [
+      0.2647058823529412,
+      0.1724137931034483
+    ]
+  },
+  "000180/10": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000180/10/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000180/10/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      48,
+      60
+    ],
+    "raw-total-can-ils": [
+      17,
+      21
+    ],
+    "raw-total-done-ils": [
+      17,
+      21
+    ],
+    "raw-total-good-ils": [
+      17,
+      21
+    ],
+    "raw-total-on-ils": [
+      17,
+      21
+    ],
+    "raw-total-missed": [
+      1,
+      2
+    ],
+    "raw-total-avg_len": [
+      2094.2291666666665,
+      2079.0666666666666
+    ],
+    "raw-land": [
+      12,
+      18
+    ],
+    "raw-land-can-ils": [
+      12,
+      18
+    ],
+    "raw-land-done-ils": [
+      12,
+      18
+    ],
+    "raw-land-good-ils": [
+      12,
+      18
+    ],
+    "raw-land-on-ils": [
+      12,
+      18
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      2158.6666666666665,
+      2349.4444444444443
+    ],
+    "raw-leave": [
+      0,
+      2
+    ],
+    "raw-leave-can-ils": [
+      0,
+      2
+    ],
+    "raw-leave-done-ils": [
+      0,
+      2
+    ],
+    "raw-leave-good-ils": [
+      0,
+      2
+    ],
+    "raw-leave-on-ils": [
+      0,
+      2
+    ],
+    "raw-leave-missed": [
+      0,
+      2
+    ],
+    "raw-leave-avg_len": [
+      0,
+      2382.5
+    ],
+    "raw-lost": [
+      4,
+      0
+    ],
+    "raw-lost-can-ils": [
+      0,
+      0
+    ],
+    "raw-lost-done-ils": [
+      0,
+      0
+    ],
+    "raw-lost-good-ils": [
+      0,
+      0
+    ],
+    "raw-lost-on-ils": [
+      0,
+      0
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      2373.0,
+      0
+    ],
+    "raw-less": [
+      16,
+      24
+    ],
+    "raw-less-can-ils": [
+      1,
+      0
+    ],
+    "raw-less-done-ils": [
+      1,
+      0
+    ],
+    "raw-less-good-ils": [
+      1,
+      0
+    ],
+    "raw-less-on-ils": [
+      1,
+      0
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      1009.5,
+      1060.4583333333333
+    ],
+    "raw-other": [
+      16,
+      16
+    ],
+    "raw-other-can-ils": [
+      4,
+      1
+    ],
+    "raw-other-done-ils": [
+      4,
+      1
+    ],
+    "raw-other-good-ils": [
+      4,
+      1
+    ],
+    "raw-other-on-ils": [
+      4,
+      1
+    ],
+    "raw-other-missed": [
+      1,
+      0
+    ],
+    "raw-other-avg_len": [
+      3060.9375,
+      3264.875
+    ],
+    "with_less-land_rate": [
+      0.25,
+      0.3
+    ],
+    "with_less-can_ils_rate": [
+      0.3541666666666667,
+      0.35
+    ],
+    "with_less-done_ils_rate": [
+      0.3541666666666667,
+      0.35
+    ],
+    "with_less-good_ils_rate": [
+      0.3541666666666667,
+      0.35
+    ],
+    "with_less-on_ils_rate": [
+      0.3541666666666667,
+      0.35
+    ],
+    "with_less-lost_rate": [
+      0.08333333333333333,
+      0.0
+    ],
+    "with_less-leave_rate": [
+      0.0,
+      0.03333333333333333
+    ],
+    "with_less-less_rate": [
+      0.3333333333333333,
+      0.4
+    ],
+    "with_less-other_rate": [
+      0.3333333333333333,
+      0.26666666666666666
+    ],
+    "with_less-leave+less+other_rate": [
+      0.6666666666666666,
+      0.7
+    ],
+    "without_less-land_rate": [
+      0.375,
+      0.5
+    ],
+    "without_less-can_ils_rate": [
+      0.5,
+      0.5833333333333334
+    ],
+    "without_less-done_ils_rate": [
+      0.5,
+      0.5833333333333334
+    ],
+    "without_less-good_ils_rate": [
+      0.5,
+      0.5833333333333334
+    ],
+    "without_less-on_ils_rate": [
+      0.5,
+      0.5833333333333334
+    ],
+    "without_less-lost_rate": [
+      0.125,
+      0.0
+    ],
+    "without_less-leave_rate": [
+      0.0,
+      0.05555555555555555
+    ],
+    "without_less-other_rate": [
+      0.5,
+      0.4444444444444444
+    ],
+    "without_less-leave+other_rate": [
+      0.5,
+      0.5
+    ]
+  },
+  "000180/12": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000180/12/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_04//000180/12/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      52,
+      53
+    ],
+    "raw-total-can-ils": [
+      15,
+      21
+    ],
+    "raw-total-done-ils": [
+      15,
+      21
+    ],
+    "raw-total-good-ils": [
+      15,
+      21
+    ],
+    "raw-total-on-ils": [
+      15,
+      21
+    ],
+    "raw-total-missed": [
+      0,
+      0
+    ],
+    "raw-total-avg_len": [
+      2033.6346153846155,
+      2157.0188679245284
+    ],
+    "raw-land": [
+      13,
+      19
+    ],
+    "raw-land-can-ils": [
+      13,
+      19
+    ],
+    "raw-land-done-ils": [
+      13,
+      19
+    ],
+    "raw-land-good-ils": [
+      13,
+      19
+    ],
+    "raw-land-on-ils": [
+      13,
+      19
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      2286.4615384615386,
+      2384.0526315789475
+    ],
+    "raw-leave": [
+      0,
+      0
+    ],
+    "raw-leave-can-ils": [
+      0,
+      0
+    ],
+    "raw-leave-done-ils": [
+      0,
+      0
+    ],
+    "raw-leave-good-ils": [
+      0,
+      0
+    ],
+    "raw-leave-on-ils": [
+      0,
+      0
+    ],
+    "raw-leave-missed": [
+      0,
+      0
+    ],
+    "raw-leave-avg_len": [
+      0,
+      0
+    ],
+    "raw-lost": [
+      4,
+      2
+    ],
+    "raw-lost-can-ils": [
+      2,
+      0
+    ],
+    "raw-lost-done-ils": [
+      2,
+      0
+    ],
+    "raw-lost-good-ils": [
+      2,
+      0
+    ],
+    "raw-lost-on-ils": [
+      2,
+      0
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      2510.25,
+      2717.0
+    ],
+    "raw-less": [
+      22,
+      19
+    ],
+    "raw-less-can-ils": [
+      0,
+      1
+    ],
+    "raw-less-done-ils": [
+      0,
+      1
+    ],
+    "raw-less-good-ils": [
+      0,
+      1
+    ],
+    "raw-less-on-ils": [
+      0,
+      1
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      1001.4545454545455,
+      1004.2105263157895
+    ],
+    "raw-other": [
+      13,
+      13
+    ],
+    "raw-other-can-ils": [
+      0,
+      1
+    ],
+    "raw-other-done-ils": [
+      0,
+      1
+    ],
+    "raw-other-good-ils": [
+      0,
+      1
+    ],
+    "raw-other-on-ils": [
+      0,
+      1
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      3380.923076923077,
+      3423.923076923077
+    ],
+    "with_less-land_rate": [
+      0.25,
+      0.3584905660377358
+    ],
+    "with_less-can_ils_rate": [
+      0.28846153846153844,
+      0.39622641509433965
+    ],
+    "with_less-done_ils_rate": [
+      0.28846153846153844,
+      0.39622641509433965
+    ],
+    "with_less-good_ils_rate": [
+      0.28846153846153844,
+      0.39622641509433965
+    ],
+    "with_less-on_ils_rate": [
+      0.28846153846153844,
+      0.39622641509433965
+    ],
+    "with_less-lost_rate": [
+      0.07692307692307693,
+      0.03773584905660377
+    ],
+    "with_less-leave_rate": [
+      0.0,
+      0.0
+    ],
+    "with_less-less_rate": [
+      0.4230769230769231,
+      0.3584905660377358
+    ],
+    "with_less-other_rate": [
+      0.25,
+      0.24528301886792453
+    ],
+    "with_less-leave+less+other_rate": [
+      0.6730769230769231,
+      0.6037735849056604
+    ],
+    "without_less-land_rate": [
+      0.43333333333333335,
+      0.5588235294117647
+    ],
+    "without_less-can_ils_rate": [
+      0.5,
+      0.5882352941176471
+    ],
+    "without_less-done_ils_rate": [
+      0.5,
+      0.5882352941176471
+    ],
+    "without_less-good_ils_rate": [
+      0.5,
+      0.5882352941176471
+    ],
+    "without_less-on_ils_rate": [
+      0.5,
+      0.5882352941176471
+    ],
+    "without_less-lost_rate": [
+      0.13333333333333333,
+      0.058823529411764705
+    ],
+    "without_less-leave_rate": [
+      0.0,
+      0.0
+    ],
+    "without_less-other_rate": [
+      0.43333333333333335,
+      0.38235294117647056
+    ],
+    "without_less-leave+other_rate": [
+      0.43333333333333335,
+      0.38235294117647056
+    ]
+  },
+  "000200/06": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000200/06/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000200/06/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      52,
+      48
+    ],
+    "raw-total-can-ils": [
+      15,
+      18
+    ],
+    "raw-total-done-ils": [
+      15,
+      18
+    ],
+    "raw-total-good-ils": [
+      15,
+      18
+    ],
+    "raw-total-on-ils": [
+      15,
+      18
+    ],
+    "raw-total-missed": [
+      0,
+      0
+    ],
+    "raw-total-avg_len": [
+      1871.3653846153845,
+      2017.3333333333333
+    ],
+    "raw-land": [
+      12,
+      14
+    ],
+    "raw-land-can-ils": [
+      12,
+      14
+    ],
+    "raw-land-done-ils": [
+      12,
+      14
+    ],
+    "raw-land-good-ils": [
+      12,
+      14
+    ],
+    "raw-land-on-ils": [
+      12,
+      14
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      1487.5,
+      1435.2142857142858
+    ],
+    "raw-leave": [
+      0,
+      0
+    ],
+    "raw-leave-can-ils": [
+      0,
+      0
+    ],
+    "raw-leave-done-ils": [
+      0,
+      0
+    ],
+    "raw-leave-good-ils": [
+      0,
+      0
+    ],
+    "raw-leave-on-ils": [
+      0,
+      0
+    ],
+    "raw-leave-missed": [
+      0,
+      0
+    ],
+    "raw-leave-avg_len": [
+      0,
+      0
+    ],
+    "raw-lost": [
+      8,
+      2
+    ],
+    "raw-lost-can-ils": [
+      0,
+      0
+    ],
+    "raw-lost-done-ils": [
+      0,
+      0
+    ],
+    "raw-lost-good-ils": [
+      0,
+      0
+    ],
+    "raw-lost-on-ils": [
+      0,
+      0
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      3317.125,
+      2483.0
+    ],
+    "raw-less": [
+      20,
+      17
+    ],
+    "raw-less-can-ils": [
+      3,
+      4
+    ],
+    "raw-less-done-ils": [
+      3,
+      4
+    ],
+    "raw-less-good-ils": [
+      3,
+      4
+    ],
+    "raw-less-on-ils": [
+      3,
+      4
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      994.9,
+      929.2352941176471
+    ],
+    "raw-other": [
+      12,
+      15
+    ],
+    "raw-other-can-ils": [
+      0,
+      0
+    ],
+    "raw-other-done-ils": [
+      0,
+      0
+    ],
+    "raw-other-good-ils": [
+      0,
+      0
+    ],
+    "raw-other-on-ils": [
+      0,
+      0
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      2752.1666666666665,
+      3731.733333333333
+    ],
+    "with_less-land_rate": [
+      0.23076923076923078,
+      0.2916666666666667
+    ],
+    "with_less-can_ils_rate": [
+      0.28846153846153844,
+      0.375
+    ],
+    "with_less-done_ils_rate": [
+      0.28846153846153844,
+      0.375
+    ],
+    "with_less-good_ils_rate": [
+      0.28846153846153844,
+      0.375
+    ],
+    "with_less-on_ils_rate": [
+      0.28846153846153844,
+      0.375
+    ],
+    "with_less-lost_rate": [
+      0.15384615384615385,
+      0.041666666666666664
+    ],
+    "with_less-leave_rate": [
+      0.0,
+      0.0
+    ],
+    "with_less-less_rate": [
+      0.38461538461538464,
+      0.3541666666666667
+    ],
+    "with_less-other_rate": [
+      0.23076923076923078,
+      0.3125
+    ],
+    "with_less-leave+less+other_rate": [
+      0.6153846153846154,
+      0.6666666666666666
+    ],
+    "without_less-land_rate": [
+      0.375,
+      0.45161290322580644
+    ],
+    "without_less-can_ils_rate": [
+      0.375,
+      0.45161290322580644
+    ],
+    "without_less-done_ils_rate": [
+      0.375,
+      0.45161290322580644
+    ],
+    "without_less-good_ils_rate": [
+      0.375,
+      0.45161290322580644
+    ],
+    "without_less-on_ils_rate": [
+      0.375,
+      0.45161290322580644
+    ],
+    "without_less-lost_rate": [
+      0.25,
+      0.06451612903225806
+    ],
+    "without_less-leave_rate": [
+      0.0,
+      0.0
+    ],
+    "without_less-other_rate": [
+      0.375,
+      0.4838709677419355
+    ],
+    "without_less-leave+other_rate": [
+      0.375,
+      0.4838709677419355
+    ]
+  },
+  "000200/08": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000200/08/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000200/08/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      53,
+      50
+    ],
+    "raw-total-can-ils": [
+      18,
+      19
+    ],
+    "raw-total-done-ils": [
+      18,
+      19
+    ],
+    "raw-total-good-ils": [
+      18,
+      19
+    ],
+    "raw-total-on-ils": [
+      18,
+      19
+    ],
+    "raw-total-missed": [
+      0,
+      0
+    ],
+    "raw-total-avg_len": [
+      1993.8867924528302,
+      1693.36
+    ],
+    "raw-land": [
+      14,
+      16
+    ],
+    "raw-land-can-ils": [
+      14,
+      16
+    ],
+    "raw-land-done-ils": [
+      14,
+      16
+    ],
+    "raw-land-good-ils": [
+      14,
+      16
+    ],
+    "raw-land-on-ils": [
+      14,
+      16
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      1570.5,
+      1541.9375
+    ],
+    "raw-leave": [
+      0,
+      0
+    ],
+    "raw-leave-can-ils": [
+      0,
+      0
+    ],
+    "raw-leave-done-ils": [
+      0,
+      0
+    ],
+    "raw-leave-good-ils": [
+      0,
+      0
+    ],
+    "raw-leave-on-ils": [
+      0,
+      0
+    ],
+    "raw-leave-missed": [
+      0,
+      0
+    ],
+    "raw-leave-avg_len": [
+      0,
+      0
+    ],
+    "raw-lost": [
+      10,
+      8
+    ],
+    "raw-lost-can-ils": [
+      0,
+      0
+    ],
+    "raw-lost-done-ils": [
+      0,
+      0
+    ],
+    "raw-lost-good-ils": [
+      0,
+      0
+    ],
+    "raw-lost-on-ils": [
+      0,
+      0
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      3247.3,
+      2486.375
+    ],
+    "raw-less": [
+      17,
+      18
+    ],
+    "raw-less-can-ils": [
+      4,
+      3
+    ],
+    "raw-less-done-ils": [
+      4,
+      3
+    ],
+    "raw-less-good-ils": [
+      4,
+      3
+    ],
+    "raw-less-on-ils": [
+      4,
+      3
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      958.0588235294117,
+      856.6111111111111
+    ],
+    "raw-other": [
+      12,
+      8
+    ],
+    "raw-other-can-ils": [
+      0,
+      0
+    ],
+    "raw-other-done-ils": [
+      0,
+      0
+    ],
+    "raw-other-good-ils": [
+      0,
+      0
+    ],
+    "raw-other-on-ils": [
+      0,
+      0
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      2910.75,
+      3085.875
+    ],
+    "with_less-land_rate": [
+      0.2641509433962264,
+      0.32
+    ],
+    "with_less-can_ils_rate": [
+      0.33962264150943394,
+      0.38
+    ],
+    "with_less-done_ils_rate": [
+      0.33962264150943394,
+      0.38
+    ],
+    "with_less-good_ils_rate": [
+      0.33962264150943394,
+      0.38
+    ],
+    "with_less-on_ils_rate": [
+      0.33962264150943394,
+      0.38
+    ],
+    "with_less-lost_rate": [
+      0.18867924528301888,
+      0.16
+    ],
+    "with_less-leave_rate": [
+      0.0,
+      0.0
+    ],
+    "with_less-less_rate": [
+      0.32075471698113206,
+      0.36
+    ],
+    "with_less-other_rate": [
+      0.22641509433962265,
+      0.16
+    ],
+    "with_less-leave+less+other_rate": [
+      0.5471698113207547,
+      0.52
+    ],
+    "without_less-land_rate": [
+      0.3888888888888889,
+      0.5
+    ],
+    "without_less-can_ils_rate": [
+      0.3888888888888889,
+      0.5
+    ],
+    "without_less-done_ils_rate": [
+      0.3888888888888889,
+      0.5
+    ],
+    "without_less-good_ils_rate": [
+      0.3888888888888889,
+      0.5
+    ],
+    "without_less-on_ils_rate": [
+      0.3888888888888889,
+      0.5
+    ],
+    "without_less-lost_rate": [
+      0.2777777777777778,
+      0.25
+    ],
+    "without_less-leave_rate": [
+      0.0,
+      0.0
+    ],
+    "without_less-other_rate": [
+      0.3333333333333333,
+      0.25
+    ],
+    "without_less-leave+other_rate": [
+      0.3333333333333333,
+      0.25
+    ]
+  },
+  "000200/10": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000200/10/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000200/10/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      52,
+      49
+    ],
+    "raw-total-can-ils": [
+      16,
+      13
+    ],
+    "raw-total-done-ils": [
+      15,
+      13
+    ],
+    "raw-total-good-ils": [
+      15,
+      13
+    ],
+    "raw-total-on-ils": [
+      15,
+      13
+    ],
+    "raw-total-missed": [
+      1,
+      0
+    ],
+    "raw-total-avg_len": [
+      1620.173076923077,
+      2137.795918367347
+    ],
+    "raw-land": [
+      14,
+      12
+    ],
+    "raw-land-can-ils": [
+      14,
+      12
+    ],
+    "raw-land-done-ils": [
+      14,
+      12
+    ],
+    "raw-land-good-ils": [
+      14,
+      12
+    ],
+    "raw-land-on-ils": [
+      14,
+      12
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      1505.357142857143,
+      1562.3333333333333
+    ],
+    "raw-leave": [
+      1,
+      0
+    ],
+    "raw-leave-can-ils": [
+      1,
+      0
+    ],
+    "raw-leave-done-ils": [
+      1,
+      0
+    ],
+    "raw-leave-good-ils": [
+      1,
+      0
+    ],
+    "raw-leave-on-ils": [
+      1,
+      0
+    ],
+    "raw-leave-missed": [
+      1,
+      0
+    ],
+    "raw-leave-avg_len": [
+      1701.0,
+      0
+    ],
+    "raw-lost": [
+      6,
+      10
+    ],
+    "raw-lost-can-ils": [
+      0,
+      0
+    ],
+    "raw-lost-done-ils": [
+      0,
+      0
+    ],
+    "raw-lost-good-ils": [
+      0,
+      0
+    ],
+    "raw-lost-on-ils": [
+      0,
+      0
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      1908.3333333333333,
+      3301.1
+    ],
+    "raw-less": [
+      21,
+      16
+    ],
+    "raw-less-can-ils": [
+      1,
+      1
+    ],
+    "raw-less-done-ils": [
+      0,
+      1
+    ],
+    "raw-less-good-ils": [
+      0,
+      1
+    ],
+    "raw-less-on-ils": [
+      0,
+      1
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      807.2380952380952,
+      911.9375
+    ],
+    "raw-other": [
+      10,
+      11
+    ],
+    "raw-other-can-ils": [
+      0,
+      0
+    ],
+    "raw-other-done-ils": [
+      0,
+      0
+    ],
+    "raw-other-good-ils": [
+      0,
+      0
+    ],
+    "raw-other-on-ils": [
+      0,
+      0
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      3307.1,
+      3491.090909090909
+    ],
+    "with_less-land_rate": [
+      0.2692307692307692,
+      0.24489795918367346
+    ],
+    "with_less-can_ils_rate": [
+      0.3076923076923077,
+      0.2653061224489796
+    ],
+    "with_less-done_ils_rate": [
+      0.28846153846153844,
+      0.2653061224489796
+    ],
+    "with_less-good_ils_rate": [
+      0.28846153846153844,
+      0.2653061224489796
+    ],
+    "with_less-on_ils_rate": [
+      0.28846153846153844,
+      0.2653061224489796
+    ],
+    "with_less-lost_rate": [
+      0.11538461538461539,
+      0.20408163265306123
+    ],
+    "with_less-leave_rate": [
+      0.019230769230769232,
+      0.0
+    ],
+    "with_less-less_rate": [
+      0.40384615384615385,
+      0.32653061224489793
+    ],
+    "with_less-other_rate": [
+      0.19230769230769232,
+      0.22448979591836735
+    ],
+    "with_less-leave+less+other_rate": [
+      0.6153846153846154,
+      0.5510204081632653
+    ],
+    "without_less-land_rate": [
+      0.45161290322580644,
+      0.36363636363636365
+    ],
+    "without_less-can_ils_rate": [
+      0.4838709677419355,
+      0.36363636363636365
+    ],
+    "without_less-done_ils_rate": [
+      0.4838709677419355,
+      0.36363636363636365
+    ],
+    "without_less-good_ils_rate": [
+      0.4838709677419355,
+      0.36363636363636365
+    ],
+    "without_less-on_ils_rate": [
+      0.4838709677419355,
+      0.36363636363636365
+    ],
+    "without_less-lost_rate": [
+      0.1935483870967742,
+      0.30303030303030304
+    ],
+    "without_less-leave_rate": [
+      0.03225806451612903,
+      0.0
+    ],
+    "without_less-other_rate": [
+      0.3225806451612903,
+      0.3333333333333333
+    ],
+    "without_less-leave+other_rate": [
+      0.3548387096774194,
+      0.3333333333333333
+    ]
+  },
+  "000200/12": {
+    "fname": [
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000200/12/020-000/parsed/callsigns_info-05000.json",
+      "../save/rjtt-s-v1.4/int/2026_08_12-12_49_09//000200/12/020-001/parsed/callsigns_info-05000.json"
+    ],
+    "raw-total": [
+      53,
+      48
+    ],
+    "raw-total-can-ils": [
+      17,
+      15
+    ],
+    "raw-total-done-ils": [
+      16,
+      15
+    ],
+    "raw-total-good-ils": [
+      16,
+      15
+    ],
+    "raw-total-on-ils": [
+      16,
+      15
+    ],
+    "raw-total-missed": [
+      1,
+      1
+    ],
+    "raw-total-avg_len": [
+      2132.6792452830186,
+      2067.1875
+    ],
+    "raw-land": [
+      15,
+      14
+    ],
+    "raw-land-can-ils": [
+      15,
+      14
+    ],
+    "raw-land-done-ils": [
+      15,
+      14
+    ],
+    "raw-land-good-ils": [
+      15,
+      14
+    ],
+    "raw-land-on-ils": [
+      15,
+      14
+    ],
+    "raw-land-missed": [
+      0,
+      0
+    ],
+    "raw-land-avg_len": [
+      1562.9333333333334,
+      1508.2142857142858
+    ],
+    "raw-leave": [
+      1,
+      1
+    ],
+    "raw-leave-can-ils": [
+      1,
+      1
+    ],
+    "raw-leave-done-ils": [
+      1,
+      1
+    ],
+    "raw-leave-good-ils": [
+      1,
+      1
+    ],
+    "raw-leave-on-ils": [
+      1,
+      1
+    ],
+    "raw-leave-missed": [
+      1,
+      1
+    ],
+    "raw-leave-avg_len": [
+      2892.0,
+      1705.0
+    ],
+    "raw-lost": [
+      10,
+      8
+    ],
+    "raw-lost-can-ils": [
+      0,
+      0
+    ],
+    "raw-lost-done-ils": [
+      0,
+      0
+    ],
+    "raw-lost-good-ils": [
+      0,
+      0
+    ],
+    "raw-lost-on-ils": [
+      0,
+      0
+    ],
+    "raw-lost-missed": [
+      0,
+      0
+    ],
+    "raw-lost-avg_len": [
+      3352.3,
+      2865.0
+    ],
+    "raw-less": [
+      14,
+      12
+    ],
+    "raw-less-can-ils": [
+      1,
+      0
+    ],
+    "raw-less-done-ils": [
+      0,
+      0
+    ],
+    "raw-less-good-ils": [
+      0,
+      0
+    ],
+    "raw-less-on-ils": [
+      0,
+      0
+    ],
+    "raw-less-missed": [
+      0,
+      0
+    ],
+    "raw-less-avg_len": [
+      823.0714285714286,
+      782.0
+    ],
+    "raw-other": [
+      13,
+      13
+    ],
+    "raw-other-can-ils": [
+      0,
+      0
+    ],
+    "raw-other-done-ils": [
+      0,
+      0
+    ],
+    "raw-other-good-ils": [
+      0,
+      0
+    ],
+    "raw-other-on-ils": [
+      0,
+      0
+    ],
+    "raw-other-missed": [
+      0,
+      0
+    ],
+    "raw-other-avg_len": [
+      3203.846153846154,
+      3392.3846153846152
+    ],
+    "with_less-land_rate": [
+      0.2830188679245283,
+      0.2916666666666667
+    ],
+    "with_less-can_ils_rate": [
+      0.32075471698113206,
+      0.3125
+    ],
+    "with_less-done_ils_rate": [
+      0.3018867924528302,
+      0.3125
+    ],
+    "with_less-good_ils_rate": [
+      0.3018867924528302,
+      0.3125
+    ],
+    "with_less-on_ils_rate": [
+      0.3018867924528302,
+      0.3125
+    ],
+    "with_less-lost_rate": [
+      0.18867924528301888,
+      0.16666666666666666
+    ],
+    "with_less-leave_rate": [
+      0.018867924528301886,
+      0.020833333333333332
+    ],
+    "with_less-less_rate": [
+      0.2641509433962264,
+      0.25
+    ],
+    "with_less-other_rate": [
+      0.24528301886792453,
+      0.2708333333333333
+    ],
+    "with_less-leave+less+other_rate": [
+      0.5283018867924528,
+      0.5416666666666666
+    ],
+    "without_less-land_rate": [
+      0.38461538461538464,
+      0.3888888888888889
+    ],
+    "without_less-can_ils_rate": [
+      0.41025641025641024,
+      0.4166666666666667
+    ],
+    "without_less-done_ils_rate": [
+      0.41025641025641024,
+      0.4166666666666667
+    ],
+    "without_less-good_ils_rate": [
+      0.41025641025641024,
+      0.4166666666666667
+    ],
+    "without_less-on_ils_rate": [
+      0.41025641025641024,
+      0.4166666666666667
+    ],
+    "without_less-lost_rate": [
+      0.2564102564102564,
+      0.2222222222222222
+    ],
+    "without_less-leave_rate": [
+      0.02564102564102564,
+      0.027777777777777776
+    ],
+    "without_less-other_rate": [
+      0.3333333333333333,
+      0.3611111111111111
+    ],
+    "without_less-leave+other_rate": [
+      0.358974358974359,
+      0.3888888888888889
+    ]
+  }
+}

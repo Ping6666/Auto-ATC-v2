@@ -1,0 +1,5 @@
+2026-08-19 22:22:18 - core.utils - INFO - args = Namespace(save_folder='../save/rctp-s-v1.4/int_report/', nargs_int_folder=['../save/rctp-s-v1.4/int/2026_08_16-10_45_04/', '../save/rctp-s-v1.4/int/2026_08_16-10_45_08/'], num_pred=20, ckpt_idx=[120, 140, 160], nargs_take_idx=[6], num_exp=6, save_step=10000, num_timestamps=90000)
+2026-08-19 22:22:18 - core.utils - INFO - exp_idx_list = [0, 1, 2, 3, 4, 5]
+2026-08-19 22:22:18 - core.utils - INFO - time_idx_list = [10000, 20000, 30000, 40000, 50000, 60000, 70000, 80000, 90000]
+2026-08-19 22:22:18 - core.utils - INFO - game_name_list = ['000120/06', '000140/06', '000160/06']
+2026-08-19 22:22:24 - core.utils - INFO - DONE
